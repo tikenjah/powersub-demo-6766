@@ -1,2 +1,3 @@
 0488. ♻️ chore: add GitHub actions badge
 0051. ✨ feat: enable dark mode toggle
+0477. 🐛 fix: fix broken CSS in mobile view
