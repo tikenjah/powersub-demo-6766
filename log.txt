@@ -5000,3 +5000,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0998. 🐛 fix: fix null pointer exception on login
 0385. ♻️ chore: clean up unused files
+0994. 🚀 perf: reduce image load time
