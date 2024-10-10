@@ -1,1 +1,2 @@
 0488. ♻️ chore: add GitHub actions badge
+0051. ✨ feat: enable dark mode toggle
