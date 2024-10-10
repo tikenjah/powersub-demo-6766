@@ -6001,3 +6001,4 @@
 0922. 📚 docs: write FAQ section
 0810. 🔧 refactor: refactor quiz grading logic
 0902. ✨ feat: enable dark mode toggle
+0204. 🎨 style: standardize quote style
