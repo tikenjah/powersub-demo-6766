@@ -19,3 +19,4 @@
 0889. 🚀 perf: lazy-load components
 0615. 🐛 fix: correct typo in registration form
 0338. ♻️ chore: add GitHub actions badge
+0942. ✅ test: increase coverage on auth module
