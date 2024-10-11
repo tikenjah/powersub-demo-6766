@@ -21,3 +21,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0942. ✅ test: increase coverage on auth module
 0356. 📚 docs: write FAQ section
+0963. 🚀 perf: reduce image load time
