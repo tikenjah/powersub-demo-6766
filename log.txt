@@ -10002,3 +10002,4 @@
 0354. 📚 docs: add API usage examples
 0860. 🔧 refactor: organize models into subfolders
 0953. 🎨 style: remove trailing whitespace
+0525. ✅ test: mock database connection in test suite
