@@ -22,3 +22,4 @@
 0942. ✅ test: increase coverage on auth module
 0356. 📚 docs: write FAQ section
 0963. 🚀 perf: reduce image load time
+0820. 📚 docs: add API usage examples
