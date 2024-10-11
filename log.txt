@@ -13,3 +13,4 @@
 0027. 📚 docs: clarify environment setup
 0813. 🔧 refactor: organize models into subfolders
 0539. 🔧 refactor: organize models into subfolders
+0291. 📚 docs: write FAQ section
