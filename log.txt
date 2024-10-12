@@ -10007,3 +10007,4 @@
 0404. 📚 docs: improve code comments in utils
 0316. 🐛 fix: fix broken CSS in mobile view
 0978. 🐛 fix: prevent crash on empty input
+0493. ✨ feat: add user authentication
