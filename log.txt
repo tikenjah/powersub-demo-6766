@@ -24,3 +24,4 @@
 0963. 🚀 perf: reduce image load time
 0820. 📚 docs: add API usage examples
 0746. ♻️ chore: add GitHub actions badge
+0134. ✨ feat: implement quiz timer feature
