@@ -8004,3 +8004,4 @@
 0942. ✅ test: increase coverage on auth module
 0935. 📚 docs: update README with setup steps
 0726. ✨ feat: enable dark mode toggle
+0917. ✅ test: add integration test for /submit endpoint
