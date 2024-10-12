@@ -5005,3 +5005,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0163. ✨ feat: implement quiz timer feature
 0746. ♻️ chore: add GitHub actions badge
+0875. ✅ test: increase coverage on auth module
