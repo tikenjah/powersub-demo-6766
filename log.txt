@@ -38,3 +38,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0129. 🔧 refactor: organize models into subfolders
 0935. 📚 docs: update README with setup steps
+0262. 🎨 style: remove trailing whitespace
