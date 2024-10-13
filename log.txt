@@ -8008,3 +8008,4 @@
 0119. 📚 docs: improve code comments in utils
 0136. 🚀 perf: lazy-load components
 0524. ♻️ chore: rename env.example
+0801. ✨ feat: enable dark mode toggle
