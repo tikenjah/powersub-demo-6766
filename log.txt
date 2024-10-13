@@ -53,3 +53,4 @@
 0234. ♻️ chore: rename env.example
 0305. ✨ feat: enable dark mode toggle
 0537. 🔧 refactor: remove redundant code blocks
+0306. 🎨 style: apply consistent indentation
