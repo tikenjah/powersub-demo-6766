@@ -41,3 +41,4 @@
 0262. 🎨 style: remove trailing whitespace
 0952. 🔧 refactor: split large controller into smaller functions
 0174. 📚 docs: clarify environment setup
+0206. 🐛 fix: handle 500 error in quiz API
