@@ -6008,3 +6008,4 @@
 0078. ♻️ chore: update .gitignore
 0225. 🚀 perf: reduce image load time
 0257. 📚 docs: clarify environment setup
+0336. ✨ feat: add export to CSV option
