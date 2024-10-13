@@ -6006,3 +6006,4 @@
 0312. ✨ feat: add user authentication
 0735. ♻️ chore: add GitHub actions badge
 0078. ♻️ chore: update .gitignore
+0225. 🚀 perf: reduce image load time
