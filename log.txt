@@ -65,3 +65,4 @@
 0852. ✨ feat: enable dark mode toggle
 0499. 🎨 style: reformat files with black
 0291. 📚 docs: write FAQ section
+0816. 🔧 refactor: organize models into subfolders
