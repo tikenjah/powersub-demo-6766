@@ -62,3 +62,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0697. ♻️ chore: bump dependencies
 0902. ✨ feat: enable dark mode toggle
+0852. ✨ feat: enable dark mode toggle
