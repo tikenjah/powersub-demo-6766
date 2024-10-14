@@ -8010,3 +8010,4 @@
 0524. ♻️ chore: rename env.example
 0801. ✨ feat: enable dark mode toggle
 0252. 🎨 style: remove trailing whitespace
+0565. ♻️ chore: add GitHub actions badge
