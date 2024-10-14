@@ -70,3 +70,4 @@
 0446. 🎨 style: apply consistent indentation
 0743. 🎨 style: apply consistent indentation
 0851. ✅ test: mock database connection in test suite
+0518. ✨ feat: support email verification
