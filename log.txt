@@ -66,3 +66,4 @@
 0499. 🎨 style: reformat files with black
 0291. 📚 docs: write FAQ section
 0816. 🔧 refactor: organize models into subfolders
+0721. 🚀 perf: optimize database query for quiz results
