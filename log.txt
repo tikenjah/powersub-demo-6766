@@ -61,3 +61,4 @@
 0843. 📚 docs: document token refresh logic
 0653. 🐛 fix: prevent crash on empty input
 0697. ♻️ chore: bump dependencies
+0902. ✨ feat: enable dark mode toggle
