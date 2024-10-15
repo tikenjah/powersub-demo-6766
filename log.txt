@@ -77,3 +77,4 @@
 0247. 🎨 style: apply consistent indentation
 0221. ✨ feat: add user authentication
 0219. ✅ test: increase coverage on auth module
+0576. ♻️ chore: update .gitignore
