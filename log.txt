@@ -78,3 +78,4 @@
 0221. ✨ feat: add user authentication
 0219. ✅ test: increase coverage on auth module
 0576. ♻️ chore: update .gitignore
+0397. 🐛 fix: handle 500 error in quiz API
