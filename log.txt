@@ -6011,3 +6011,4 @@
 0336. ✨ feat: add export to CSV option
 0578. ✅ test: add integration test for /submit endpoint
 0011. ✅ test: add unit test for quiz service
+0614. 🚀 perf: reduce image load time
