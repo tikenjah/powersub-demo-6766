@@ -6013,3 +6013,4 @@
 0011. ✅ test: add unit test for quiz service
 0614. 🚀 perf: reduce image load time
 0604. 📚 docs: add API usage examples
+0409. 🚀 perf: lazy-load components
