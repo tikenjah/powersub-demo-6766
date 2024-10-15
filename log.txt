@@ -8013,3 +8013,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0859. ✨ feat: create admin dashboard
 0655. 🚀 perf: cache repeated calculations
+0372. ✨ feat: add user authentication
