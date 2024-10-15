@@ -74,3 +74,4 @@
 0132. ✅ test: add unit test for quiz service
 0575. ✅ test: add unit test for quiz service
 0593. 🐛 fix: correct typo in registration form
+0247. 🎨 style: apply consistent indentation
