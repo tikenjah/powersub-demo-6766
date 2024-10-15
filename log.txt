@@ -88,3 +88,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0726. ✨ feat: enable dark mode toggle
 0508. ✅ test: add unit test for quiz service
+0170. ✅ test: increase coverage on auth module
