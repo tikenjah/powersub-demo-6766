@@ -9019,3 +9019,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0860. 🔧 refactor: organize models into subfolders
 0905. ♻️ chore: bump dependencies
+0177. 📚 docs: add API usage examples
