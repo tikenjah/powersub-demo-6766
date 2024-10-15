@@ -76,3 +76,4 @@
 0593. 🐛 fix: correct typo in registration form
 0247. 🎨 style: apply consistent indentation
 0221. ✨ feat: add user authentication
+0219. ✅ test: increase coverage on auth module
