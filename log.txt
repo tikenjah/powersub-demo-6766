@@ -9016,3 +9016,4 @@
 0912. 📚 docs: document token refresh logic
 0933. 📚 docs: clarify environment setup
 0033. 🎨 style: apply consistent indentation
+0546. 🐛 fix: fix null pointer exception on login
