@@ -102,3 +102,4 @@
 0870. ♻️ chore: clean up unused files
 0513. ♻️ chore: bump dependencies
 0536. ✨ feat: add user authentication
+0381. ♻️ chore: clean up unused files
