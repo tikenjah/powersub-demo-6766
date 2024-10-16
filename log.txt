@@ -96,3 +96,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0287. 📚 docs: write FAQ section
 0317. ✅ test: test user registration edge cases
+0539. 🔧 refactor: organize models into subfolders
