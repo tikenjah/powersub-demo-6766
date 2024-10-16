@@ -7012,3 +7012,4 @@
 0358. 🚀 perf: reduce image load time
 0352. ✨ feat: add export to CSV option
 0559. 🔧 refactor: split large controller into smaller functions
+0827. 🚀 perf: optimize database query for quiz results
