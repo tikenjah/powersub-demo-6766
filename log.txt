@@ -117,3 +117,4 @@
 0451. ✨ feat: support email verification
 0050. ✨ feat: enable dark mode toggle
 0729. 🔧 refactor: refactor quiz grading logic
+0593. 🐛 fix: correct typo in registration form
