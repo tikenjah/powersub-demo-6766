@@ -122,3 +122,4 @@
 0471. ✨ feat: support email verification
 0350. 🚀 perf: cache repeated calculations
 0109. 🚀 perf: lazy-load components
+0135. ✅ test: test user registration edge cases
