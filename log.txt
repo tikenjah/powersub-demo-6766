@@ -6020,3 +6020,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0419. 🎨 style: remove trailing whitespace
 0273. 🚀 perf: reduce image load time
+0875. ✅ test: increase coverage on auth module
