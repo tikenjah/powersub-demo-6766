@@ -7016,3 +7016,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0327. 🔧 refactor: split large controller into smaller functions
 0699. 🎨 style: standardize quote style
+0599. ✅ test: test user registration edge cases
