@@ -136,3 +136,4 @@
 0010. ✨ feat: add user authentication
 0814. 🔧 refactor: remove redundant code blocks
 0480. ♻️ chore: add GitHub actions badge
+0091. ✨ feat: add user authentication
