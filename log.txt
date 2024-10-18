@@ -126,3 +126,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0041. 🐛 fix: fix broken CSS in mobile view
 0117. ✅ test: increase coverage on auth module
+0649. 📚 docs: update README with setup steps
