@@ -129,3 +129,4 @@
 0649. 📚 docs: update README with setup steps
 0910. 🎨 style: remove trailing whitespace
 0416. 🎨 style: rename variables for clarity
+0330. ✅ test: test user registration edge cases
