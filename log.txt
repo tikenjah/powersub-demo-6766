@@ -130,3 +130,4 @@
 0910. 🎨 style: remove trailing whitespace
 0416. 🎨 style: rename variables for clarity
 0330. ✅ test: test user registration edge cases
+0766. 🎨 style: reformat files with black
