@@ -5020,3 +5020,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0876. ♻️ chore: rename env.example
 0727. ♻️ chore: add GitHub actions badge
+0315. ✅ test: add integration test for /submit endpoint
