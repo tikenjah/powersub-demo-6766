@@ -9028,3 +9028,4 @@
 0714. 📚 docs: improve code comments in utils
 0285. 🐛 fix: resolve issue with date parsing
 0083. 🎨 style: reformat files with black
+0201. 🔧 refactor: clean up auth middleware
