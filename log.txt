@@ -8022,3 +8022,4 @@
 0842. 🎨 style: remove trailing whitespace
 0563. 📚 docs: clarify environment setup
 0901. ✨ feat: add user authentication
+0978. 🐛 fix: prevent crash on empty input
