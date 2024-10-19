@@ -8021,3 +8021,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0842. 🎨 style: remove trailing whitespace
 0563. 📚 docs: clarify environment setup
+0901. ✨ feat: add user authentication
