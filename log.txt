@@ -143,3 +143,4 @@
 0782. 📚 docs: improve code comments in utils
 0674. 🔧 refactor: split large controller into smaller functions
 0404. 📚 docs: improve code comments in utils
+0583. ✅ test: increase coverage on auth module
