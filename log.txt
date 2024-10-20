@@ -6029,3 +6029,4 @@
 0987. ✨ feat: create admin dashboard
 0205. 📚 docs: update README with setup steps
 0464. 🎨 style: remove trailing whitespace
+0726. ✨ feat: enable dark mode toggle
