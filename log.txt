@@ -147,3 +147,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0138. 🎨 style: rename variables for clarity
 0723. 🔧 refactor: remove redundant code blocks
+0268. 🐛 fix: prevent crash on empty input
