@@ -154,3 +154,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0627. 📚 docs: document token refresh logic
 0711. 🐛 fix: fix broken CSS in mobile view
+0559. 🔧 refactor: split large controller into smaller functions
