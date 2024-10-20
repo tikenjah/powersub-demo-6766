@@ -150,3 +150,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0281. ✨ feat: support email verification
 0709. ♻️ chore: bump dependencies
+0708. ✅ test: add integration test for /submit endpoint
