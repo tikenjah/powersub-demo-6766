@@ -168,3 +168,4 @@
 0195. 📚 docs: clarify environment setup
 0332. 🎨 style: standardize quote style
 0548. 📚 docs: write FAQ section
+0978. 🐛 fix: prevent crash on empty input
