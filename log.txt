@@ -162,3 +162,4 @@
 0667. ✨ feat: add export to CSV option
 0719. 🎨 style: apply consistent indentation
 0514. 🐛 fix: fix broken CSS in mobile view
+0453. 🎨 style: standardize quote style
