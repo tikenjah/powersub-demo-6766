@@ -7031,3 +7031,4 @@
 0409. 🚀 perf: lazy-load components
 0804. ♻️ chore: add GitHub actions badge
 0003. ✅ test: increase coverage on auth module
+0085. ✨ feat: support email verification
