@@ -169,3 +169,4 @@
 0332. 🎨 style: standardize quote style
 0548. 📚 docs: write FAQ section
 0978. 🐛 fix: prevent crash on empty input
+0900. 🐛 fix: handle 500 error in quiz API
