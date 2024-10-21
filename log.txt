@@ -7025,3 +7025,4 @@
 0771. 🚀 perf: cache repeated calculations
 0766. 🎨 style: reformat files with black
 0901. ✨ feat: add user authentication
+0797. 📚 docs: add API usage examples
