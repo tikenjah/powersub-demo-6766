@@ -177,3 +177,4 @@
 0857. 🎨 style: rename variables for clarity
 0329. 📚 docs: update README with setup steps
 0156. 🎨 style: rename variables for clarity
+0885. ♻️ chore: update .gitignore
