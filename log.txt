@@ -173,3 +173,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0103. 🔧 refactor: remove redundant code blocks
 0739. 🎨 style: remove trailing whitespace
+0271. ✅ test: add unit test for quiz service
