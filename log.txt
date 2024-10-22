@@ -8030,3 +8030,4 @@
 0393. 🚀 perf: lazy-load components
 0529. 📚 docs: write FAQ section
 0017. ✅ test: mock database connection in test suite
+0575. ✅ test: add unit test for quiz service
