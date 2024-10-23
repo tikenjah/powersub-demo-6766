@@ -189,3 +189,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0942. ✅ test: increase coverage on auth module
 0384. 📚 docs: clarify environment setup
+0680. ♻️ chore: add GitHub actions badge
