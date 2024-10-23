@@ -188,3 +188,4 @@
 0141. 📚 docs: document token refresh logic
 0710. 🐛 fix: fix broken CSS in mobile view
 0942. ✅ test: increase coverage on auth module
+0384. 📚 docs: clarify environment setup
