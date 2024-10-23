@@ -186,3 +186,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0087. ✨ feat: add export to CSV option
 0141. 📚 docs: document token refresh logic
+0710. 🐛 fix: fix broken CSS in mobile view
