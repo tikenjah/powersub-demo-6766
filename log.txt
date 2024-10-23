@@ -187,3 +187,4 @@
 0087. ✨ feat: add export to CSV option
 0141. 📚 docs: document token refresh logic
 0710. 🐛 fix: fix broken CSS in mobile view
+0942. ✅ test: increase coverage on auth module
