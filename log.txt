@@ -10026,3 +10026,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0098. 🎨 style: rename variables for clarity
 0043. ✅ test: add integration test for /submit endpoint
+0514. 🐛 fix: fix broken CSS in mobile view
