@@ -194,3 +194,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0822. 🔧 refactor: remove redundant code blocks
 0212. 🎨 style: standardize quote style
+0939. 📚 docs: update README with setup steps
