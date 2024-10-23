@@ -5034,3 +5034,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0426. ✅ test: add integration test for /submit endpoint
 0241. 📚 docs: add API usage examples
+0198. 📚 docs: clarify environment setup
