@@ -178,3 +178,4 @@
 0329. 📚 docs: update README with setup steps
 0156. 🎨 style: rename variables for clarity
 0885. ♻️ chore: update .gitignore
+0125. ✅ test: add integration test for /submit endpoint
