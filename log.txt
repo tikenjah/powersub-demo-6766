@@ -9038,3 +9038,4 @@
 0844. 📚 docs: update README with setup steps
 0565. ♻️ chore: add GitHub actions badge
 0461. ✨ feat: add user authentication
+0121. ✨ feat: support email verification
