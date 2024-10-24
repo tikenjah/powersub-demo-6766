@@ -200,3 +200,4 @@
 0516. ✅ test: add unit test for quiz service
 0685. ✅ test: test user registration edge cases
 0090. ✅ test: increase coverage on auth module
+0278. 🔧 refactor: clean up auth middleware
