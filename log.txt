@@ -9040,3 +9040,4 @@
 0461. ✨ feat: add user authentication
 0121. ✨ feat: support email verification
 0034. 📚 docs: improve code comments in utils
+0531. 🐛 fix: prevent crash on empty input
