@@ -204,3 +204,4 @@
 0237. 🎨 style: standardize quote style
 0414. 🔧 refactor: remove redundant code blocks
 0106. 🎨 style: reformat files with black
+0573. ✅ test: add integration test for /submit endpoint
