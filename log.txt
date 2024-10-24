@@ -6035,3 +6035,4 @@
 0866. 📚 docs: add API usage examples
 0970. ♻️ chore: update .gitignore
 0574. ✨ feat: enable dark mode toggle
+0962. ✨ feat: create admin dashboard
