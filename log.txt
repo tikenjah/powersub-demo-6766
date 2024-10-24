@@ -8033,3 +8033,4 @@
 0575. ✅ test: add unit test for quiz service
 0928. 🎨 style: apply consistent indentation
 0133. 🐛 fix: fix null pointer exception on login
+0773. 📚 docs: document token refresh logic
