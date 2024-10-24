@@ -9044,3 +9044,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0159. 🚀 perf: lazy-load components
 0950. 🎨 style: reformat files with black
+0636. ✅ test: increase coverage on auth module
