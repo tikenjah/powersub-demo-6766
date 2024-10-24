@@ -198,3 +198,4 @@
 0160. ♻️ chore: bump dependencies
 0710. 🐛 fix: fix broken CSS in mobile view
 0516. ✅ test: add unit test for quiz service
+0685. ✅ test: test user registration edge cases
