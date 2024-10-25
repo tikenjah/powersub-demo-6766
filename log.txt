@@ -10036,3 +10036,4 @@
 0622. 🎨 style: apply consistent indentation
 0547. 📚 docs: write FAQ section
 0137. 🎨 style: rename variables for clarity
+0780. 📚 docs: add API usage examples
