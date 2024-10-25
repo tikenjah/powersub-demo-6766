@@ -7041,3 +7041,4 @@
 0160. ♻️ chore: bump dependencies
 0262. 🎨 style: remove trailing whitespace
 0184. 📚 docs: improve code comments in utils
+0668. 🚀 perf: optimize database query for quiz results
