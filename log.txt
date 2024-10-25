@@ -215,3 +215,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0933. 📚 docs: clarify environment setup
 0209. ✨ feat: implement quiz timer feature
+0227. ✅ test: test user registration edge cases
