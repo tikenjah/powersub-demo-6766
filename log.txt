@@ -219,3 +219,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0701. 🔧 refactor: clean up auth middleware
 0478. 🐛 fix: resolve issue with date parsing
+0531. 🐛 fix: prevent crash on empty input
