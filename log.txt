@@ -10034,3 +10034,4 @@
 0908. ♻️ chore: bump dependencies
 0862. ♻️ chore: bump dependencies
 0622. 🎨 style: apply consistent indentation
+0547. 📚 docs: write FAQ section
