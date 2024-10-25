@@ -206,3 +206,4 @@
 0106. 🎨 style: reformat files with black
 0573. ✅ test: add integration test for /submit endpoint
 0924. ✅ test: mock database connection in test suite
+0721. 🚀 perf: optimize database query for quiz results
