@@ -230,3 +230,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0266. 🔧 refactor: remove redundant code blocks
 0585. 🚀 perf: lazy-load components
+0517. ✅ test: mock database connection in test suite
