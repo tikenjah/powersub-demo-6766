@@ -234,3 +234,4 @@
 0712. 🎨 style: apply consistent indentation
 0509. ♻️ chore: bump dependencies
 0391. 🐛 fix: fix null pointer exception on login
+0923. ✨ feat: support email verification
