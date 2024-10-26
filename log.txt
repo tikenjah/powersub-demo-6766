@@ -5045,3 +5045,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0871. ✅ test: add integration test for /submit endpoint
 0749. ✨ feat: support email verification
+0268. 🐛 fix: prevent crash on empty input
