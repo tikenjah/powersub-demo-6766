@@ -5042,3 +5042,4 @@
 0615. 🐛 fix: correct typo in registration form
 0360. ✨ feat: add export to CSV option
 0532. 🔧 refactor: split large controller into smaller functions
+0110. 🐛 fix: prevent crash on empty input
