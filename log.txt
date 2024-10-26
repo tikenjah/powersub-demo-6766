@@ -9046,3 +9046,4 @@
 0950. 🎨 style: reformat files with black
 0636. ✅ test: increase coverage on auth module
 0487. 🎨 style: reformat files with black
+0692. ✅ test: add integration test for /submit endpoint
