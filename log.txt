@@ -5047,3 +5047,4 @@
 0749. ✨ feat: support email verification
 0268. 🐛 fix: prevent crash on empty input
 0367. 🐛 fix: fix null pointer exception on login
+0633. ✨ feat: add user authentication
