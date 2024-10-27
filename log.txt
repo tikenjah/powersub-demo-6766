@@ -238,3 +238,4 @@
 0370. 🚀 perf: reduce image load time
 0910. 🎨 style: remove trailing whitespace
 0281. ✨ feat: support email verification
+0754. 🐛 fix: handle 500 error in quiz API
