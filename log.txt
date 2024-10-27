@@ -10042,3 +10042,4 @@
 0112. ✨ feat: enable dark mode toggle
 0739. 🎨 style: remove trailing whitespace
 0641. 📚 docs: write FAQ section
+0120. ✅ test: add integration test for /submit endpoint
