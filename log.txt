@@ -242,3 +242,4 @@
 0463. 🚀 perf: reduce image load time
 0934. ✨ feat: support email verification
 0980. 🎨 style: reformat files with black
+0688. 🚀 perf: reduce image load time
