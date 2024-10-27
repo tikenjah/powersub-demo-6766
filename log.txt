@@ -237,3 +237,4 @@
 0923. ✨ feat: support email verification
 0370. 🚀 perf: reduce image load time
 0910. 🎨 style: remove trailing whitespace
+0281. ✨ feat: support email verification
