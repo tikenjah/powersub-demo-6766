@@ -6044,3 +6044,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0516. ✅ test: add unit test for quiz service
 0588. 🔧 refactor: organize models into subfolders
+0399. ✅ test: mock database connection in test suite
