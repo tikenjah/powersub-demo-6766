@@ -260,3 +260,4 @@
 0838. 🎨 style: standardize quote style
 0459. 🔧 refactor: organize models into subfolders
 0856. 🐛 fix: fix null pointer exception on login
+0319. 🐛 fix: handle 500 error in quiz API
