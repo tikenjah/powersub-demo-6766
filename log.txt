@@ -7049,3 +7049,4 @@
 0324. 📚 docs: document token refresh logic
 0257. 📚 docs: clarify environment setup
 0469. 🚀 perf: lazy-load components
+0433. 🐛 fix: prevent crash on empty input
