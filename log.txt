@@ -271,3 +271,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0774. 🔧 refactor: refactor quiz grading logic
 0015. ✨ feat: implement quiz timer feature
+0477. 🐛 fix: fix broken CSS in mobile view
