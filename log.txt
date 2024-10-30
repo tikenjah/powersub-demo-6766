@@ -7051,3 +7051,4 @@
 0469. 🚀 perf: lazy-load components
 0433. 🐛 fix: prevent crash on empty input
 0746. ♻️ chore: add GitHub actions badge
+0552. 🐛 fix: fix null pointer exception on login
