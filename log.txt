@@ -278,3 +278,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0233. 🚀 perf: lazy-load components
 0618. ✨ feat: support email verification
+0794. ♻️ chore: clean up unused files
