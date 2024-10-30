@@ -282,3 +282,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0754. 🐛 fix: handle 500 error in quiz API
 0110. 🐛 fix: prevent crash on empty input
+0375. 🐛 fix: handle 500 error in quiz API
