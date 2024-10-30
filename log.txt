@@ -5053,3 +5053,4 @@
 0382. 📚 docs: improve code comments in utils
 0585. 🚀 perf: lazy-load components
 0122. ✨ feat: support email verification
+0518. ✨ feat: support email verification
