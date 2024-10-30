@@ -277,3 +277,4 @@
 0960. ✅ test: increase coverage on auth module
 0531. 🐛 fix: prevent crash on empty input
 0233. 🚀 perf: lazy-load components
+0618. ✨ feat: support email verification
