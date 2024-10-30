@@ -8043,3 +8043,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0818. 🔧 refactor: remove redundant code blocks
 0124. 🎨 style: reformat files with black
+0153. ♻️ chore: rename env.example
