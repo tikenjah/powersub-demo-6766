@@ -9058,3 +9058,4 @@
 0498. ✅ test: mock database connection in test suite
 0630. 🚀 perf: lazy-load components
 0584. 🚀 perf: lazy-load components
+0361. ✨ feat: support email verification
