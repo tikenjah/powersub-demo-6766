@@ -286,3 +286,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0644. 🎨 style: apply consistent indentation
 0672. 🐛 fix: fix broken CSS in mobile view
+0218. 🔧 refactor: clean up auth middleware
