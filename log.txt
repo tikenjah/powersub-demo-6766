@@ -7054,3 +7054,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0297. 🎨 style: remove trailing whitespace
 0339. 📚 docs: update README with setup steps
+0685. ✅ test: test user registration edge cases
