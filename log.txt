@@ -292,3 +292,4 @@
 0363. 📚 docs: clarify environment setup
 0905. ♻️ chore: bump dependencies
 0431. 🎨 style: reformat files with black
+0341. 🚀 perf: lazy-load components
