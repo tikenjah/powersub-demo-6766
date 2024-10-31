@@ -297,3 +297,4 @@
 0199. ✨ feat: create admin dashboard
 0704. 🚀 perf: cache repeated calculations
 0216. 🎨 style: rename variables for clarity
+0656. 🎨 style: apply consistent indentation
