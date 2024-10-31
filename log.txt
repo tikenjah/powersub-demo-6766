@@ -295,3 +295,4 @@
 0341. 🚀 perf: lazy-load components
 0516. ✅ test: add unit test for quiz service
 0199. ✨ feat: create admin dashboard
+0704. 🚀 perf: cache repeated calculations
