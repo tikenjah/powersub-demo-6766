@@ -8045,3 +8045,4 @@
 0124. 🎨 style: reformat files with black
 0153. ♻️ chore: rename env.example
 0165. 🎨 style: remove trailing whitespace
+0630. 🚀 perf: lazy-load components
