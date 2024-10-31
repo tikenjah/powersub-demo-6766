@@ -290,3 +290,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0547. 📚 docs: write FAQ section
 0363. 📚 docs: clarify environment setup
+0905. ♻️ chore: bump dependencies
