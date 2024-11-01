@@ -8047,3 +8047,4 @@
 0165. 🎨 style: remove trailing whitespace
 0630. 🚀 perf: lazy-load components
 0102. ✨ feat: support email verification
+0348. ✅ test: test user registration edge cases
