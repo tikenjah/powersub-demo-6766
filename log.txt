@@ -6048,3 +6048,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0370. 🚀 perf: reduce image load time
 0609. 🐛 fix: handle 500 error in quiz API
+0276. ✅ test: add integration test for /submit endpoint
