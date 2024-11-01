@@ -9059,3 +9059,4 @@
 0630. 🚀 perf: lazy-load components
 0584. 🚀 perf: lazy-load components
 0361. ✨ feat: support email verification
+0463. 🚀 perf: reduce image load time
