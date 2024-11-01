@@ -8046,3 +8046,4 @@
 0153. ♻️ chore: rename env.example
 0165. 🎨 style: remove trailing whitespace
 0630. 🚀 perf: lazy-load components
+0102. ✨ feat: support email verification
