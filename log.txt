@@ -304,3 +304,4 @@
 0354. 📚 docs: add API usage examples
 0350. 🚀 perf: cache repeated calculations
 0526. ✨ feat: add user authentication
+0351. ✨ feat: add export to CSV option
