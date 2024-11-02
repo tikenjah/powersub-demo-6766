@@ -327,3 +327,4 @@
 0541. 🐛 fix: correct typo in registration form
 0731. 🎨 style: standardize quote style
 0258. 🐛 fix: prevent crash on empty input
+0058. ♻️ chore: add GitHub actions badge
