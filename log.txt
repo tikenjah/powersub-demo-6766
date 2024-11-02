@@ -9063,3 +9063,4 @@
 0170. ✅ test: increase coverage on auth module
 0193. 🚀 perf: optimize database query for quiz results
 0628. ♻️ chore: add GitHub actions badge
+0268. 🐛 fix: prevent crash on empty input
