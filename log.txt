@@ -322,3 +322,4 @@
 0247. 🎨 style: apply consistent indentation
 0818. 🔧 refactor: remove redundant code blocks
 0256. ✅ test: mock database connection in test suite
+0246. ✅ test: add integration test for /submit endpoint
