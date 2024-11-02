@@ -9061,3 +9061,4 @@
 0361. ✨ feat: support email verification
 0463. 🚀 perf: reduce image load time
 0170. ✅ test: increase coverage on auth module
+0193. 🚀 perf: optimize database query for quiz results
