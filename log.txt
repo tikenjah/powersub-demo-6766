@@ -8050,3 +8050,4 @@
 0348. ✅ test: test user registration edge cases
 0616. 🚀 perf: lazy-load components
 0551. 📚 docs: write FAQ section
+0449. ✅ test: add unit test for quiz service
