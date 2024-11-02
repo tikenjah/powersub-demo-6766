@@ -8049,3 +8049,4 @@
 0102. ✨ feat: support email verification
 0348. ✅ test: test user registration edge cases
 0616. 🚀 perf: lazy-load components
+0551. 📚 docs: write FAQ section
