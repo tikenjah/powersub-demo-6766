@@ -5061,3 +5061,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0849. 🐛 fix: correct typo in registration form
 0402. 🎨 style: reformat files with black
+0784. ♻️ chore: clean up unused files
