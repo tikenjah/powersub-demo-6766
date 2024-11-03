@@ -333,3 +333,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0560. 🎨 style: rename variables for clarity
 0475. 🔧 refactor: clean up auth middleware
+0003. ✅ test: increase coverage on auth module
