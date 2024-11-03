@@ -341,3 +341,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0815. 🔧 refactor: split large controller into smaller functions
 0846. ✨ feat: implement quiz timer feature
+0553. 🐛 fix: correct typo in registration form
