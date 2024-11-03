@@ -5065,3 +5065,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0881. 🔧 refactor: split large controller into smaller functions
 0238. 🎨 style: apply consistent indentation
+0581. ✅ test: add integration test for /submit endpoint
