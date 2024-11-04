@@ -343,3 +343,4 @@
 0846. ✨ feat: implement quiz timer feature
 0553. 🐛 fix: correct typo in registration form
 0133. 🐛 fix: fix null pointer exception on login
+0874. 🔧 refactor: split large controller into smaller functions
