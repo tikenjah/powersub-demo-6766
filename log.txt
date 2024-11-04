@@ -348,3 +348,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0349. ✅ test: increase coverage on auth module
 0497. 🔧 refactor: refactor quiz grading logic
+0836. 🚀 perf: optimize database query for quiz results
