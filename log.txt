@@ -10062,3 +10062,4 @@
 0301. 🎨 style: apply consistent indentation
 0891. ✨ feat: create admin dashboard
 0146. 🎨 style: apply consistent indentation
+0273. 🚀 perf: reduce image load time
