@@ -8058,3 +8058,4 @@
 0186. ✅ test: test user registration edge cases
 0109. 🚀 perf: lazy-load components
 0692. ✅ test: add integration test for /submit endpoint
+0345. 📚 docs: document token refresh logic
