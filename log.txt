@@ -8060,3 +8060,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0345. 📚 docs: document token refresh logic
 0745. ✅ test: add unit test for quiz service
+0074. ♻️ chore: add GitHub actions badge
