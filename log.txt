@@ -346,3 +346,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0307. ✨ feat: support email verification
 0999. 🔧 refactor: split large controller into smaller functions
+0349. ✅ test: increase coverage on auth module
