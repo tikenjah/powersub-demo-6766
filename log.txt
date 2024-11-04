@@ -357,3 +357,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0734. ✨ feat: add export to CSV option
 0131. 📚 docs: write FAQ section
+0803. ✅ test: mock database connection in test suite
