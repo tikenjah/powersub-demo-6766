@@ -8065,3 +8065,4 @@
 1000. ✅ test: increase coverage on auth module
 0493. ✨ feat: add user authentication
 0252. 🎨 style: remove trailing whitespace
+0518. ✨ feat: support email verification
