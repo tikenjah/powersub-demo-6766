@@ -8067,3 +8067,4 @@
 0252. 🎨 style: remove trailing whitespace
 0518. ✨ feat: support email verification
 0068. 🐛 fix: fix null pointer exception on login
+0525. ✅ test: mock database connection in test suite
