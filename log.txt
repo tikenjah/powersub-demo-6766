@@ -375,3 +375,4 @@
 0377. ✨ feat: add user authentication
 0619. ✨ feat: create admin dashboard
 0142. ✨ feat: implement quiz timer feature
+0203. 🚀 perf: lazy-load components
