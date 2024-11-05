@@ -10065,3 +10065,4 @@
 0273. 🚀 perf: reduce image load time
 0577. ✨ feat: implement quiz timer feature
 0423. ✅ test: mock database connection in test suite
+0790. 📚 docs: write FAQ section
