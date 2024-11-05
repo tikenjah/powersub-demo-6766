@@ -8063,3 +8063,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0123. ✨ feat: implement quiz timer feature
 1000. ✅ test: increase coverage on auth module
+0493. ✨ feat: add user authentication
