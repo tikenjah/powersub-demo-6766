@@ -371,3 +371,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0188. 🎨 style: apply consistent indentation
 0647. 🐛 fix: prevent crash on empty input
+0650. ✅ test: add unit test for quiz service
