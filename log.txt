@@ -372,3 +372,4 @@
 0188. 🎨 style: apply consistent indentation
 0647. 🐛 fix: prevent crash on empty input
 0650. ✅ test: add unit test for quiz service
+0377. ✨ feat: add user authentication
