@@ -370,3 +370,4 @@
 0690. 🚀 perf: lazy-load components
 0767. 🔧 refactor: remove redundant code blocks
 0188. 🎨 style: apply consistent indentation
+0647. 🐛 fix: prevent crash on empty input
