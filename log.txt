@@ -359,3 +359,4 @@
 0131. 📚 docs: write FAQ section
 0803. ✅ test: mock database connection in test suite
 0882. 🚀 perf: optimize database query for quiz results
+0243. 🔧 refactor: clean up auth middleware
