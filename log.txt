@@ -8066,3 +8066,4 @@
 0493. ✨ feat: add user authentication
 0252. 🎨 style: remove trailing whitespace
 0518. ✨ feat: support email verification
+0068. 🐛 fix: fix null pointer exception on login
