@@ -386,3 +386,4 @@
 0056. ♻️ chore: rename env.example
 0632. 🎨 style: remove trailing whitespace
 0395. 📚 docs: write FAQ section
+0838. 🎨 style: standardize quote style
