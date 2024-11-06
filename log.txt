@@ -385,3 +385,4 @@
 0034. 📚 docs: improve code comments in utils
 0056. ♻️ chore: rename env.example
 0632. 🎨 style: remove trailing whitespace
+0395. 📚 docs: write FAQ section
