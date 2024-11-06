@@ -384,3 +384,4 @@
 0513. ♻️ chore: bump dependencies
 0034. 📚 docs: improve code comments in utils
 0056. ♻️ chore: rename env.example
+0632. 🎨 style: remove trailing whitespace
