@@ -5068,3 +5068,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0751. 🐛 fix: handle 500 error in quiz API
 0471. ✨ feat: support email verification
+0747. 🔧 refactor: clean up auth middleware
