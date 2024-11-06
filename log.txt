@@ -6061,3 +6061,4 @@
 0887. 📚 docs: add API usage examples
 0965. 🎨 style: reformat files with black
 0154. 🐛 fix: prevent crash on empty input
+0064. 📚 docs: clarify environment setup
