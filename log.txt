@@ -5069,3 +5069,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0471. ✨ feat: support email verification
 0747. 🔧 refactor: clean up auth middleware
+0097. 🐛 fix: handle 500 error in quiz API
