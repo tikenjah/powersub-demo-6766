@@ -396,3 +396,4 @@
 0256. ✅ test: mock database connection in test suite
 0520. 🐛 fix: fix null pointer exception on login
 0623. 🎨 style: standardize quote style
+0179. 🔧 refactor: split large controller into smaller functions
