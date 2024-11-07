@@ -387,3 +387,4 @@
 0632. 🎨 style: remove trailing whitespace
 0395. 📚 docs: write FAQ section
 0838. 🎨 style: standardize quote style
+0829. 🔧 refactor: organize models into subfolders
