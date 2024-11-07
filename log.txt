@@ -390,3 +390,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0504. 📚 docs: document token refresh logic
 0855. 🎨 style: reformat files with black
+0152. ✨ feat: add user authentication
