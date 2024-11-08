@@ -403,3 +403,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0264. 🚀 perf: optimize database query for quiz results
 0912. 📚 docs: document token refresh logic
+0017. ✅ test: mock database connection in test suite
