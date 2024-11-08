@@ -408,3 +408,4 @@
 0990. ♻️ chore: rename env.example
 0893. 🐛 fix: handle 500 error in quiz API
 0550. 🔧 refactor: split large controller into smaller functions
+0363. 📚 docs: clarify environment setup
