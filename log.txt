@@ -411,3 +411,4 @@
 0363. 📚 docs: clarify environment setup
 0674. 🔧 refactor: split large controller into smaller functions
 0153. ♻️ chore: rename env.example
+0233. 🚀 perf: lazy-load components
