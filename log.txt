@@ -8075,3 +8075,4 @@
 0795. 📚 docs: update README with setup steps
 0665. ♻️ chore: update .gitignore
 0050. ✨ feat: enable dark mode toggle
+0013. ✅ test: increase coverage on auth module
