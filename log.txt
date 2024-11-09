@@ -422,3 +422,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0983. 🔧 refactor: split large controller into smaller functions
 0900. 🐛 fix: handle 500 error in quiz API
+0106. 🎨 style: reformat files with black
