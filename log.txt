@@ -9075,3 +9075,4 @@
 0864. 🐛 fix: correct typo in registration form
 0918. ✨ feat: enable dark mode toggle
 0744. 🔧 refactor: remove redundant code blocks
+0194. 🎨 style: standardize quote style
