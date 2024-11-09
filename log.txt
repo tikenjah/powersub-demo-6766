@@ -417,3 +417,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0320. 📚 docs: update README with setup steps
 0353. ♻️ chore: rename env.example
+0958. 🐛 fix: prevent crash on empty input
