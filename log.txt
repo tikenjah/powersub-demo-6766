@@ -414,3 +414,4 @@
 0233. 🚀 perf: lazy-load components
 0180. ✨ feat: add export to CSV option
 0100. ♻️ chore: update .gitignore
+0364. 🐛 fix: resolve issue with date parsing
