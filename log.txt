@@ -9074,3 +9074,4 @@
 0990. ♻️ chore: rename env.example
 0864. 🐛 fix: correct typo in registration form
 0918. ✨ feat: enable dark mode toggle
+0744. 🔧 refactor: remove redundant code blocks
