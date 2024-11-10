@@ -5089,3 +5089,4 @@
 0449. ✅ test: add unit test for quiz service
 0300. ✨ feat: add export to CSV option
 0639. 🐛 fix: correct typo in registration form
+0225. 🚀 perf: reduce image load time
