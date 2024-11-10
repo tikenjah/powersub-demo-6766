@@ -432,3 +432,4 @@
 0924. ✅ test: mock database connection in test suite
 0491. 🚀 perf: lazy-load components
 0924. ✅ test: mock database connection in test suite
+0244. ✨ feat: add export to CSV option
