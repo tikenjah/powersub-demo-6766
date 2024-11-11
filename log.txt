@@ -439,3 +439,4 @@
 0332. 🎨 style: standardize quote style
 0974. ✨ feat: add export to CSV option
 0035. ✅ test: increase coverage on auth module
+0104. 🎨 style: apply consistent indentation
