@@ -445,3 +445,4 @@
 0035. ✅ test: increase coverage on auth module
 0796. 🔧 refactor: refactor quiz grading logic
 0943. 🎨 style: rename variables for clarity
+0112. ✨ feat: enable dark mode toggle
