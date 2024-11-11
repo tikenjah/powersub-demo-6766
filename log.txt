@@ -443,3 +443,4 @@
 0820. 📚 docs: add API usage examples
 0165. 🎨 style: remove trailing whitespace
 0035. ✅ test: increase coverage on auth module
+0796. 🔧 refactor: refactor quiz grading logic
