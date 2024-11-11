@@ -7086,3 +7086,4 @@
 0112. ✨ feat: enable dark mode toggle
 0387. ✨ feat: enable dark mode toggle
 0682. ♻️ chore: rename env.example
+0849. 🐛 fix: correct typo in registration form
