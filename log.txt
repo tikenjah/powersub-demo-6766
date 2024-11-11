@@ -441,3 +441,4 @@
 0035. ✅ test: increase coverage on auth module
 0104. 🎨 style: apply consistent indentation
 0820. 📚 docs: add API usage examples
+0165. 🎨 style: remove trailing whitespace
