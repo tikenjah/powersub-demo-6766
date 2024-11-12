@@ -8086,3 +8086,4 @@
 0547. 📚 docs: write FAQ section
 0378. 🐛 fix: prevent crash on empty input
 0753. 🔧 refactor: remove redundant code blocks
+0611. ✅ test: test user registration edge cases
