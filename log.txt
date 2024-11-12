@@ -8083,3 +8083,4 @@
 0991. ♻️ chore: clean up unused files
 0088. 📚 docs: add API usage examples
 0902. ✨ feat: enable dark mode toggle
+0547. 📚 docs: write FAQ section
