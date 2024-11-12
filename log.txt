@@ -8088,3 +8088,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0611. ✅ test: test user registration edge cases
 0155. ✨ feat: create admin dashboard
+0732. ♻️ chore: add GitHub actions badge
