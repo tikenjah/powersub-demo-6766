@@ -5092,3 +5092,4 @@
 0225. 🚀 perf: reduce image load time
 0979. 🎨 style: standardize quote style
 0018. 🔧 refactor: organize models into subfolders
+0699. 🎨 style: standardize quote style
