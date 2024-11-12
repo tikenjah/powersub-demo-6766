@@ -8084,3 +8084,4 @@
 0088. 📚 docs: add API usage examples
 0902. ✨ feat: enable dark mode toggle
 0547. 📚 docs: write FAQ section
+0378. 🐛 fix: prevent crash on empty input
