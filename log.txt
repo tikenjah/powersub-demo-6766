@@ -456,3 +456,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0750. 🎨 style: apply consistent indentation
 0301. 🎨 style: apply consistent indentation
+0879. 🎨 style: standardize quote style
