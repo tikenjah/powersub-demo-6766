@@ -448,3 +448,4 @@
 0112. ✨ feat: enable dark mode toggle
 0397. 🐛 fix: handle 500 error in quiz API
 0022. 📚 docs: document token refresh logic
+0950. 🎨 style: reformat files with black
