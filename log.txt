@@ -8089,3 +8089,4 @@
 0611. ✅ test: test user registration edge cases
 0155. ✨ feat: create admin dashboard
 0732. ♻️ chore: add GitHub actions badge
+0335. ♻️ chore: update .gitignore
