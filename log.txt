@@ -449,3 +449,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0022. 📚 docs: document token refresh logic
 0950. 🎨 style: reformat files with black
+0767. 🔧 refactor: remove redundant code blocks
