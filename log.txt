@@ -9085,3 +9085,4 @@
 0761. ✅ test: add unit test for quiz service
 0915. 🚀 perf: cache repeated calculations
 0846. ✨ feat: implement quiz timer feature
+0856. 🐛 fix: fix null pointer exception on login
