@@ -479,3 +479,4 @@
 0548. 📚 docs: write FAQ section
 0216. 🎨 style: rename variables for clarity
 0253. 📚 docs: update README with setup steps
+0963. 🚀 perf: reduce image load time
