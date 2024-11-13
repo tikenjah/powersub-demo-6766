@@ -6081,3 +6081,4 @@
 0935. 📚 docs: update README with setup steps
 0899. 🚀 perf: cache repeated calculations
 0535. 📚 docs: write FAQ section
+0688. 🚀 perf: reduce image load time
