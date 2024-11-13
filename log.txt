@@ -468,3 +468,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0380. 🐛 fix: fix null pointer exception on login
 0771. 🚀 perf: cache repeated calculations
+0543. ✨ feat: support email verification
