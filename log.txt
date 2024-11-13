@@ -6082,3 +6082,4 @@
 0899. 🚀 perf: cache repeated calculations
 0535. 📚 docs: write FAQ section
 0688. 🚀 perf: reduce image load time
+0562. 🔧 refactor: clean up auth middleware
