@@ -476,3 +476,4 @@
 0502. 📚 docs: update README with setup steps
 0803. ✅ test: mock database connection in test suite
 0687. 🎨 style: remove trailing whitespace
+0548. 📚 docs: write FAQ section
