@@ -463,3 +463,4 @@
 0284. ✨ feat: implement quiz timer feature
 0733. 🐛 fix: fix null pointer exception on login
 0940. 📚 docs: document token refresh logic
+0571. 🔧 refactor: clean up auth middleware
