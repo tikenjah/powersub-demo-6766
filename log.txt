@@ -10076,3 +10076,4 @@
 0704. 🚀 perf: cache repeated calculations
 0688. 🚀 perf: reduce image load time
 0839. 🎨 style: apply consistent indentation
+0566. 📚 docs: write FAQ section
