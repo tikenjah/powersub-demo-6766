@@ -493,3 +493,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0521. 🎨 style: standardize quote style
 0816. 🔧 refactor: organize models into subfolders
+0762. 🚀 perf: lazy-load components
