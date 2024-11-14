@@ -484,3 +484,4 @@
 0493. ✨ feat: add user authentication
 0945. ♻️ chore: add GitHub actions badge
 0011. ✅ test: add unit test for quiz service
+0755. 🚀 perf: cache repeated calculations
