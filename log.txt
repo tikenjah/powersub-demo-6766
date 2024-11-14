@@ -8093,3 +8093,4 @@
 0462. ♻️ chore: update .gitignore
 0539. 🔧 refactor: organize models into subfolders
 0106. 🎨 style: reformat files with black
+0390. 🎨 style: standardize quote style
