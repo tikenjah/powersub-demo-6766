@@ -10078,3 +10078,4 @@
 0839. 🎨 style: apply consistent indentation
 0566. 📚 docs: write FAQ section
 0284. ✨ feat: implement quiz timer feature
+0522. 🐛 fix: handle 500 error in quiz API
