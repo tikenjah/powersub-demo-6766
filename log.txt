@@ -8096,3 +8096,4 @@
 0390. 🎨 style: standardize quote style
 0292. 📚 docs: clarify environment setup
 0732. ♻️ chore: add GitHub actions badge
+0688. 🚀 perf: reduce image load time
