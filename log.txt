@@ -499,3 +499,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0432. 🎨 style: apply consistent indentation
 0361. ✨ feat: support email verification
+0647. 🐛 fix: prevent crash on empty input
