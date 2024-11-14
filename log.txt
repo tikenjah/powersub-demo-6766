@@ -8094,3 +8094,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0106. 🎨 style: reformat files with black
 0390. 🎨 style: standardize quote style
+0292. 📚 docs: clarify environment setup
