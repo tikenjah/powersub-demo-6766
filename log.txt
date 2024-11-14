@@ -501,3 +501,4 @@
 0361. ✨ feat: support email verification
 0647. 🐛 fix: prevent crash on empty input
 0678. ✨ feat: add user authentication
+0158. 📚 docs: clarify environment setup
