@@ -5096,3 +5096,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0250. 📚 docs: update README with setup steps
 0398. 🚀 perf: cache repeated calculations
+0552. 🐛 fix: fix null pointer exception on login
