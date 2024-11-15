@@ -515,3 +515,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0670. ✨ feat: add export to CSV option
 0949. 📚 docs: write FAQ section
+0298. ♻️ chore: update .gitignore
