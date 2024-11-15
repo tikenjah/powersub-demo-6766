@@ -508,3 +508,4 @@
 0950. 🎨 style: reformat files with black
 0316. 🐛 fix: fix broken CSS in mobile view
 0177. 📚 docs: add API usage examples
+0736. 🐛 fix: fix null pointer exception on login
