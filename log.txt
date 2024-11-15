@@ -516,3 +516,4 @@
 0670. ✨ feat: add export to CSV option
 0949. 📚 docs: write FAQ section
 0298. ♻️ chore: update .gitignore
+0045. 🎨 style: apply consistent indentation
