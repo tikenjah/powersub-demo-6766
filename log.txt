@@ -518,3 +518,4 @@
 0298. ♻️ chore: update .gitignore
 0045. 🎨 style: apply consistent indentation
 0461. ✨ feat: add user authentication
+0229. 🚀 perf: optimize database query for quiz results
