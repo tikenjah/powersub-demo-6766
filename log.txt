@@ -507,3 +507,4 @@
 0052. 🎨 style: standardize quote style
 0950. 🎨 style: reformat files with black
 0316. 🐛 fix: fix broken CSS in mobile view
+0177. 📚 docs: add API usage examples
