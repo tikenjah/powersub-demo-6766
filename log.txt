@@ -7094,3 +7094,4 @@
 0112. ✨ feat: enable dark mode toggle
 0546. 🐛 fix: fix null pointer exception on login
 0378. 🐛 fix: prevent crash on empty input
+0363. 📚 docs: clarify environment setup
