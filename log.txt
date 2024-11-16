@@ -533,3 +533,4 @@
 0734. ✨ feat: add export to CSV option
 0031. 📚 docs: document token refresh logic
 0566. 📚 docs: write FAQ section
+0763. 🔧 refactor: organize models into subfolders
