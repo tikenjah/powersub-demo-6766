@@ -525,3 +525,4 @@
 0390. 🎨 style: standardize quote style
 0182. 🔧 refactor: remove redundant code blocks
 0124. 🎨 style: reformat files with black
+0623. 🎨 style: standardize quote style
