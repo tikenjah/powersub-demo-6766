@@ -6091,3 +6091,4 @@
 0862. ♻️ chore: bump dependencies
 0322. 🔧 refactor: split large controller into smaller functions
 0891. ✨ feat: create admin dashboard
+0790. 📚 docs: write FAQ section
