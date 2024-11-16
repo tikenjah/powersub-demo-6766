@@ -534,3 +534,4 @@
 0031. 📚 docs: document token refresh logic
 0566. 📚 docs: write FAQ section
 0763. 🔧 refactor: organize models into subfolders
+0515. 🚀 perf: optimize database query for quiz results
