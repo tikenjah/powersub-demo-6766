@@ -9092,3 +9092,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0503. ♻️ chore: rename env.example
 0850. ♻️ chore: rename env.example
+0453. 🎨 style: standardize quote style
