@@ -542,3 +542,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0087. ✨ feat: add export to CSV option
 0655. 🚀 perf: cache repeated calculations
+0730. ✅ test: test user registration edge cases
