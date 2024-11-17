@@ -544,3 +544,4 @@
 0655. 🚀 perf: cache repeated calculations
 0730. ✅ test: test user registration edge cases
 0488. ♻️ chore: add GitHub actions badge
+0217. 🚀 perf: reduce image load time
