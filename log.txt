@@ -540,3 +540,4 @@
 0830. 🎨 style: apply consistent indentation
 0130. 🔧 refactor: split large controller into smaller functions
 0408. ♻️ chore: add GitHub actions badge
+0087. ✨ feat: add export to CSV option
