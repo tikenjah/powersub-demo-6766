@@ -550,3 +550,4 @@
 0021. ✨ feat: support email verification
 0103. 🔧 refactor: remove redundant code blocks
 0705. 🔧 refactor: refactor quiz grading logic
+0646. ✅ test: test user registration edge cases
