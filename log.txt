@@ -10086,3 +10086,4 @@
 0694. 🎨 style: rename variables for clarity
 0624. ✅ test: add unit test for quiz service
 0408. ♻️ chore: add GitHub actions badge
+0547. 📚 docs: write FAQ section
