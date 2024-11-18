@@ -10085,3 +10085,4 @@
 0962. ✨ feat: create admin dashboard
 0694. 🎨 style: rename variables for clarity
 0624. ✅ test: add unit test for quiz service
+0408. ♻️ chore: add GitHub actions badge
