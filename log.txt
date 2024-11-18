@@ -553,3 +553,4 @@
 0646. ✅ test: test user registration edge cases
 0829. 🔧 refactor: organize models into subfolders
 0296. 🔧 refactor: organize models into subfolders
+0564. 📚 docs: clarify environment setup
