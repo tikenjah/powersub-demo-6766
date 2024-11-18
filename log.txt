@@ -566,3 +566,4 @@
 0469. 🚀 perf: lazy-load components
 0747. 🔧 refactor: clean up auth middleware
 0321. 🔧 refactor: organize models into subfolders
+0346. ✅ test: mock database connection in test suite
