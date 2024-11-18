@@ -556,3 +556,4 @@
 0564. 📚 docs: clarify environment setup
 0663. 🚀 perf: reduce image load time
 0234. ♻️ chore: rename env.example
+0612. ✅ test: test user registration edge cases
