@@ -10089,3 +10089,4 @@
 0547. 📚 docs: write FAQ section
 0244. ✨ feat: add export to CSV option
 0783. 🐛 fix: handle 500 error in quiz API
+0262. 🎨 style: remove trailing whitespace
