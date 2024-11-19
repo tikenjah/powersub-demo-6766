@@ -574,3 +574,4 @@
 0334. 🚀 perf: cache repeated calculations
 0266. 🔧 refactor: remove redundant code blocks
 0365. 🚀 perf: reduce image load time
+0359. 🔧 refactor: clean up auth middleware
