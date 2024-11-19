@@ -583,3 +583,4 @@
 0572. ✨ feat: add user authentication
 0704. 🚀 perf: cache repeated calculations
 0379. ✨ feat: support email verification
+0481. ✅ test: add unit test for quiz service
