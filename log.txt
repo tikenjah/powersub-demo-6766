@@ -591,3 +591,4 @@
 0445. 📚 docs: improve code comments in utils
 0117. ✅ test: increase coverage on auth module
 0651. ✨ feat: enable dark mode toggle
+0859. ✨ feat: create admin dashboard
