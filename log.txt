@@ -8117,3 +8117,4 @@
 0831. 📚 docs: clarify environment setup
 0493. ✨ feat: add user authentication
 0599. ✅ test: test user registration edge cases
+0886. ♻️ chore: clean up unused files
