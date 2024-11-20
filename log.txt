@@ -593,3 +593,4 @@
 0651. ✨ feat: enable dark mode toggle
 0859. ✨ feat: create admin dashboard
 0133. 🐛 fix: fix null pointer exception on login
+0868. ✅ test: add unit test for quiz service
