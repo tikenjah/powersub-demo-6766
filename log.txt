@@ -5115,3 +5115,4 @@
 0935. 📚 docs: update README with setup steps
 0923. ✨ feat: support email verification
 0629. 🔧 refactor: organize models into subfolders
+0397. 🐛 fix: handle 500 error in quiz API
