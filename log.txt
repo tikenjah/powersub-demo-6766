@@ -585,3 +585,4 @@
 0379. ✨ feat: support email verification
 0481. ✅ test: add unit test for quiz service
 0525. ✅ test: mock database connection in test suite
+0378. 🐛 fix: prevent crash on empty input
