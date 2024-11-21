@@ -612,3 +612,4 @@
 0487. 🎨 style: reformat files with black
 0335. ♻️ chore: update .gitignore
 0275. 🎨 style: standardize quote style
+0567. 📚 docs: add API usage examples
