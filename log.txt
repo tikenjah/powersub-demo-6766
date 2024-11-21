@@ -604,3 +604,4 @@
 0444. ✅ test: add unit test for quiz service
 0632. 🎨 style: remove trailing whitespace
 0883. 📚 docs: improve code comments in utils
+0914. ✅ test: test user registration edge cases
