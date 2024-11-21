@@ -600,3 +600,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0770. ♻️ chore: rename env.example
 0479. 🐛 fix: fix null pointer exception on login
+0798. 🚀 perf: reduce image load time
