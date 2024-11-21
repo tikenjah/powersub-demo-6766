@@ -7108,3 +7108,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0901. ✨ feat: add user authentication
 0369. 🎨 style: standardize quote style
+0628. ♻️ chore: add GitHub actions badge
