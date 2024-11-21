@@ -6105,3 +6105,4 @@
 0585. 🚀 perf: lazy-load components
 0876. ♻️ chore: rename env.example
 0931. 🚀 perf: reduce image load time
+0194. 🎨 style: standardize quote style
