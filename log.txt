@@ -6107,3 +6107,4 @@
 0931. 🚀 perf: reduce image load time
 0194. 🎨 style: standardize quote style
 0811. 🎨 style: reformat files with black
+0667. ✨ feat: add export to CSV option
