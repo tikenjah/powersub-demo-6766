@@ -8121,3 +8121,4 @@
 0360. ✨ feat: add export to CSV option
 0860. 🔧 refactor: organize models into subfolders
 0468. 📚 docs: update README with setup steps
+0863. 🐛 fix: correct typo in registration form
