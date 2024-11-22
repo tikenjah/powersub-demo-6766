@@ -10101,3 +10101,4 @@
 0238. 🎨 style: apply consistent indentation
 0153. ♻️ chore: rename env.example
 0985. 📚 docs: document token refresh logic
+0227. ✅ test: test user registration edge cases
