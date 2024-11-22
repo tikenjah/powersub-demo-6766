@@ -7110,3 +7110,4 @@
 0369. 🎨 style: standardize quote style
 0628. ♻️ chore: add GitHub actions badge
 0565. ♻️ chore: add GitHub actions badge
+0021. ✨ feat: support email verification
