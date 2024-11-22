@@ -616,3 +616,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0411. ✅ test: add unit test for quiz service
 0993. ✨ feat: implement quiz timer feature
+0290. ✅ test: test user registration edge cases
