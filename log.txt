@@ -8124,3 +8124,4 @@
 0863. 🐛 fix: correct typo in registration form
 0357. ✅ test: add unit test for quiz service
 0391. 🐛 fix: fix null pointer exception on login
+0566. 📚 docs: write FAQ section
