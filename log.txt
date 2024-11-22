@@ -8125,3 +8125,4 @@
 0357. ✅ test: add unit test for quiz service
 0391. 🐛 fix: fix null pointer exception on login
 0566. 📚 docs: write FAQ section
+0755. 🚀 perf: cache repeated calculations
