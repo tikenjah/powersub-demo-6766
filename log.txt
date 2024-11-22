@@ -624,3 +624,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0599. ✅ test: test user registration edge cases
 0507. 🔧 refactor: clean up auth middleware
+0158. 📚 docs: clarify environment setup
