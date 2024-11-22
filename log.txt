@@ -622,3 +622,4 @@
 0468. 📚 docs: update README with setup steps
 0931. 🚀 perf: reduce image load time
 0608. 🔧 refactor: remove redundant code blocks
+0599. ✅ test: test user registration edge cases
