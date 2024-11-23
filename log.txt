@@ -630,3 +630,4 @@
 0995. ✅ test: mock database connection in test suite
 0984. ♻️ chore: clean up unused files
 0306. 🎨 style: apply consistent indentation
+0676. 🐛 fix: prevent crash on empty input
