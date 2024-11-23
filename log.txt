@@ -5123,3 +5123,4 @@
 0720. ✨ feat: add export to CSV option
 0069. 🎨 style: rename variables for clarity
 0465. 🎨 style: rename variables for clarity
+0637. 🎨 style: apply consistent indentation
