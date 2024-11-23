@@ -629,3 +629,4 @@
 0151. ✅ test: add unit test for quiz service
 0995. ✅ test: mock database connection in test suite
 0984. ♻️ chore: clean up unused files
+0306. 🎨 style: apply consistent indentation
