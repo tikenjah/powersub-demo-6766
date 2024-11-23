@@ -10102,3 +10102,4 @@
 0153. ♻️ chore: rename env.example
 0985. 📚 docs: document token refresh logic
 0227. ✅ test: test user registration edge cases
+0457. 🐛 fix: handle 500 error in quiz API
