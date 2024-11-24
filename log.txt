@@ -640,3 +640,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0143. ✨ feat: implement quiz timer feature
 0762. 🚀 perf: lazy-load components
+0380. 🐛 fix: fix null pointer exception on login
