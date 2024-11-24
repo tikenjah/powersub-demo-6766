@@ -7113,3 +7113,4 @@
 0021. ✨ feat: support email verification
 0397. 🐛 fix: handle 500 error in quiz API
 0009. ✨ feat: enable dark mode toggle
+0733. 🐛 fix: fix null pointer exception on login
