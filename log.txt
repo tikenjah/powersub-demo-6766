@@ -651,3 +651,4 @@
 0144. ✅ test: increase coverage on auth module
 0119. 📚 docs: improve code comments in utils
 0570. 🎨 style: apply consistent indentation
+0271. ✅ test: add unit test for quiz service
