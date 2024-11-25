@@ -9115,3 +9115,4 @@
 0462. ♻️ chore: update .gitignore
 0835. 🐛 fix: prevent crash on empty input
 0606. 📚 docs: improve code comments in utils
+0026. 🔧 refactor: clean up auth middleware
