@@ -6118,3 +6118,4 @@
 0870. ♻️ chore: clean up unused files
 0832. 🔧 refactor: remove redundant code blocks
 0646. ✅ test: test user registration edge cases
+0724. ✅ test: mock database connection in test suite
