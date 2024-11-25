@@ -8131,3 +8131,4 @@
 0160. ♻️ chore: bump dependencies
 0013. ✅ test: increase coverage on auth module
 0803. ✅ test: mock database connection in test suite
+0982. 🚀 perf: lazy-load components
