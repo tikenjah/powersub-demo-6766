@@ -676,3 +676,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0566. 📚 docs: write FAQ section
 0954. 🚀 perf: cache repeated calculations
+0451. ✨ feat: support email verification
