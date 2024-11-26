@@ -665,3 +665,4 @@
 0139. 📚 docs: document token refresh logic
 0379. ✨ feat: support email verification
 0394. 🚀 perf: lazy-load components
+0483. 📚 docs: update README with setup steps
