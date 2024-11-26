@@ -8136,3 +8136,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0948. 🐛 fix: fix broken CSS in mobile view
 0533. ♻️ chore: add GitHub actions badge
+0868. ✅ test: add unit test for quiz service
