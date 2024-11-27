@@ -686,3 +686,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0503. ♻️ chore: rename env.example
 0393. 🚀 perf: lazy-load components
+0880. 🐛 fix: fix broken CSS in mobile view
