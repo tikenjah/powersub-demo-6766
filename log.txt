@@ -678,3 +678,4 @@
 0954. 🚀 perf: cache repeated calculations
 0451. ✨ feat: support email verification
 0488. ♻️ chore: add GitHub actions badge
+0811. 🎨 style: reformat files with black
