@@ -7122,3 +7122,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0663. 🚀 perf: reduce image load time
 0490. ✨ feat: create admin dashboard
+0341. 🚀 perf: lazy-load components
