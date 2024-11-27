@@ -677,3 +677,4 @@
 0566. 📚 docs: write FAQ section
 0954. 🚀 perf: cache repeated calculations
 0451. ✨ feat: support email verification
+0488. ♻️ chore: add GitHub actions badge
