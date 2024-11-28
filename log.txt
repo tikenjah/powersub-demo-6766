@@ -696,3 +696,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0963. 🚀 perf: reduce image load time
 0261. 🔧 refactor: refactor quiz grading logic
+0756. ✨ feat: support email verification
