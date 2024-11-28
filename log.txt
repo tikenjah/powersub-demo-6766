@@ -693,3 +693,4 @@
 0922. 📚 docs: write FAQ section
 0944. ✨ feat: add user authentication
 0695. ✨ feat: create admin dashboard
+0701. 🔧 refactor: clean up auth middleware
