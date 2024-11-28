@@ -697,3 +697,4 @@
 0963. 🚀 perf: reduce image load time
 0261. 🔧 refactor: refactor quiz grading logic
 0756. ✨ feat: support email verification
+0801. ✨ feat: enable dark mode toggle
