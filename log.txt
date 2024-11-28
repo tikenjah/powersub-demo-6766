@@ -690,3 +690,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0285. 🐛 fix: resolve issue with date parsing
 0962. ✨ feat: create admin dashboard
+0922. 📚 docs: write FAQ section
