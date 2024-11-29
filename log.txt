@@ -707,3 +707,4 @@
 0086. 🐛 fix: correct typo in registration form
 0991. ♻️ chore: clean up unused files
 0226. 🚀 perf: lazy-load components
+0552. 🐛 fix: fix null pointer exception on login
