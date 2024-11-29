@@ -704,3 +704,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0578. ✅ test: add integration test for /submit endpoint
 0854. ♻️ chore: rename env.example
+0086. 🐛 fix: correct typo in registration form
