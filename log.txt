@@ -711,3 +711,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0122. ✨ feat: support email verification
 0772. 🐛 fix: fix null pointer exception on login
+0039. ✅ test: add integration test for /submit endpoint
