@@ -9128,3 +9128,4 @@
 0051. ✨ feat: enable dark mode toggle
 0312. ✨ feat: add user authentication
 0090. ✅ test: increase coverage on auth module
+0135. ✅ test: test user registration edge cases
