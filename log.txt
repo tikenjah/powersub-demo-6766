@@ -701,3 +701,4 @@
 0189. 📚 docs: clarify environment setup
 0916. ♻️ chore: bump dependencies
 0539. 🔧 refactor: organize models into subfolders
+0783. 🐛 fix: handle 500 error in quiz API
