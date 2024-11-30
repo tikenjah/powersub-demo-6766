@@ -720,3 +720,4 @@
 0300. ✨ feat: add export to CSV option
 0366. 🔧 refactor: remove redundant code blocks
 0962. ✨ feat: create admin dashboard
+0930. 🎨 style: apply consistent indentation
