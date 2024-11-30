@@ -725,3 +725,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0269. ✅ test: test user registration edge cases
 0107. 🐛 fix: prevent crash on empty input
+0121. ✨ feat: support email verification
