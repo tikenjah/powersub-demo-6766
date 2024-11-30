@@ -726,3 +726,4 @@
 0269. ✅ test: test user registration edge cases
 0107. 🐛 fix: prevent crash on empty input
 0121. ✨ feat: support email verification
+0036. 🔧 refactor: clean up auth middleware
