@@ -9129,3 +9129,4 @@
 0312. ✨ feat: add user authentication
 0090. ✅ test: increase coverage on auth module
 0135. ✅ test: test user registration edge cases
+0793. 📚 docs: clarify environment setup
