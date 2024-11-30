@@ -7130,3 +7130,4 @@
 0516. ✅ test: add unit test for quiz service
 0304. 🔧 refactor: remove redundant code blocks
 0152. ✨ feat: add user authentication
+0107. 🐛 fix: prevent crash on empty input
