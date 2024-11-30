@@ -8144,3 +8144,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0791. 🔧 refactor: clean up auth middleware
 0608. 🔧 refactor: remove redundant code blocks
+0788. 📚 docs: add API usage examples
