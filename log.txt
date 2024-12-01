@@ -731,3 +731,4 @@
 0823. ✨ feat: add user authentication
 0671. 🐛 fix: fix null pointer exception on login
 0380. 🐛 fix: fix null pointer exception on login
+0634. 🎨 style: reformat files with black
