@@ -9131,3 +9131,4 @@
 0135. ✅ test: test user registration edge cases
 0793. 📚 docs: clarify environment setup
 0245. 🐛 fix: resolve issue with date parsing
+0164. 📚 docs: document token refresh logic
