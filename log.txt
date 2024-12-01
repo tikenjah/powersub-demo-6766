@@ -6135,3 +6135,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0014. 🔧 refactor: remove redundant code blocks
 0583. ✅ test: increase coverage on auth module
+0284. ✨ feat: implement quiz timer feature
