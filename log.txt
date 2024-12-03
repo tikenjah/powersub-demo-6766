@@ -8149,3 +8149,4 @@
 0157. ✅ test: mock database connection in test suite
 0412. ✅ test: increase coverage on auth module
 0172. 📚 docs: add API usage examples
+0799. ♻️ chore: clean up unused files
