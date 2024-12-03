@@ -760,3 +760,4 @@
 0513. ♻️ chore: bump dependencies
 0663. 🚀 perf: reduce image load time
 0982. 🚀 perf: lazy-load components
+0861. ♻️ chore: clean up unused files
