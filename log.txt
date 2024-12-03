@@ -7136,3 +7136,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0074. ♻️ chore: add GitHub actions badge
 0559. 🔧 refactor: split large controller into smaller functions
+0347. ♻️ chore: update .gitignore
