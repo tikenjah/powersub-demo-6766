@@ -758,3 +758,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0691. 🎨 style: rename variables for clarity
 0513. ♻️ chore: bump dependencies
+0663. 🚀 perf: reduce image load time
