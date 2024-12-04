@@ -6139,3 +6139,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0850. ♻️ chore: rename env.example
 0940. 📚 docs: document token refresh logic
+0923. ✨ feat: support email verification
