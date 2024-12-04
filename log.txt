@@ -791,3 +791,4 @@
 0449. ✅ test: add unit test for quiz service
 0851. ✅ test: mock database connection in test suite
 0449. ✅ test: add unit test for quiz service
+0424. ✨ feat: add user authentication
