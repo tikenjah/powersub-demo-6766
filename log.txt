@@ -6141,3 +6141,4 @@
 0940. 📚 docs: document token refresh logic
 0923. ✨ feat: support email verification
 0143. ✨ feat: implement quiz timer feature
+0348. ✅ test: test user registration edge cases
