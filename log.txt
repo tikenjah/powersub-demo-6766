@@ -6144,3 +6144,4 @@
 0348. ✅ test: test user registration edge cases
 0423. ✅ test: mock database connection in test suite
 0741. 🎨 style: apply consistent indentation
+0331. 🐛 fix: fix broken CSS in mobile view
