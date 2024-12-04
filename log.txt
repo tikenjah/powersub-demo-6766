@@ -777,3 +777,4 @@
 0377. ✨ feat: add user authentication
 0770. ♻️ chore: rename env.example
 0968. 🎨 style: standardize quote style
+0106. 🎨 style: reformat files with black
