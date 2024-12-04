@@ -773,3 +773,4 @@
 0119. 📚 docs: improve code comments in utils
 0336. ✨ feat: add export to CSV option
 0899. 🚀 perf: cache repeated calculations
+0702. ✨ feat: add user authentication
