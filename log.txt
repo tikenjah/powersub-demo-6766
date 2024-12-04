@@ -8151,3 +8151,4 @@
 0172. 📚 docs: add API usage examples
 0799. ♻️ chore: clean up unused files
 0878. 🔧 refactor: split large controller into smaller functions
+0646. ✅ test: test user registration edge cases
