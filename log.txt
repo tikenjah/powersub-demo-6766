@@ -781,3 +781,4 @@
 0034. 📚 docs: improve code comments in utils
 0804. ♻️ chore: add GitHub actions badge
 0330. ✅ test: test user registration edge cases
+0917. ✅ test: add integration test for /submit endpoint
