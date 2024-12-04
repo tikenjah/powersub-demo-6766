@@ -7137,3 +7137,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0559. 🔧 refactor: split large controller into smaller functions
 0347. ♻️ chore: update .gitignore
+0754. 🐛 fix: handle 500 error in quiz API
