@@ -5139,3 +5139,4 @@
 0852. ✨ feat: enable dark mode toggle
 0189. 📚 docs: clarify environment setup
 0638. 📚 docs: improve code comments in utils
+0553. 🐛 fix: correct typo in registration form
