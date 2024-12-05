@@ -804,3 +804,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0580. ♻️ chore: bump dependencies
 0016. 🎨 style: apply consistent indentation
+0773. 📚 docs: document token refresh logic
