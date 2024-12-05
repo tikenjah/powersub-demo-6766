@@ -8153,3 +8153,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0646. ✅ test: test user registration edge cases
 0066. 🔧 refactor: clean up auth middleware
+0566. 📚 docs: write FAQ section
