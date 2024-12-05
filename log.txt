@@ -7140,3 +7140,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0196. ♻️ chore: bump dependencies
 0926. 🔧 refactor: organize models into subfolders
+0932. ✅ test: add integration test for /submit endpoint
