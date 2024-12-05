@@ -800,3 +800,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0375. 🐛 fix: handle 500 error in quiz API
 0075. ✅ test: mock database connection in test suite
+0194. 🎨 style: standardize quote style
