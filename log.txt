@@ -10135,3 +10135,4 @@
 0887. 📚 docs: add API usage examples
 0600. 🐛 fix: prevent crash on empty input
 0972. 🔧 refactor: refactor quiz grading logic
+0701. 🔧 refactor: clean up auth middleware
