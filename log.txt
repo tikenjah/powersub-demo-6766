@@ -817,3 +817,4 @@
 0739. 🎨 style: remove trailing whitespace
 0698. 🐛 fix: handle 500 error in quiz API
 0386. 🚀 perf: optimize database query for quiz results
+0552. 🐛 fix: fix null pointer exception on login
