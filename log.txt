@@ -9145,3 +9145,4 @@
 0060. ♻️ chore: clean up unused files
 0290. ✅ test: test user registration edge cases
 0959. 🐛 fix: fix null pointer exception on login
+0053. ✅ test: increase coverage on auth module
