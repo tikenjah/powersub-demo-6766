@@ -819,3 +819,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0552. 🐛 fix: fix null pointer exception on login
 0098. 🎨 style: rename variables for clarity
+0860. 🔧 refactor: organize models into subfolders
