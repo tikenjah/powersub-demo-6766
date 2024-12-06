@@ -813,3 +813,4 @@
 0354. 📚 docs: add API usage examples
 0462. ♻️ chore: update .gitignore
 0800. 🚀 perf: optimize database query for quiz results
+0842. 🎨 style: remove trailing whitespace
