@@ -822,3 +822,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0706. ✨ feat: support email verification
 0355. 🚀 perf: optimize database query for quiz results
+0930. 🎨 style: apply consistent indentation
