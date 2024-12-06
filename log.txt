@@ -9146,3 +9146,4 @@
 0290. ✅ test: test user registration edge cases
 0959. 🐛 fix: fix null pointer exception on login
 0053. ✅ test: increase coverage on auth module
+0369. 🎨 style: standardize quote style
