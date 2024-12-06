@@ -811,3 +811,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0581. ✅ test: add integration test for /submit endpoint
 0354. 📚 docs: add API usage examples
+0462. ♻️ chore: update .gitignore
