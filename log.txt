@@ -7149,3 +7149,4 @@
 0635. 🎨 style: apply consistent indentation
 0543. ✨ feat: support email verification
 0289. 🐛 fix: resolve issue with date parsing
+0489. 🔧 refactor: organize models into subfolders
