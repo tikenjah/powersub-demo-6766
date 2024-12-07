@@ -7150,3 +7150,4 @@
 0543. ✨ feat: support email verification
 0289. 🐛 fix: resolve issue with date parsing
 0489. 🔧 refactor: organize models into subfolders
+0589. 🐛 fix: fix broken CSS in mobile view
