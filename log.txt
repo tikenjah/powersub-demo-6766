@@ -5145,3 +5145,4 @@
 0799. ♻️ chore: clean up unused files
 0819. 🚀 perf: reduce image load time
 0650. ✅ test: add unit test for quiz service
+0531. 🐛 fix: prevent crash on empty input
