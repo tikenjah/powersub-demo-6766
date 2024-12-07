@@ -828,3 +828,4 @@
 0474. ✅ test: add unit test for quiz service
 0473. 📚 docs: write FAQ section
 0882. 🚀 perf: optimize database query for quiz results
+0866. 📚 docs: add API usage examples
