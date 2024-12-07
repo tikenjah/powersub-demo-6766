@@ -836,3 +836,4 @@
 0795. 📚 docs: update README with setup steps
 0815. 🔧 refactor: split large controller into smaller functions
 0230. ✨ feat: create admin dashboard
+0605. ✨ feat: support email verification
