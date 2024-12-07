@@ -830,3 +830,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0866. 📚 docs: add API usage examples
 0971. 🎨 style: standardize quote style
+0434. 📚 docs: document token refresh logic
