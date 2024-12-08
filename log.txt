@@ -843,3 +843,4 @@
 0259. 🚀 perf: lazy-load components
 0510. 🎨 style: rename variables for clarity
 0666. 🐛 fix: fix broken CSS in mobile view
+0128. ♻️ chore: rename env.example
