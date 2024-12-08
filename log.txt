@@ -839,3 +839,4 @@
 0605. ✨ feat: support email verification
 0460. 📚 docs: write FAQ section
 0583. ✅ test: increase coverage on auth module
+0108. 🎨 style: remove trailing whitespace
