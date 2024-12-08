@@ -5147,3 +5147,4 @@
 0650. ✅ test: add unit test for quiz service
 0531. 🐛 fix: prevent crash on empty input
 0227. ✅ test: test user registration edge cases
+0349. ✅ test: increase coverage on auth module
