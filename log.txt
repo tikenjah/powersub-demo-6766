@@ -8159,3 +8159,4 @@
 0347. ♻️ chore: update .gitignore
 0373. 📚 docs: document token refresh logic
 0985. 📚 docs: document token refresh logic
+0649. 📚 docs: update README with setup steps
