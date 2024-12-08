@@ -848,3 +848,4 @@
 0312. ✨ feat: add user authentication
 0907. 🔧 refactor: split large controller into smaller functions
 0786. ✨ feat: enable dark mode toggle
+0204. 🎨 style: standardize quote style
