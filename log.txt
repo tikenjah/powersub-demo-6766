@@ -10144,3 +10144,4 @@
 0583. ✅ test: increase coverage on auth module
 0908. ♻️ chore: bump dependencies
 0632. 🎨 style: remove trailing whitespace
+0929. ✨ feat: support email verification
