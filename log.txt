@@ -850,3 +850,4 @@
 0786. ✨ feat: enable dark mode toggle
 0204. 🎨 style: standardize quote style
 0583. ✅ test: increase coverage on auth module
+0754. 🐛 fix: handle 500 error in quiz API
