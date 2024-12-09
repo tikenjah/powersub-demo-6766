@@ -863,3 +863,4 @@
 0529. 📚 docs: write FAQ section
 0299. 🐛 fix: resolve issue with date parsing
 0739. 🎨 style: remove trailing whitespace
+0854. ♻️ chore: rename env.example
