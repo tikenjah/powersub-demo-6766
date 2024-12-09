@@ -9150,3 +9150,4 @@
 0024. 📚 docs: write FAQ section
 0781. 🚀 perf: reduce image load time
 0358. 🚀 perf: reduce image load time
+0682. ♻️ chore: rename env.example
