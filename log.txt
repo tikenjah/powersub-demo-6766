@@ -10142,3 +10142,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0310. 🔧 refactor: refactor quiz grading logic
 0583. ✅ test: increase coverage on auth module
+0908. ♻️ chore: bump dependencies
