@@ -864,3 +864,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0739. 🎨 style: remove trailing whitespace
 0854. ♻️ chore: rename env.example
+0283. ♻️ chore: add GitHub actions badge
