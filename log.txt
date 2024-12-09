@@ -858,3 +858,4 @@
 0061. ✨ feat: create admin dashboard
 0163. ✨ feat: implement quiz timer feature
 0496. ✅ test: add integration test for /submit endpoint
+0648. ♻️ chore: bump dependencies
