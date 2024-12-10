@@ -877,3 +877,4 @@
 0153. ♻️ chore: rename env.example
 0709. ♻️ chore: bump dependencies
 0592. 📚 docs: add API usage examples
+0545. 🎨 style: standardize quote style
