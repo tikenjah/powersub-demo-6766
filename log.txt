@@ -873,3 +873,4 @@
 0891. ✨ feat: create admin dashboard
 0115. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
+0108. 🎨 style: remove trailing whitespace
