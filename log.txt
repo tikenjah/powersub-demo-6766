@@ -9155,3 +9155,4 @@
 0756. ✨ feat: support email verification
 0678. ✨ feat: add user authentication
 0007. 🎨 style: rename variables for clarity
+0666. 🐛 fix: fix broken CSS in mobile view
