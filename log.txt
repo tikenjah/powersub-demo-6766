@@ -866,3 +866,4 @@
 0854. ♻️ chore: rename env.example
 0283. ♻️ chore: add GitHub actions badge
 0468. 📚 docs: update README with setup steps
+0135. ✅ test: test user registration edge cases
