@@ -10145,3 +10145,4 @@
 0908. ♻️ chore: bump dependencies
 0632. 🎨 style: remove trailing whitespace
 0929. ✨ feat: support email verification
+0638. 📚 docs: improve code comments in utils
