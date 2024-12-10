@@ -5152,3 +5152,4 @@
 0362. 📚 docs: add API usage examples
 0317. ✅ test: test user registration edge cases
 0502. 📚 docs: update README with setup steps
+0435. ✅ test: add unit test for quiz service
