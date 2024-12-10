@@ -7155,3 +7155,4 @@
 0850. ♻️ chore: rename env.example
 0399. ✅ test: mock database connection in test suite
 0766. 🎨 style: reformat files with black
+0462. ♻️ chore: update .gitignore
