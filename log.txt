@@ -8166,3 +8166,4 @@
 0502. 📚 docs: update README with setup steps
 0894. ✅ test: add integration test for /submit endpoint
 0792. 🎨 style: standardize quote style
+0851. ✅ test: mock database connection in test suite
