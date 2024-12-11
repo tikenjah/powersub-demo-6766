@@ -9159,3 +9159,4 @@
 0684. 🚀 perf: reduce image load time
 0353. ♻️ chore: rename env.example
 0675. 🔧 refactor: organize models into subfolders
+0394. 🚀 perf: lazy-load components
