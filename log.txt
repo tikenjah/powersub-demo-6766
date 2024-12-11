@@ -887,3 +887,4 @@
 0374. 🎨 style: standardize quote style
 0725. 🚀 perf: lazy-load components
 0601. ✨ feat: implement quiz timer feature
+0431. 🎨 style: reformat files with black
