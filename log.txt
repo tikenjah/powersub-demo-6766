@@ -883,3 +883,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0294. 🐛 fix: prevent crash on empty input
 0043. ✅ test: add integration test for /submit endpoint
+0471. ✨ feat: support email verification
