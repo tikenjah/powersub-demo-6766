@@ -882,3 +882,4 @@
 0911. ✅ test: increase coverage on auth module
 0327. 🔧 refactor: split large controller into smaller functions
 0294. 🐛 fix: prevent crash on empty input
+0043. ✅ test: add integration test for /submit endpoint
