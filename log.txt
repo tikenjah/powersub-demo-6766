@@ -885,3 +885,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0471. ✨ feat: support email verification
 0374. 🎨 style: standardize quote style
+0725. 🚀 perf: lazy-load components
