@@ -6167,3 +6167,4 @@
 0300. ✨ feat: add export to CSV option
 0208. 🔧 refactor: clean up auth middleware
 0743. 🎨 style: apply consistent indentation
+0646. ✅ test: test user registration edge cases
