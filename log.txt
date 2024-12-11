@@ -878,3 +878,4 @@
 0709. ♻️ chore: bump dependencies
 0592. 📚 docs: add API usage examples
 0545. 🎨 style: standardize quote style
+0003. ✅ test: increase coverage on auth module
