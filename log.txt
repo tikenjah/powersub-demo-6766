@@ -907,3 +907,4 @@
 0995. ✅ test: mock database connection in test suite
 0338. ♻️ chore: add GitHub actions badge
 0975. 🎨 style: apply consistent indentation
+0839. 🎨 style: apply consistent indentation
