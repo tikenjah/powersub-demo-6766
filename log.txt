@@ -5158,3 +5158,4 @@
 0498. ✅ test: mock database connection in test suite
 0241. 📚 docs: add API usage examples
 0326. 🚀 perf: cache repeated calculations
+0500. ✅ test: add integration test for /submit endpoint
