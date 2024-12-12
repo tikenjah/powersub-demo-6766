@@ -899,3 +899,4 @@
 0221. ✨ feat: add user authentication
 0367. 🐛 fix: fix null pointer exception on login
 0215. 🎨 style: reformat files with black
+0408. ♻️ chore: add GitHub actions badge
