@@ -892,3 +892,4 @@
 0889. 🚀 perf: lazy-load components
 0445. 📚 docs: improve code comments in utils
 0888. 🚀 perf: lazy-load components
+0579. 📚 docs: clarify environment setup
