@@ -910,3 +910,4 @@
 0839. 🎨 style: apply consistent indentation
 0143. ✨ feat: implement quiz timer feature
 0412. ✅ test: increase coverage on auth module
+0805. ♻️ chore: add GitHub actions badge
