@@ -5159,3 +5159,4 @@
 0241. 📚 docs: add API usage examples
 0326. 🚀 perf: cache repeated calculations
 0500. ✅ test: add integration test for /submit endpoint
+0131. 📚 docs: write FAQ section
