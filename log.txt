@@ -915,3 +915,4 @@
 0803. ✅ test: mock database connection in test suite
 0164. 📚 docs: document token refresh logic
 0416. 🎨 style: rename variables for clarity
+0339. 📚 docs: update README with setup steps
