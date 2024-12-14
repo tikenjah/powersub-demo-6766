@@ -8173,3 +8173,4 @@
 0991. ♻️ chore: clean up unused files
 0340. 🚀 perf: optimize database query for quiz results
 0907. 🔧 refactor: split large controller into smaller functions
+0597. 🚀 perf: cache repeated calculations
