@@ -7164,3 +7164,4 @@
 0153. ♻️ chore: rename env.example
 0895. ✨ feat: support email verification
 0144. ✅ test: increase coverage on auth module
+0096. 🐛 fix: prevent crash on empty input
