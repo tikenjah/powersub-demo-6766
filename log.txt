@@ -924,3 +924,4 @@
 0991. ♻️ chore: clean up unused files
 0983. 🔧 refactor: split large controller into smaller functions
 0113. ✨ feat: add user authentication
+0849. 🐛 fix: correct typo in registration form
