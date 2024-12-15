@@ -5166,3 +5166,4 @@
 0956. 📚 docs: clarify environment setup
 0657. 🎨 style: standardize quote style
 0838. 🎨 style: standardize quote style
+0940. 📚 docs: document token refresh logic
