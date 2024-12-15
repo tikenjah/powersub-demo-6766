@@ -942,3 +942,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0077. ♻️ chore: rename env.example
 0656. 🎨 style: apply consistent indentation
+0335. ♻️ chore: update .gitignore
