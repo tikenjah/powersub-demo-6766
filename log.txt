@@ -7166,3 +7166,4 @@
 0144. ✅ test: increase coverage on auth module
 0096. 🐛 fix: prevent crash on empty input
 0087. ✨ feat: add export to CSV option
+0546. 🐛 fix: fix null pointer exception on login
