@@ -6175,3 +6175,4 @@
 0177. 📚 docs: add API usage examples
 0592. 📚 docs: add API usage examples
 0547. 📚 docs: write FAQ section
+0744. 🔧 refactor: remove redundant code blocks
