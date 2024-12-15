@@ -8181,3 +8181,4 @@
 0694. 🎨 style: rename variables for clarity
 0967. ♻️ chore: add GitHub actions badge
 0171. 🐛 fix: fix broken CSS in mobile view
+0203. 🚀 perf: lazy-load components
