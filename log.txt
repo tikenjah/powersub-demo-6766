@@ -6178,3 +6178,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0998. 🐛 fix: fix null pointer exception on login
 0251. ♻️ chore: update .gitignore
+0790. 📚 docs: write FAQ section
