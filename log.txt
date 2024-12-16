@@ -955,3 +955,4 @@
 0527. 🎨 style: remove trailing whitespace
 0584. 🚀 perf: lazy-load components
 0873. 🚀 perf: cache repeated calculations
+0782. 📚 docs: improve code comments in utils
