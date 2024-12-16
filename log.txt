@@ -953,3 +953,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0304. 🔧 refactor: remove redundant code blocks
 0527. 🎨 style: remove trailing whitespace
+0584. 🚀 perf: lazy-load components
