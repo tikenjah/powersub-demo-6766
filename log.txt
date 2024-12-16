@@ -10158,3 +10158,4 @@
 0227. ✅ test: test user registration edge cases
 0558. ✨ feat: enable dark mode toggle
 0209. ✨ feat: implement quiz timer feature
+0374. 🎨 style: standardize quote style
