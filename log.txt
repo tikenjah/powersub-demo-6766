@@ -6180,3 +6180,4 @@
 0251. ♻️ chore: update .gitignore
 0790. 📚 docs: write FAQ section
 0166. 🚀 perf: cache repeated calculations
+0193. 🚀 perf: optimize database query for quiz results
