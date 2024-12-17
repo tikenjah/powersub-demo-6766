@@ -10161,3 +10161,4 @@
 0374. 🎨 style: standardize quote style
 0107. 🐛 fix: prevent crash on empty input
 0054. ♻️ chore: update .gitignore
+0929. ✨ feat: support email verification
