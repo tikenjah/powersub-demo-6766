@@ -964,3 +964,4 @@
 0242. ♻️ chore: clean up unused files
 0613. 🐛 fix: prevent crash on empty input
 0463. 🚀 perf: reduce image load time
+0824. 🚀 perf: lazy-load components
