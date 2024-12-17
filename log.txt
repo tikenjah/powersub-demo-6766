@@ -5170,3 +5170,4 @@
 0995. ✅ test: mock database connection in test suite
 0720. ✨ feat: add export to CSV option
 0719. 🎨 style: apply consistent indentation
+0270. ♻️ chore: rename env.example
