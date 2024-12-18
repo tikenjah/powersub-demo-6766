@@ -10163,3 +10163,4 @@
 0054. ♻️ chore: update .gitignore
 0929. ✨ feat: support email verification
 0042. 📚 docs: document token refresh logic
+0937. 🐛 fix: handle 500 error in quiz API
