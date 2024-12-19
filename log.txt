@@ -987,3 +987,4 @@
 0101. 📚 docs: clarify environment setup
 0245. 🐛 fix: resolve issue with date parsing
 0799. ♻️ chore: clean up unused files
+0888. 🚀 perf: lazy-load components
