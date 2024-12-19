@@ -993,3 +993,4 @@
 0869. ♻️ chore: bump dependencies
 0376. 🎨 style: apply consistent indentation
 0667. ✨ feat: add export to CSV option
+0750. 🎨 style: apply consistent indentation
