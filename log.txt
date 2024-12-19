@@ -6187,3 +6187,4 @@
 0311. 🎨 style: apply consistent indentation
 0873. 🚀 perf: cache repeated calculations
 0188. 🎨 style: apply consistent indentation
+0770. ♻️ chore: rename env.example
