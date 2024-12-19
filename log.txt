@@ -990,3 +990,4 @@
 0888. 🚀 perf: lazy-load components
 0299. 🐛 fix: resolve issue with date parsing
 0864. 🐛 fix: correct typo in registration form
+0869. ♻️ chore: bump dependencies
