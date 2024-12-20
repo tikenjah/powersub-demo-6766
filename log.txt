@@ -1008,3 +1008,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0960. ✅ test: increase coverage on auth module
 0152. ✨ feat: add user authentication
+0639. 🐛 fix: correct typo in registration form
