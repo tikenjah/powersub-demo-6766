@@ -1021,3 +1021,4 @@
 0851. ✅ test: mock database connection in test suite
 0931. 🚀 perf: reduce image load time
 0313. 🎨 style: apply consistent indentation
+0383. 🐛 fix: fix broken CSS in mobile view
