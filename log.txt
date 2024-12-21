@@ -10174,3 +10174,4 @@
 0388. 🎨 style: reformat files with black
 0281. ✨ feat: support email verification
 0961. 📚 docs: add API usage examples
+0613. 🐛 fix: prevent crash on empty input
