@@ -1025,3 +1025,4 @@
 0902. ✨ feat: enable dark mode toggle
 0119. 📚 docs: improve code comments in utils
 0909. 🔧 refactor: organize models into subfolders
+0614. 🚀 perf: reduce image load time
