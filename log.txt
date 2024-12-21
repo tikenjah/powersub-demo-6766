@@ -8201,3 +8201,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0224. 🐛 fix: fix broken CSS in mobile view
 0515. 🚀 perf: optimize database query for quiz results
+0995. ✅ test: mock database connection in test suite
