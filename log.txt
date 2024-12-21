@@ -6191,3 +6191,4 @@
 0971. 🎨 style: standardize quote style
 0810. 🔧 refactor: refactor quiz grading logic
 0520. 🐛 fix: fix null pointer exception on login
+0450. 🐛 fix: fix broken CSS in mobile view
