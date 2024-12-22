@@ -1036,3 +1036,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0244. ✨ feat: add export to CSV option
 0986. 📚 docs: document token refresh logic
+0737. 🐛 fix: handle 500 error in quiz API
