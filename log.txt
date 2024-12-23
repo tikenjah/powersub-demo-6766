@@ -1055,3 +1055,4 @@
 0029. 🚀 perf: lazy-load components
 0381. ♻️ chore: clean up unused files
 0670. ✨ feat: add export to CSV option
+0487. 🎨 style: reformat files with black
