@@ -1047,3 +1047,4 @@
 0585. 🚀 perf: lazy-load components
 0596. ♻️ chore: update .gitignore
 0559. 🔧 refactor: split large controller into smaller functions
+0507. 🔧 refactor: clean up auth middleware
