@@ -5187,3 +5187,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0715. ✨ feat: create admin dashboard
 0806. 📚 docs: improve code comments in utils
+0625. 🐛 fix: handle 500 error in quiz API
