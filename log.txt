@@ -1063,3 +1063,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0732. ♻️ chore: add GitHub actions badge
 0279. ✨ feat: support email verification
+0911. ✅ test: increase coverage on auth module
