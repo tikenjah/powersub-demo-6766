@@ -6206,3 +6206,4 @@
 0317. ✅ test: test user registration edge cases
 0807. 🔧 refactor: remove redundant code blocks
 0380. 🐛 fix: fix null pointer exception on login
+0086. 🐛 fix: correct typo in registration form
