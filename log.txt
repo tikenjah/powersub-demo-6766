@@ -1070,3 +1070,4 @@
 0226. 🚀 perf: lazy-load components
 0514. 🐛 fix: fix broken CSS in mobile view
 0082. 🔧 refactor: refactor quiz grading logic
+0295. 🎨 style: remove trailing whitespace
