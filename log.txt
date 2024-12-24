@@ -1062,3 +1062,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0815. 🔧 refactor: split large controller into smaller functions
 0732. ♻️ chore: add GitHub actions badge
+0279. ✨ feat: support email verification
