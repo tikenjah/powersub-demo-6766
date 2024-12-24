@@ -1068,3 +1068,4 @@
 0741. 🎨 style: apply consistent indentation
 0347. ♻️ chore: update .gitignore
 0226. 🚀 perf: lazy-load components
+0514. 🐛 fix: fix broken CSS in mobile view
