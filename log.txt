@@ -5190,3 +5190,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0324. 📚 docs: document token refresh logic
 0333. 🚀 perf: cache repeated calculations
+0362. 📚 docs: add API usage examples
