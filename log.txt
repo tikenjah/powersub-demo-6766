@@ -1074,3 +1074,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0251. ♻️ chore: update .gitignore
 0356. 📚 docs: write FAQ section
+0998. 🐛 fix: fix null pointer exception on login
