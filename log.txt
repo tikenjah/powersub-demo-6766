@@ -8210,3 +8210,4 @@
 0719. 🎨 style: apply consistent indentation
 0500. ✅ test: add integration test for /submit endpoint
 0288. 🔧 refactor: refactor quiz grading logic
+0880. 🐛 fix: fix broken CSS in mobile view
