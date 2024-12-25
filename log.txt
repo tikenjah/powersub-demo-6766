@@ -1081,3 +1081,4 @@
 0730. ✅ test: test user registration edge cases
 0972. 🔧 refactor: refactor quiz grading logic
 0008. 🚀 perf: reduce image load time
+0594. 🎨 style: reformat files with black
