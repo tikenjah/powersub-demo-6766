@@ -1083,3 +1083,4 @@
 0008. 🚀 perf: reduce image load time
 0594. 🎨 style: reformat files with black
 0137. 🎨 style: rename variables for clarity
+0022. 📚 docs: document token refresh logic
