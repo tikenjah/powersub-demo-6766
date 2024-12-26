@@ -1096,3 +1096,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0204. 🎨 style: standardize quote style
 0403. ✅ test: mock database connection in test suite
+0624. ✅ test: add unit test for quiz service
