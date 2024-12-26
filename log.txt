@@ -1088,3 +1088,4 @@
 0943. 🎨 style: rename variables for clarity
 0277. 🎨 style: standardize quote style
 0185. 📚 docs: write FAQ section
+0048. 📚 docs: update README with setup steps
