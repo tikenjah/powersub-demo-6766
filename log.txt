@@ -6211,3 +6211,4 @@
 0801. ✨ feat: enable dark mode toggle
 0863. 🐛 fix: correct typo in registration form
 0009. ✨ feat: enable dark mode toggle
+0831. 📚 docs: clarify environment setup
