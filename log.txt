@@ -1093,3 +1093,4 @@
 0620. ✨ feat: implement quiz timer feature
 0970. ♻️ chore: update .gitignore
 0362. 📚 docs: add API usage examples
+0562. 🔧 refactor: clean up auth middleware
