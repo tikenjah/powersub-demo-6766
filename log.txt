@@ -1100,3 +1100,4 @@
 0060. ♻️ chore: clean up unused files
 0214. 📚 docs: improve code comments in utils
 0923. ✨ feat: support email verification
+0024. 📚 docs: write FAQ section
