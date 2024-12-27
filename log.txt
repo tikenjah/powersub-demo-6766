@@ -1102,3 +1102,4 @@
 0923. ✨ feat: support email verification
 0024. 📚 docs: write FAQ section
 0070. ✨ feat: implement quiz timer feature
+0036. 🔧 refactor: clean up auth middleware
