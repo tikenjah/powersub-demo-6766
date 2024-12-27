@@ -1107,3 +1107,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0378. 🐛 fix: prevent crash on empty input
 0996. ✅ test: test user registration edge cases
+0496. ✅ test: add integration test for /submit endpoint
