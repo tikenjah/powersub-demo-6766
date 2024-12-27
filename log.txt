@@ -6216,3 +6216,4 @@
 0143. ✨ feat: implement quiz timer feature
 0677. 📚 docs: add API usage examples
 0235. 🐛 fix: fix null pointer exception on login
+0097. 🐛 fix: handle 500 error in quiz API
