@@ -5198,3 +5198,4 @@
 0859. ✨ feat: create admin dashboard
 0923. ✨ feat: support email verification
 0511. 🐛 fix: fix broken CSS in mobile view
+0954. 🚀 perf: cache repeated calculations
