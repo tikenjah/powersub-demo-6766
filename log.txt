@@ -5199,3 +5199,4 @@
 0923. ✨ feat: support email verification
 0511. 🐛 fix: fix broken CSS in mobile view
 0954. 🚀 perf: cache repeated calculations
+0722. 📚 docs: add API usage examples
