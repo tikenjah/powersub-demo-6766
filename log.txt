@@ -1130,3 +1130,4 @@
 0342. 🚀 perf: cache repeated calculations
 0626. 🎨 style: standardize quote style
 0151. ✅ test: add unit test for quiz service
+0387. ✨ feat: enable dark mode toggle
