@@ -1123,3 +1123,4 @@
 0374. 🎨 style: standardize quote style
 0260. ✨ feat: create admin dashboard
 0561. 📚 docs: write FAQ section
+0715. ✨ feat: create admin dashboard
