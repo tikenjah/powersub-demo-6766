@@ -5197,3 +5197,4 @@
 0023. 📚 docs: clarify environment setup
 0859. ✨ feat: create admin dashboard
 0923. ✨ feat: support email verification
+0511. 🐛 fix: fix broken CSS in mobile view
