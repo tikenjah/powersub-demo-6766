@@ -6218,3 +6218,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0097. 🐛 fix: handle 500 error in quiz API
 0478. 🐛 fix: resolve issue with date parsing
+0896. 🚀 perf: reduce image load time
