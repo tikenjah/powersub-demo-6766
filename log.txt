@@ -8219,3 +8219,4 @@
 0726. ✨ feat: enable dark mode toggle
 0705. 🔧 refactor: refactor quiz grading logic
 0477. 🐛 fix: fix broken CSS in mobile view
+0186. ✅ test: test user registration edge cases
