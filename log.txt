@@ -6221,3 +6221,4 @@
 0896. 🚀 perf: reduce image load time
 0216. 🎨 style: rename variables for clarity
 0328. 🐛 fix: resolve issue with date parsing
+0884. 📚 docs: clarify environment setup
