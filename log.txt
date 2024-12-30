@@ -9211,3 +9211,4 @@
 0490. ✨ feat: create admin dashboard
 0896. 🚀 perf: reduce image load time
 0895. ✨ feat: support email verification
+0712. 🎨 style: apply consistent indentation
