@@ -1148,3 +1148,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0611. ✅ test: test user registration edge cases
 0768. 🎨 style: remove trailing whitespace
+0967. ♻️ chore: add GitHub actions badge
