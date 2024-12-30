@@ -6223,3 +6223,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0884. 📚 docs: clarify environment setup
 0074. ♻️ chore: add GitHub actions badge
+0725. 🚀 perf: lazy-load components
