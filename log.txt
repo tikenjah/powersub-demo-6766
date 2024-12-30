@@ -7196,3 +7196,4 @@
 0341. 🚀 perf: lazy-load components
 0992. ♻️ chore: clean up unused files
 0233. 🚀 perf: lazy-load components
+0106. 🎨 style: reformat files with black
