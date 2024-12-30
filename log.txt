@@ -1150,3 +1150,4 @@
 0768. 🎨 style: remove trailing whitespace
 0967. ♻️ chore: add GitHub actions badge
 0660. 🐛 fix: correct typo in registration form
+0698. 🐛 fix: handle 500 error in quiz API
