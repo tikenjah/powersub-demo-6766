@@ -8224,3 +8224,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0308. 🚀 perf: reduce image load time
 0550. 🔧 refactor: split large controller into smaller functions
+0469. 🚀 perf: lazy-load components
