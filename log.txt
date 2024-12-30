@@ -9209,3 +9209,4 @@
 0528. ♻️ chore: clean up unused files
 0980. 🎨 style: reformat files with black
 0490. ✨ feat: create admin dashboard
+0896. 🚀 perf: reduce image load time
