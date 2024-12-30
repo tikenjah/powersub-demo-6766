@@ -1156,3 +1156,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0383. 🐛 fix: fix broken CSS in mobile view
 0809. ♻️ chore: rename env.example
+0823. ✨ feat: add user authentication
