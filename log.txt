@@ -5206,3 +5206,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0740. 🐛 fix: resolve issue with date parsing
 0307. ✨ feat: support email verification
+0956. 📚 docs: clarify environment setup
