@@ -9212,3 +9212,4 @@
 0896. 🚀 perf: reduce image load time
 0895. ✨ feat: support email verification
 0712. 🎨 style: apply consistent indentation
+0488. ♻️ chore: add GitHub actions badge
