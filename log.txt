@@ -9213,3 +9213,4 @@
 0895. ✨ feat: support email verification
 0712. 🎨 style: apply consistent indentation
 0488. ♻️ chore: add GitHub actions badge
+0523. ♻️ chore: bump dependencies
