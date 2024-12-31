@@ -10196,3 +10196,4 @@
 0387. ✨ feat: enable dark mode toggle
 0140. 🐛 fix: handle 500 error in quiz API
 0367. 🐛 fix: fix null pointer exception on login
+0995. ✅ test: mock database connection in test suite
