@@ -1167,3 +1167,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0163. ✨ feat: implement quiz timer feature
 0822. 🔧 refactor: remove redundant code blocks
+0463. 🚀 perf: reduce image load time
