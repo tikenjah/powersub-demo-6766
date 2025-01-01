@@ -1164,3 +1164,4 @@
 0232. 🎨 style: apply consistent indentation
 0433. 🐛 fix: prevent crash on empty input
 0779. 🔧 refactor: organize models into subfolders
+0590. 🐛 fix: fix null pointer exception on login
