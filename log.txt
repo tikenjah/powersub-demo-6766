@@ -6225,3 +6225,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0725. 🚀 perf: lazy-load components
 0464. 🎨 style: remove trailing whitespace
+0287. 📚 docs: write FAQ section
