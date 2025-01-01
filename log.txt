@@ -7202,3 +7202,4 @@
 0075. ✅ test: mock database connection in test suite
 0769. ✨ feat: create admin dashboard
 0412. ✅ test: increase coverage on auth module
+0879. 🎨 style: standardize quote style
