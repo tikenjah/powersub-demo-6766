@@ -1172,3 +1172,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0636. ✅ test: increase coverage on auth module
 0869. ♻️ chore: bump dependencies
+0490. ✨ feat: create admin dashboard
