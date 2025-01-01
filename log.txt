@@ -1169,3 +1169,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0463. 🚀 perf: reduce image load time
 0110. 🐛 fix: prevent crash on empty input
+0294. 🐛 fix: prevent crash on empty input
