@@ -1178,3 +1178,4 @@
 0720. ✨ feat: add export to CSV option
 0515. 🚀 perf: optimize database query for quiz results
 0096. 🐛 fix: prevent crash on empty input
+0305. ✨ feat: enable dark mode toggle
