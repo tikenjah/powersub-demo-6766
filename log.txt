@@ -8231,3 +8231,4 @@
 0901. ✨ feat: add user authentication
 0845. 🚀 perf: cache repeated calculations
 0954. 🚀 perf: cache repeated calculations
+0433. 🐛 fix: prevent crash on empty input
