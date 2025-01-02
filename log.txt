@@ -6229,3 +6229,4 @@
 0903. ✅ test: mock database connection in test suite
 0925. ✨ feat: add export to CSV option
 0081. 🐛 fix: fix null pointer exception on login
+0570. 🎨 style: apply consistent indentation
