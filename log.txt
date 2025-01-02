@@ -6231,3 +6231,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0570. 🎨 style: apply consistent indentation
 0319. 🐛 fix: handle 500 error in quiz API
+0426. ✅ test: add integration test for /submit endpoint
