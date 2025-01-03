@@ -1190,3 +1190,4 @@
 0101. 📚 docs: clarify environment setup
 0290. ✅ test: test user registration edge cases
 0402. 🎨 style: reformat files with black
+0260. ✨ feat: create admin dashboard
