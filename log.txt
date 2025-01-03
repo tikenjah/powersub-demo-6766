@@ -1193,3 +1193,4 @@
 0260. ✨ feat: create admin dashboard
 0615. 🐛 fix: correct typo in registration form
 0411. ✅ test: add unit test for quiz service
+0752. ✅ test: add integration test for /submit endpoint
