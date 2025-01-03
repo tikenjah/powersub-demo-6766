@@ -1183,3 +1183,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0913. 🚀 perf: optimize database query for quiz results
 0116. ✨ feat: support email verification
+0371. ✅ test: add integration test for /submit endpoint
