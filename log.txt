@@ -1189,3 +1189,4 @@
 0563. 📚 docs: clarify environment setup
 0101. 📚 docs: clarify environment setup
 0290. ✅ test: test user registration edge cases
+0402. 🎨 style: reformat files with black
