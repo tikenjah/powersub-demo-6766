@@ -1202,3 +1202,4 @@
 0614. 🚀 perf: reduce image load time
 0789. ✨ feat: create admin dashboard
 0868. ✅ test: add unit test for quiz service
+0418. ✅ test: mock database connection in test suite
