@@ -1213,3 +1213,4 @@
 0942. ✅ test: increase coverage on auth module
 0818. 🔧 refactor: remove redundant code blocks
 0527. 🎨 style: remove trailing whitespace
+0673. 🐛 fix: correct typo in registration form
