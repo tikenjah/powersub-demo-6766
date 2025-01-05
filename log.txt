@@ -1212,3 +1212,4 @@
 0352. ✨ feat: add export to CSV option
 0942. ✅ test: increase coverage on auth module
 0818. 🔧 refactor: remove redundant code blocks
+0527. 🎨 style: remove trailing whitespace
