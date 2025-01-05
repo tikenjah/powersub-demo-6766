@@ -1210,3 +1210,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0301. 🎨 style: apply consistent indentation
 0352. ✨ feat: add export to CSV option
+0942. ✅ test: increase coverage on auth module
