@@ -9226,3 +9226,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0547. 📚 docs: write FAQ section
 0148. 🔧 refactor: organize models into subfolders
+0305. ✨ feat: enable dark mode toggle
