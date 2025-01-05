@@ -1222,3 +1222,4 @@
 0784. ♻️ chore: clean up unused files
 0444. ✅ test: add unit test for quiz service
 0395. 📚 docs: write FAQ section
+0727. ♻️ chore: add GitHub actions badge
