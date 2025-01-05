@@ -1209,3 +1209,4 @@
 0524. ♻️ chore: rename env.example
 0680. ♻️ chore: add GitHub actions badge
 0301. 🎨 style: apply consistent indentation
+0352. ✨ feat: add export to CSV option
