@@ -6238,3 +6238,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0869. ♻️ chore: bump dependencies
 0920. 🔧 refactor: organize models into subfolders
+0592. 📚 docs: add API usage examples
