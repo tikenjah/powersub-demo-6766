@@ -1224,3 +1224,4 @@
 0395. 📚 docs: write FAQ section
 0727. ♻️ chore: add GitHub actions badge
 0197. 📚 docs: update README with setup steps
+0354. 📚 docs: add API usage examples
