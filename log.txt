@@ -1214,3 +1214,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0527. 🎨 style: remove trailing whitespace
 0673. 🐛 fix: correct typo in registration form
+0958. 🐛 fix: prevent crash on empty input
