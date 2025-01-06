@@ -9229,3 +9229,4 @@
 0305. ✨ feat: enable dark mode toggle
 0324. 📚 docs: document token refresh logic
 0840. 🔧 refactor: refactor quiz grading logic
+0861. ♻️ chore: clean up unused files
