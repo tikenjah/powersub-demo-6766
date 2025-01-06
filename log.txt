@@ -1233,3 +1233,4 @@
 0002. 🚀 perf: cache repeated calculations
 0442. 🎨 style: standardize quote style
 0883. 📚 docs: improve code comments in utils
+0649. 📚 docs: update README with setup steps
