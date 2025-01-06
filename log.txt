@@ -10212,3 +10212,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0967. ♻️ chore: add GitHub actions badge
 0145. 📚 docs: improve code comments in utils
+0477. 🐛 fix: fix broken CSS in mobile view
