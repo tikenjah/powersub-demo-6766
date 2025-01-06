@@ -5226,3 +5226,4 @@
 0346. ✅ test: mock database connection in test suite
 0398. 🚀 perf: cache repeated calculations
 0011. ✅ test: add unit test for quiz service
+0942. ✅ test: increase coverage on auth module
