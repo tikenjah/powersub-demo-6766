@@ -9232,3 +9232,4 @@
 0861. ♻️ chore: clean up unused files
 0135. ✅ test: test user registration edge cases
 0430. 🐛 fix: fix null pointer exception on login
+0811. 🎨 style: reformat files with black
