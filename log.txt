@@ -8247,3 +8247,4 @@
 0885. ♻️ chore: update .gitignore
 0989. 📚 docs: write FAQ section
 0367. 🐛 fix: fix null pointer exception on login
+0770. ♻️ chore: rename env.example
