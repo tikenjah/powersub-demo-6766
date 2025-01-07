@@ -1236,3 +1236,4 @@
 0649. 📚 docs: update README with setup steps
 0655. 🚀 perf: cache repeated calculations
 0475. 🔧 refactor: clean up auth middleware
+0843. 📚 docs: document token refresh logic
