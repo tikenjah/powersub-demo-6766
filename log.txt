@@ -9233,3 +9233,4 @@
 0135. ✅ test: test user registration edge cases
 0430. 🐛 fix: fix null pointer exception on login
 0811. 🎨 style: reformat files with black
+0374. 🎨 style: standardize quote style
