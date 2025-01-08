@@ -1256,3 +1256,4 @@
 0875. ✅ test: increase coverage on auth module
 0733. 🐛 fix: fix null pointer exception on login
 0816. 🔧 refactor: organize models into subfolders
+0605. ✨ feat: support email verification
