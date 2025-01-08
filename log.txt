@@ -6250,3 +6250,4 @@
 0918. ✨ feat: enable dark mode toggle
 0187. ✨ feat: support email verification
 0710. 🐛 fix: fix broken CSS in mobile view
+0163. ✨ feat: implement quiz timer feature
