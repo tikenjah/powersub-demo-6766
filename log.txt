@@ -7220,3 +7220,4 @@
 0615. 🐛 fix: correct typo in registration form
 0945. ♻️ chore: add GitHub actions badge
 0376. 🎨 style: apply consistent indentation
+0894. ✅ test: add integration test for /submit endpoint
