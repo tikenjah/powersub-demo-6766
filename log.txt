@@ -1250,3 +1250,4 @@
 0905. ♻️ chore: bump dependencies
 0982. 🚀 perf: lazy-load components
 0806. 📚 docs: improve code comments in utils
+0749. ✨ feat: support email verification
