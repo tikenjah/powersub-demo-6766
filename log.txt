@@ -5230,3 +5230,4 @@
 0501. ✨ feat: add export to CSV option
 0397. 🐛 fix: handle 500 error in quiz API
 0444. ✅ test: add unit test for quiz service
+0738. 🐛 fix: prevent crash on empty input
