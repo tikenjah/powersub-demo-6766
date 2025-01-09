@@ -1269,3 +1269,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0454. ♻️ chore: bump dependencies
 0857. 🎨 style: rename variables for clarity
+0386. 🚀 perf: optimize database query for quiz results
