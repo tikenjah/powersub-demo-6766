@@ -6252,3 +6252,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0163. ✨ feat: implement quiz timer feature
 0258. 🐛 fix: prevent crash on empty input
+0786. ✨ feat: enable dark mode toggle
