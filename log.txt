@@ -1264,3 +1264,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0266. 🔧 refactor: remove redundant code blocks
 0174. 📚 docs: clarify environment setup
+0844. 📚 docs: update README with setup steps
