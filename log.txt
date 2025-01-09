@@ -8249,3 +8249,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0770. ♻️ chore: rename env.example
 0116. ✨ feat: support email verification
+0207. 🐛 fix: prevent crash on empty input
