@@ -6255,3 +6255,4 @@
 0786. ✨ feat: enable dark mode toggle
 0783. 🐛 fix: handle 500 error in quiz API
 0637. 🎨 style: apply consistent indentation
+0502. 📚 docs: update README with setup steps
