@@ -10219,3 +10219,4 @@
 0325. 🎨 style: rename variables for clarity
 0779. 🔧 refactor: organize models into subfolders
 0161. ✨ feat: create admin dashboard
+0836. 🚀 perf: optimize database query for quiz results
