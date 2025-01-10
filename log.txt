@@ -1280,3 +1280,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0969. ✨ feat: create admin dashboard
 0685. ✅ test: test user registration edge cases
+0347. ♻️ chore: update .gitignore
