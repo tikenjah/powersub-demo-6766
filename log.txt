@@ -1277,3 +1277,4 @@
 0639. 🐛 fix: correct typo in registration form
 0723. 🔧 refactor: remove redundant code blocks
 0340. 🚀 perf: optimize database query for quiz results
+0607. 🐛 fix: prevent crash on empty input
