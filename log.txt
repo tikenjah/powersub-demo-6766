@@ -1281,3 +1281,4 @@
 0969. ✨ feat: create admin dashboard
 0685. ✅ test: test user registration edge cases
 0347. ♻️ chore: update .gitignore
+0558. ✨ feat: enable dark mode toggle
