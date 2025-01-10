@@ -8250,3 +8250,4 @@
 0770. ♻️ chore: rename env.example
 0116. ✨ feat: support email verification
 0207. 🐛 fix: prevent crash on empty input
+0871. ✅ test: add integration test for /submit endpoint
