@@ -1283,3 +1283,4 @@
 0347. ♻️ chore: update .gitignore
 0558. ✨ feat: enable dark mode toggle
 0435. ✅ test: add unit test for quiz service
+0571. 🔧 refactor: clean up auth middleware
