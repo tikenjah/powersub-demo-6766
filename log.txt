@@ -6253,3 +6253,4 @@
 0163. ✨ feat: implement quiz timer feature
 0258. 🐛 fix: prevent crash on empty input
 0786. ✨ feat: enable dark mode toggle
+0783. 🐛 fix: handle 500 error in quiz API
