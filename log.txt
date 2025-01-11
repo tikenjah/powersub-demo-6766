@@ -1285,3 +1285,4 @@
 0435. ✅ test: add unit test for quiz service
 0571. 🔧 refactor: clean up auth middleware
 0963. 🚀 perf: reduce image load time
+0283. ♻️ chore: add GitHub actions badge
