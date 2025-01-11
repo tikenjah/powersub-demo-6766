@@ -1287,3 +1287,4 @@
 0963. 🚀 perf: reduce image load time
 0283. ♻️ chore: add GitHub actions badge
 0028. 🎨 style: standardize quote style
+0598. 🔧 refactor: remove redundant code blocks
