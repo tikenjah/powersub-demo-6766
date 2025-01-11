@@ -6259,3 +6259,4 @@
 0939. 📚 docs: update README with setup steps
 0111. 📚 docs: update README with setup steps
 0780. 📚 docs: add API usage examples
+0371. ✅ test: add integration test for /submit endpoint
