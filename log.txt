@@ -1290,3 +1290,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0945. ♻️ chore: add GitHub actions badge
 0451. ✨ feat: support email verification
+0935. 📚 docs: update README with setup steps
