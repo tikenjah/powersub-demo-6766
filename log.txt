@@ -1293,3 +1293,4 @@
 0935. 📚 docs: update README with setup steps
 0781. 🚀 perf: reduce image load time
 0490. ✨ feat: create admin dashboard
+0205. 📚 docs: update README with setup steps
