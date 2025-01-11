@@ -9245,3 +9245,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0332. 🎨 style: standardize quote style
 0302. ✨ feat: implement quiz timer feature
+0524. ♻️ chore: rename env.example
