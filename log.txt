@@ -1301,3 +1301,4 @@
 0393. 🚀 perf: lazy-load components
 0547. 📚 docs: write FAQ section
 0644. 🎨 style: apply consistent indentation
+0462. ♻️ chore: update .gitignore
