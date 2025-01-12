@@ -1307,3 +1307,4 @@
 0555. ✨ feat: create admin dashboard
 0892. ✅ test: add unit test for quiz service
 0720. ✨ feat: add export to CSV option
+0063. 🐛 fix: handle 500 error in quiz API
