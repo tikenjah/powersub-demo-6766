@@ -8258,3 +8258,4 @@
 0630. 🚀 perf: lazy-load components
 0093. ✅ test: add unit test for quiz service
 0514. 🐛 fix: fix broken CSS in mobile view
+0235. 🐛 fix: fix null pointer exception on login
