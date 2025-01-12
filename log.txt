@@ -1311,3 +1311,4 @@
 0556. ✨ feat: support email verification
 0867. 🔧 refactor: refactor quiz grading logic
 0843. 📚 docs: document token refresh logic
+0252. 🎨 style: remove trailing whitespace
