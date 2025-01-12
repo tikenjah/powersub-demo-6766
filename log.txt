@@ -1298,3 +1298,4 @@
 0536. ✨ feat: add user authentication
 0773. 📚 docs: document token refresh logic
 0733. 🐛 fix: fix null pointer exception on login
+0393. 🚀 perf: lazy-load components
