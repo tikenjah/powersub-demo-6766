@@ -1299,3 +1299,4 @@
 0773. 📚 docs: document token refresh logic
 0733. 🐛 fix: fix null pointer exception on login
 0393. 🚀 perf: lazy-load components
+0547. 📚 docs: write FAQ section
