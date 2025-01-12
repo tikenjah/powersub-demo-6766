@@ -8257,3 +8257,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0630. 🚀 perf: lazy-load components
 0093. ✅ test: add unit test for quiz service
+0514. 🐛 fix: fix broken CSS in mobile view
