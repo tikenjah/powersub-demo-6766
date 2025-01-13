@@ -9250,3 +9250,4 @@
 0716. ✨ feat: implement quiz timer feature
 0764. ✨ feat: add user authentication
 0562. 🔧 refactor: clean up auth middleware
+0330. ✅ test: test user registration edge cases
