@@ -9249,3 +9249,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0716. ✨ feat: implement quiz timer feature
 0764. ✨ feat: add user authentication
+0562. 🔧 refactor: clean up auth middleware
