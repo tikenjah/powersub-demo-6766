@@ -1313,3 +1313,4 @@
 0843. 📚 docs: document token refresh logic
 0252. 🎨 style: remove trailing whitespace
 0469. 🚀 perf: lazy-load components
+0572. ✨ feat: add user authentication
