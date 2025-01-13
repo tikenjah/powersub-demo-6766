@@ -1317,3 +1317,4 @@
 0470. 🎨 style: remove trailing whitespace
 0715. ✨ feat: create admin dashboard
 0908. ♻️ chore: bump dependencies
+0932. ✅ test: add integration test for /submit endpoint
