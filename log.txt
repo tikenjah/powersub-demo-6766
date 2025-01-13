@@ -1312,3 +1312,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0843. 📚 docs: document token refresh logic
 0252. 🎨 style: remove trailing whitespace
+0469. 🚀 perf: lazy-load components
