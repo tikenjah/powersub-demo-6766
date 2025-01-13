@@ -1316,3 +1316,4 @@
 0572. ✨ feat: add user authentication
 0470. 🎨 style: remove trailing whitespace
 0715. ✨ feat: create admin dashboard
+0908. ♻️ chore: bump dependencies
