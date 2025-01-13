@@ -10231,3 +10231,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0090. ✅ test: increase coverage on auth module
 0470. 🎨 style: remove trailing whitespace
+0888. 🚀 perf: lazy-load components
