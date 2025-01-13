@@ -10229,3 +10229,4 @@
 0458. ✨ feat: create admin dashboard
 0901. ✨ feat: add user authentication
 0065. ✅ test: add integration test for /submit endpoint
+0090. ✅ test: increase coverage on auth module
