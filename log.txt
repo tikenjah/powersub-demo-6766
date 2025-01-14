@@ -1327,3 +1327,4 @@
 0720. ✨ feat: add export to CSV option
 0794. ♻️ chore: clean up unused files
 0404. 📚 docs: improve code comments in utils
+0996. ✅ test: test user registration edge cases
