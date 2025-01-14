@@ -10234,3 +10234,4 @@
 0888. 🚀 perf: lazy-load components
 0625. 🐛 fix: handle 500 error in quiz API
 0716. ✨ feat: implement quiz timer feature
+0347. ♻️ chore: update .gitignore
