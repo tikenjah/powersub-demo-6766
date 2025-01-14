@@ -5245,3 +5245,4 @@
 0704. 🚀 perf: cache repeated calculations
 0293. ✅ test: add integration test for /submit endpoint
 0007. 🎨 style: rename variables for clarity
+0323. 📚 docs: clarify environment setup
