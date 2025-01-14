@@ -8265,3 +8265,4 @@
 0927. ♻️ chore: bump dependencies
 0912. 📚 docs: document token refresh logic
 0876. ♻️ chore: rename env.example
+0592. 📚 docs: add API usage examples
