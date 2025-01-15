@@ -1355,3 +1355,4 @@
 0115. 🚀 perf: reduce image load time
 0087. ✨ feat: add export to CSV option
 0714. 📚 docs: improve code comments in utils
+0185. 📚 docs: write FAQ section
