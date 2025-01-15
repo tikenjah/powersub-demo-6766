@@ -1350,3 +1350,4 @@
 0976. ✨ feat: implement quiz timer feature
 0242. ♻️ chore: clean up unused files
 0389. 📚 docs: improve code comments in utils
+0072. 🚀 perf: optimize database query for quiz results
