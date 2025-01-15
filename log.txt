@@ -10237,3 +10237,4 @@
 0347. ♻️ chore: update .gitignore
 0895. ✨ feat: support email verification
 0076. 🎨 style: reformat files with black
+0270. ♻️ chore: rename env.example
