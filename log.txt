@@ -10236,3 +10236,4 @@
 0716. ✨ feat: implement quiz timer feature
 0347. ♻️ chore: update .gitignore
 0895. ✨ feat: support email verification
+0076. 🎨 style: reformat files with black
