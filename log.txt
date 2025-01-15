@@ -7232,3 +7232,4 @@
 0087. ✨ feat: add export to CSV option
 0026. 🔧 refactor: clean up auth middleware
 0861. ♻️ chore: clean up unused files
+0401. 🚀 perf: reduce image load time
