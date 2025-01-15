@@ -8267,3 +8267,4 @@
 0876. ♻️ chore: rename env.example
 0592. 📚 docs: add API usage examples
 0416. 🎨 style: rename variables for clarity
+0803. ✅ test: mock database connection in test suite
