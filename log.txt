@@ -6273,3 +6273,4 @@
 0303. 🎨 style: rename variables for clarity
 0628. ♻️ chore: add GitHub actions badge
 0171. 🐛 fix: fix broken CSS in mobile view
+0307. ✨ feat: support email verification
