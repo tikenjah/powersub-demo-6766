@@ -6277,3 +6277,4 @@
 0897. 🐛 fix: prevent crash on empty input
 0151. ✅ test: add unit test for quiz service
 0746. ♻️ chore: add GitHub actions badge
+0769. ✨ feat: create admin dashboard
