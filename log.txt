@@ -5252,3 +5252,4 @@
 0508. ✅ test: add unit test for quiz service
 0324. 📚 docs: document token refresh logic
 0476. 🚀 perf: reduce image load time
+0342. 🚀 perf: cache repeated calculations
