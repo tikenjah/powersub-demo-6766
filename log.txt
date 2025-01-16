@@ -9259,3 +9259,4 @@
 0592. 📚 docs: add API usage examples
 0240. 🔧 refactor: remove redundant code blocks
 0326. 🚀 perf: cache repeated calculations
+0250. 📚 docs: update README with setup steps
