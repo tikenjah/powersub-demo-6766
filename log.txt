@@ -6274,3 +6274,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0171. 🐛 fix: fix broken CSS in mobile view
 0307. ✨ feat: support email verification
+0897. 🐛 fix: prevent crash on empty input
