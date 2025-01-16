@@ -1359,3 +1359,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0218. 🔧 refactor: clean up auth middleware
 0069. 🎨 style: rename variables for clarity
+0013. ✅ test: increase coverage on auth module
