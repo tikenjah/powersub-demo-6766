@@ -1362,3 +1362,4 @@
 0013. ✅ test: increase coverage on auth module
 0082. 🔧 refactor: refactor quiz grading logic
 0518. ✨ feat: support email verification
+0944. ✨ feat: add user authentication
