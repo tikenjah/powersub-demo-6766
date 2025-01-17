@@ -5258,3 +5258,4 @@
 0996. ✅ test: test user registration edge cases
 0916. ♻️ chore: bump dependencies
 0795. 📚 docs: update README with setup steps
+0247. 🎨 style: apply consistent indentation
