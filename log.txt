@@ -5257,3 +5257,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0996. ✅ test: test user registration edge cases
 0916. ♻️ chore: bump dependencies
+0795. 📚 docs: update README with setup steps
