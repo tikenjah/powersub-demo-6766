@@ -5253,3 +5253,4 @@
 0324. 📚 docs: document token refresh logic
 0476. 🚀 perf: reduce image load time
 0342. 🚀 perf: cache repeated calculations
+0571. 🔧 refactor: clean up auth middleware
