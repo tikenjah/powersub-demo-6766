@@ -1377,3 +1377,4 @@
 0424. ✨ feat: add user authentication
 0309. 🔧 refactor: refactor quiz grading logic
 0568. 🐛 fix: handle 500 error in quiz API
+0914. ✅ test: test user registration edge cases
