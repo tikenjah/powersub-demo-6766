@@ -1385,3 +1385,4 @@
 0167. 🚀 perf: reduce image load time
 0846. ✨ feat: implement quiz timer feature
 0048. 📚 docs: update README with setup steps
+0594. 🎨 style: reformat files with black
