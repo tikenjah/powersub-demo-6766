@@ -1382,3 +1382,4 @@
 0968. 🎨 style: standardize quote style
 0938. 🎨 style: rename variables for clarity
 0639. 🐛 fix: correct typo in registration form
+0167. 🚀 perf: reduce image load time
