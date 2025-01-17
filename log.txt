@@ -1370,3 +1370,4 @@
 0848. 📚 docs: update README with setup steps
 0687. 🎨 style: remove trailing whitespace
 0443. 🎨 style: standardize quote style
+0348. ✅ test: test user registration edge cases
