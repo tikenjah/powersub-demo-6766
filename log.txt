@@ -6278,3 +6278,4 @@
 0151. ✅ test: add unit test for quiz service
 0746. ♻️ chore: add GitHub actions badge
 0769. ✨ feat: create admin dashboard
+0574. ✨ feat: enable dark mode toggle
