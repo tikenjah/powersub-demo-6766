@@ -6279,3 +6279,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0769. ✨ feat: create admin dashboard
 0574. ✨ feat: enable dark mode toggle
+0359. 🔧 refactor: clean up auth middleware
