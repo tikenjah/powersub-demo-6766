@@ -1390,3 +1390,4 @@
 0250. 📚 docs: update README with setup steps
 0134. ✨ feat: implement quiz timer feature
 0075. ✅ test: mock database connection in test suite
+0250. 📚 docs: update README with setup steps
