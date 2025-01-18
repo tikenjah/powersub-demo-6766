@@ -9262,3 +9262,4 @@
 0250. 📚 docs: update README with setup steps
 0641. 📚 docs: write FAQ section
 0541. 🐛 fix: correct typo in registration form
+0657. 🎨 style: standardize quote style
