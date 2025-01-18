@@ -1395,3 +1395,4 @@
 0009. ✨ feat: enable dark mode toggle
 0047. 🎨 style: rename variables for clarity
 0340. 🚀 perf: optimize database query for quiz results
+0116. ✨ feat: support email verification
