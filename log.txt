@@ -1396,3 +1396,4 @@
 0047. 🎨 style: rename variables for clarity
 0340. 🚀 perf: optimize database query for quiz results
 0116. ✨ feat: support email verification
+0876. ♻️ chore: rename env.example
