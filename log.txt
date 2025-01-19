@@ -1404,3 +1404,4 @@
 0950. 🎨 style: reformat files with black
 0733. 🐛 fix: fix null pointer exception on login
 0653. 🐛 fix: prevent crash on empty input
+0217. 🚀 perf: reduce image load time
