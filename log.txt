@@ -6281,3 +6281,4 @@
 0574. ✨ feat: enable dark mode toggle
 0359. 🔧 refactor: clean up auth middleware
 0286. ✅ test: mock database connection in test suite
+0088. 📚 docs: add API usage examples
