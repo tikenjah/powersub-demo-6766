@@ -6282,3 +6282,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0286. ✅ test: mock database connection in test suite
 0088. 📚 docs: add API usage examples
+0978. 🐛 fix: prevent crash on empty input
