@@ -1399,3 +1399,4 @@
 0876. ♻️ chore: rename env.example
 0959. 🐛 fix: fix null pointer exception on login
 0471. ✨ feat: support email verification
+0030. 🐛 fix: fix null pointer exception on login
