@@ -1407,3 +1407,4 @@
 0217. 🚀 perf: reduce image load time
 0361. ✨ feat: support email verification
 0435. ✅ test: add unit test for quiz service
+0368. 🚀 perf: lazy-load components
