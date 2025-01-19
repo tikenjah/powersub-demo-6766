@@ -8275,3 +8275,4 @@
 0504. 📚 docs: document token refresh logic
 0714. 📚 docs: improve code comments in utils
 0051. ✨ feat: enable dark mode toggle
+0746. ♻️ chore: add GitHub actions badge
