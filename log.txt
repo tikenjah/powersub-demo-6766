@@ -7243,3 +7243,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0059. ♻️ chore: bump dependencies
 0978. 🐛 fix: prevent crash on empty input
+0568. 🐛 fix: handle 500 error in quiz API
