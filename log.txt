@@ -1410,3 +1410,4 @@
 0368. 🚀 perf: lazy-load components
 0967. ♻️ chore: add GitHub actions badge
 0271. ✅ test: add unit test for quiz service
+0105. 🐛 fix: correct typo in registration form
