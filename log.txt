@@ -6285,3 +6285,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0785. ✨ feat: enable dark mode toggle
 0134. ✨ feat: implement quiz timer feature
+0475. 🔧 refactor: clean up auth middleware
