@@ -5265,3 +5265,4 @@
 0326. 🚀 perf: cache repeated calculations
 0574. ✨ feat: enable dark mode toggle
 0750. 🎨 style: apply consistent indentation
+0121. ✨ feat: support email verification
