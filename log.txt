@@ -5267,3 +5267,4 @@
 0750. 🎨 style: apply consistent indentation
 0121. ✨ feat: support email verification
 0152. ✨ feat: add user authentication
+0359. 🔧 refactor: clean up auth middleware
