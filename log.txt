@@ -1424,3 +1424,4 @@
 0446. 🎨 style: apply consistent indentation
 0749. ✨ feat: support email verification
 0560. 🎨 style: rename variables for clarity
+0743. 🎨 style: apply consistent indentation
