@@ -5269,3 +5269,4 @@
 0152. ✨ feat: add user authentication
 0359. 🔧 refactor: clean up auth middleware
 0588. 🔧 refactor: organize models into subfolders
+0827. 🚀 perf: optimize database query for quiz results
