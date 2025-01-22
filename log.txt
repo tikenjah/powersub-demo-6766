@@ -8281,3 +8281,4 @@
 0997. ✅ test: increase coverage on auth module
 0041. 🐛 fix: fix broken CSS in mobile view
 0392. 🎨 style: remove trailing whitespace
+0505. ♻️ chore: add GitHub actions badge
