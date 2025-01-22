@@ -7248,3 +7248,4 @@
 0348. ✅ test: test user registration edge cases
 0497. 🔧 refactor: refactor quiz grading logic
 0058. ♻️ chore: add GitHub actions badge
+0201. 🔧 refactor: clean up auth middleware
