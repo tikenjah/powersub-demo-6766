@@ -5272,3 +5272,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0232. 🎨 style: apply consistent indentation
 0585. 🚀 perf: lazy-load components
+0918. ✨ feat: enable dark mode toggle
