@@ -1447,3 +1447,4 @@
 0527. 🎨 style: remove trailing whitespace
 0788. 📚 docs: add API usage examples
 0089. 🔧 refactor: remove redundant code blocks
+0320. 📚 docs: update README with setup steps
