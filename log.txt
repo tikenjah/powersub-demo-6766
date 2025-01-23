@@ -1473,3 +1473,4 @@
 0313. 🎨 style: apply consistent indentation
 0975. 🎨 style: apply consistent indentation
 0092. 🚀 perf: reduce image load time
+0099. 🚀 perf: reduce image load time
