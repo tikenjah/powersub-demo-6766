@@ -5275,3 +5275,4 @@
 0918. ✨ feat: enable dark mode toggle
 0505. ♻️ chore: add GitHub actions badge
 0433. 🐛 fix: prevent crash on empty input
+0467. ✅ test: add integration test for /submit endpoint
