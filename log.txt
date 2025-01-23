@@ -1468,3 +1468,4 @@
 0611. ✅ test: test user registration edge cases
 0550. 🔧 refactor: split large controller into smaller functions
 0462. ♻️ chore: update .gitignore
+0600. 🐛 fix: prevent crash on empty input
