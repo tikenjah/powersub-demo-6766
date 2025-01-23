@@ -8284,3 +8284,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0709. ♻️ chore: bump dependencies
 0288. 🔧 refactor: refactor quiz grading logic
+0780. 📚 docs: add API usage examples
