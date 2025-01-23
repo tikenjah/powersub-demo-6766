@@ -9279,3 +9279,4 @@
 0870. ♻️ chore: clean up unused files
 0374. 🎨 style: standardize quote style
 0255. 🔧 refactor: refactor quiz grading logic
+0365. 🚀 perf: reduce image load time
