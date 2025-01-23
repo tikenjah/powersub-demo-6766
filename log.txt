@@ -9285,3 +9285,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0439. 🐛 fix: correct typo in registration form
 0154. 🐛 fix: prevent crash on empty input
+0647. 🐛 fix: prevent crash on empty input
