@@ -1463,3 +1463,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0194. 🎨 style: standardize quote style
 0255. 🔧 refactor: refactor quiz grading logic
+0934. ✨ feat: support email verification
