@@ -1467,3 +1467,4 @@
 0561. 📚 docs: write FAQ section
 0611. ✅ test: test user registration edge cases
 0550. 🔧 refactor: split large controller into smaller functions
+0462. ♻️ chore: update .gitignore
