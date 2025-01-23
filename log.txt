@@ -1466,3 +1466,4 @@
 0934. ✨ feat: support email verification
 0561. 📚 docs: write FAQ section
 0611. ✅ test: test user registration edge cases
+0550. 🔧 refactor: split large controller into smaller functions
