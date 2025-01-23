@@ -9277,3 +9277,4 @@
 0863. 🐛 fix: correct typo in registration form
 0711. 🐛 fix: fix broken CSS in mobile view
 0870. ♻️ chore: clean up unused files
+0374. 🎨 style: standardize quote style
