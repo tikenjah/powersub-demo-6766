@@ -1453,3 +1453,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0226. 🚀 perf: lazy-load components
 0337. 📚 docs: document token refresh logic
+0764. ✨ feat: add user authentication
