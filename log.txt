@@ -7252,3 +7252,4 @@
 0620. ✨ feat: implement quiz timer feature
 0454. ♻️ chore: bump dependencies
 0927. ♻️ chore: bump dependencies
+0961. 📚 docs: add API usage examples
