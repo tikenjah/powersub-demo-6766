@@ -1477,3 +1477,4 @@
 0678. ✨ feat: add user authentication
 0344. ♻️ chore: add GitHub actions badge
 0465. 🎨 style: rename variables for clarity
+0150. 🎨 style: remove trailing whitespace
