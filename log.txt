@@ -5280,3 +5280,4 @@
 0313. 🎨 style: apply consistent indentation
 0770. ♻️ chore: rename env.example
 0534. 🔧 refactor: split large controller into smaller functions
+0520. 🐛 fix: fix null pointer exception on login
