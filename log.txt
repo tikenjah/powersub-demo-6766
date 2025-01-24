@@ -1482,3 +1482,4 @@
 0866. 📚 docs: add API usage examples
 0005. ✅ test: add unit test for quiz service
 0249. ✅ test: increase coverage on auth module
+0747. 🔧 refactor: clean up auth middleware
