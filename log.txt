@@ -1480,3 +1480,4 @@
 0150. 🎨 style: remove trailing whitespace
 0842. 🎨 style: remove trailing whitespace
 0866. 📚 docs: add API usage examples
+0005. ✅ test: add unit test for quiz service
