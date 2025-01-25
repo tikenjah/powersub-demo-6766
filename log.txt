@@ -8290,3 +8290,4 @@
 0481. ✅ test: add unit test for quiz service
 0175. 📚 docs: add API usage examples
 0140. 🐛 fix: handle 500 error in quiz API
+0018. 🔧 refactor: organize models into subfolders
