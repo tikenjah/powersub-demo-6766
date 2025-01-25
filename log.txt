@@ -10260,3 +10260,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0313. 🎨 style: apply consistent indentation
 0597. 🚀 perf: cache repeated calculations
+0194. 🎨 style: standardize quote style
