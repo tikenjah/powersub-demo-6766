@@ -9292,3 +9292,4 @@
 0054. ♻️ chore: update .gitignore
 0997. ✅ test: increase coverage on auth module
 0934. ✨ feat: support email verification
+0115. 🚀 perf: reduce image load time
