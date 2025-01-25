@@ -8292,3 +8292,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0018. 🔧 refactor: organize models into subfolders
 0003. ✅ test: increase coverage on auth module
+0285. 🐛 fix: resolve issue with date parsing
