@@ -1497,3 +1497,4 @@
 0771. 🚀 perf: cache repeated calculations
 0944. ✨ feat: add user authentication
 0574. ✨ feat: enable dark mode toggle
+0114. ♻️ chore: update .gitignore
