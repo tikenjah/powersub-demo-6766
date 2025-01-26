@@ -9295,3 +9295,4 @@
 0115. 🚀 perf: reduce image load time
 0421. 🔧 refactor: split large controller into smaller functions
 0586. 🎨 style: remove trailing whitespace
+0630. 🚀 perf: lazy-load components
