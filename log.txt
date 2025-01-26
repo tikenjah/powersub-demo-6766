@@ -10261,3 +10261,4 @@
 0313. 🎨 style: apply consistent indentation
 0597. 🚀 perf: cache repeated calculations
 0194. 🎨 style: standardize quote style
+0787. ♻️ chore: rename env.example
