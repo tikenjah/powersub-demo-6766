@@ -1506,3 +1506,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0641. 📚 docs: write FAQ section
 0819. 🚀 perf: reduce image load time
+0440. 📚 docs: update README with setup steps
