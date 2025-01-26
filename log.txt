@@ -10263,3 +10263,4 @@
 0194. 🎨 style: standardize quote style
 0787. ♻️ chore: rename env.example
 0770. ♻️ chore: rename env.example
+0124. 🎨 style: reformat files with black
