@@ -1513,3 +1513,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0807. 🔧 refactor: remove redundant code blocks
 0722. 📚 docs: add API usage examples
+0696. 🔧 refactor: clean up auth middleware
