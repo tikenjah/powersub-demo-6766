@@ -1526,3 +1526,4 @@
 0112. ✨ feat: enable dark mode toggle
 0220. 🐛 fix: fix null pointer exception on login
 0726. ✨ feat: enable dark mode toggle
+0380. 🐛 fix: fix null pointer exception on login
