@@ -1520,3 +1520,4 @@
 0175. 📚 docs: add API usage examples
 0064. 📚 docs: clarify environment setup
 0074. ♻️ chore: add GitHub actions badge
+0259. 🚀 perf: lazy-load components
