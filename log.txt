@@ -5285,3 +5285,4 @@
 0150. 🎨 style: remove trailing whitespace
 0058. ♻️ chore: add GitHub actions badge
 0407. 🚀 perf: cache repeated calculations
+0339. 📚 docs: update README with setup steps
