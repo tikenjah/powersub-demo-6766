@@ -6297,3 +6297,4 @@
 0764. ✨ feat: add user authentication
 0115. 🚀 perf: reduce image load time
 0418. ✅ test: mock database connection in test suite
+0436. ✅ test: add integration test for /submit endpoint
