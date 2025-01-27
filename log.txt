@@ -1515,3 +1515,4 @@
 0722. 📚 docs: add API usage examples
 0696. 🔧 refactor: clean up auth middleware
 0144. ✅ test: increase coverage on auth module
+0485. 📚 docs: update README with setup steps
