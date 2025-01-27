@@ -1523,3 +1523,4 @@
 0259. 🚀 perf: lazy-load components
 0161. ✨ feat: create admin dashboard
 0357. ✅ test: add unit test for quiz service
+0112. ✨ feat: enable dark mode toggle
