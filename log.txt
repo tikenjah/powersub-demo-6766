@@ -8300,3 +8300,4 @@
 0949. 📚 docs: write FAQ section
 0096. 🐛 fix: prevent crash on empty input
 0466. 🚀 perf: optimize database query for quiz results
+0965. 🎨 style: reformat files with black
