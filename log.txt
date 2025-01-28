@@ -1531,3 +1531,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0658. 🎨 style: rename variables for clarity
 0129. 🔧 refactor: organize models into subfolders
+0448. 🐛 fix: correct typo in registration form
