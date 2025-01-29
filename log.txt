@@ -1550,3 +1550,4 @@
 0962. ✨ feat: create admin dashboard
 0853. 🔧 refactor: refactor quiz grading logic
 0398. 🚀 perf: cache repeated calculations
+0558. ✨ feat: enable dark mode toggle
