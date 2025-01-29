@@ -8304,3 +8304,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0941. 🚀 perf: cache repeated calculations
 0325. 🎨 style: rename variables for clarity
+0208. 🔧 refactor: clean up auth middleware
