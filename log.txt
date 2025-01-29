@@ -10272,3 +10272,4 @@
 0163. ✨ feat: implement quiz timer feature
 0664. ✅ test: add unit test for quiz service
 0722. 📚 docs: add API usage examples
+0932. ✅ test: add integration test for /submit endpoint
