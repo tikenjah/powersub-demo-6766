@@ -5294,3 +5294,4 @@
 0100. ♻️ chore: update .gitignore
 0425. 🔧 refactor: refactor quiz grading logic
 0495. 🔧 refactor: remove redundant code blocks
+0250. 📚 docs: update README with setup steps
