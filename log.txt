@@ -1560,3 +1560,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0575. ✅ test: add unit test for quiz service
 0009. ✨ feat: enable dark mode toggle
+0252. 🎨 style: remove trailing whitespace
