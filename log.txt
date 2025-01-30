@@ -8307,3 +8307,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0704. 🚀 perf: cache repeated calculations
 0846. ✨ feat: implement quiz timer feature
+0931. 🚀 perf: reduce image load time
