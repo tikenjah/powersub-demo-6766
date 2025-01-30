@@ -5301,3 +5301,4 @@
 0427. ✅ test: mock database connection in test suite
 0409. 🚀 perf: lazy-load components
 0779. 🔧 refactor: organize models into subfolders
+0117. ✅ test: increase coverage on auth module
