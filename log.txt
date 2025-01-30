@@ -8308,3 +8308,4 @@
 0704. 🚀 perf: cache repeated calculations
 0846. ✨ feat: implement quiz timer feature
 0931. 🚀 perf: reduce image load time
+0257. 📚 docs: clarify environment setup
