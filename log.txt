@@ -1578,3 +1578,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0965. 🎨 style: reformat files with black
 0805. ♻️ chore: add GitHub actions badge
+0633. ✨ feat: add user authentication
