@@ -1582,3 +1582,4 @@
 0317. ✅ test: test user registration edge cases
 0165. 🎨 style: remove trailing whitespace
 0013. ✅ test: increase coverage on auth module
+0765. ♻️ chore: clean up unused files
