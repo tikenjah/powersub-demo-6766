@@ -1581,3 +1581,4 @@
 0633. ✨ feat: add user authentication
 0317. ✅ test: test user registration edge cases
 0165. 🎨 style: remove trailing whitespace
+0013. ✅ test: increase coverage on auth module
