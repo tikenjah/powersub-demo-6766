@@ -7271,3 +7271,4 @@
 0144. ✅ test: increase coverage on auth module
 0406. ✨ feat: add export to CSV option
 0526. ✨ feat: add user authentication
+0182. 🔧 refactor: remove redundant code blocks
