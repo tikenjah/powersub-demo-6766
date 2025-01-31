@@ -6302,3 +6302,4 @@
 0155. ✨ feat: create admin dashboard
 0802. 🔧 refactor: remove redundant code blocks
 0572. ✨ feat: add user authentication
+0665. ♻️ chore: update .gitignore
