@@ -1579,3 +1579,4 @@
 0965. 🎨 style: reformat files with black
 0805. ♻️ chore: add GitHub actions badge
 0633. ✨ feat: add user authentication
+0317. ✅ test: test user registration edge cases
