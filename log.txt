@@ -8311,3 +8311,4 @@
 0257. 📚 docs: clarify environment setup
 0875. ✅ test: increase coverage on auth module
 0304. 🔧 refactor: remove redundant code blocks
+0546. 🐛 fix: fix null pointer exception on login
