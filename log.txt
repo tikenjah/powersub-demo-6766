@@ -1573,3 +1573,4 @@
 0697. ♻️ chore: bump dependencies
 0629. 🔧 refactor: organize models into subfolders
 0718. 🐛 fix: resolve issue with date parsing
+0526. ✨ feat: add user authentication
