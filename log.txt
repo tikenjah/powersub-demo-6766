@@ -6304,3 +6304,4 @@
 0572. ✨ feat: add user authentication
 0665. ♻️ chore: update .gitignore
 0147. ♻️ chore: bump dependencies
+0335. ♻️ chore: update .gitignore
