@@ -8316,3 +8316,4 @@
 0764. ✨ feat: add user authentication
 0471. ✨ feat: support email verification
 0984. ♻️ chore: clean up unused files
+0987. ✨ feat: create admin dashboard
