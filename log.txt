@@ -6305,3 +6305,4 @@
 0665. ♻️ chore: update .gitignore
 0147. ♻️ chore: bump dependencies
 0335. ♻️ chore: update .gitignore
+0226. 🚀 perf: lazy-load components
