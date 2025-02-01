@@ -5307,3 +5307,4 @@
 0227. ✅ test: test user registration edge cases
 0493. ✨ feat: add user authentication
 0289. 🐛 fix: resolve issue with date parsing
+0335. ♻️ chore: update .gitignore
