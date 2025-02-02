@@ -10279,3 +10279,4 @@
 0778. 📚 docs: write FAQ section
 0946. ✅ test: add unit test for quiz service
 0977. 🔧 refactor: organize models into subfolders
+0589. 🐛 fix: fix broken CSS in mobile view
