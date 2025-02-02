@@ -5308,3 +5308,4 @@
 0493. ✨ feat: add user authentication
 0289. 🐛 fix: resolve issue with date parsing
 0335. ♻️ chore: update .gitignore
+0329. 📚 docs: update README with setup steps
