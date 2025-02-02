@@ -8317,3 +8317,4 @@
 0471. ✨ feat: support email verification
 0984. ♻️ chore: clean up unused files
 0987. ✨ feat: create admin dashboard
+0341. 🚀 perf: lazy-load components
