@@ -8320,3 +8320,4 @@
 0341. 🚀 perf: lazy-load components
 0539. 🔧 refactor: organize models into subfolders
 0392. 🎨 style: remove trailing whitespace
+0222. 🐛 fix: handle 500 error in quiz API
