@@ -9313,3 +9313,4 @@
 0895. ✨ feat: support email verification
 0629. 🔧 refactor: organize models into subfolders
 0412. ✅ test: increase coverage on auth module
+0852. ✨ feat: enable dark mode toggle
