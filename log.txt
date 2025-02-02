@@ -1606,3 +1606,4 @@
 0314. ✨ feat: implement quiz timer feature
 0928. 🎨 style: apply consistent indentation
 0801. ✨ feat: enable dark mode toggle
+0535. 📚 docs: write FAQ section
