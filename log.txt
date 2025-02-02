@@ -1608,3 +1608,4 @@
 0801. ✨ feat: enable dark mode toggle
 0535. 📚 docs: write FAQ section
 0662. ♻️ chore: clean up unused files
+0390. 🎨 style: standardize quote style
