@@ -10277,3 +10277,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0843. 📚 docs: document token refresh logic
 0778. 📚 docs: write FAQ section
+0946. ✅ test: add unit test for quiz service
