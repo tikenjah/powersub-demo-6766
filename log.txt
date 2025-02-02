@@ -5310,3 +5310,4 @@
 0335. ♻️ chore: update .gitignore
 0329. 📚 docs: update README with setup steps
 0693. 📚 docs: add API usage examples
+0544. 🔧 refactor: organize models into subfolders
