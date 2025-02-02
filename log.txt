@@ -1610,3 +1610,4 @@
 0662. ♻️ chore: clean up unused files
 0390. 🎨 style: standardize quote style
 0007. 🎨 style: rename variables for clarity
+0197. 📚 docs: update README with setup steps
