@@ -1618,3 +1618,4 @@
 0793. 📚 docs: clarify environment setup
 0635. 🎨 style: apply consistent indentation
 0794. ♻️ chore: clean up unused files
+0865. ♻️ chore: add GitHub actions badge
