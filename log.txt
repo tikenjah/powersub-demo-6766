@@ -8324,3 +8324,4 @@
 0982. 🚀 perf: lazy-load components
 0771. 🚀 perf: cache repeated calculations
 0366. 🔧 refactor: remove redundant code blocks
+0564. 📚 docs: clarify environment setup
