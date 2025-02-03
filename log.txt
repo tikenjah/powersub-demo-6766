@@ -1629,3 +1629,4 @@
 0196. ♻️ chore: bump dependencies
 0233. 🚀 perf: lazy-load components
 0596. ♻️ chore: update .gitignore
+0732. ♻️ chore: add GitHub actions badge
