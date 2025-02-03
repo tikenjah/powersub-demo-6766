@@ -1628,3 +1628,4 @@
 0826. 📚 docs: clarify environment setup
 0196. ♻️ chore: bump dependencies
 0233. 🚀 perf: lazy-load components
+0596. ♻️ chore: update .gitignore
