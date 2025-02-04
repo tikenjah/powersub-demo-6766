@@ -10285,3 +10285,4 @@
 0012. 🚀 perf: cache repeated calculations
 0103. 🔧 refactor: remove redundant code blocks
 0805. ♻️ chore: add GitHub actions badge
+0994. 🚀 perf: reduce image load time
