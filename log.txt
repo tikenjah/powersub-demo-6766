@@ -1641,3 +1641,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0028. 🎨 style: standardize quote style
 0078. ♻️ chore: update .gitignore
+0496. ✅ test: add integration test for /submit endpoint
