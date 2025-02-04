@@ -1635,3 +1635,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0363. 📚 docs: clarify environment setup
 0412. ✅ test: increase coverage on auth module
+0555. ✨ feat: create admin dashboard
