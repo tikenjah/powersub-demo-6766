@@ -8326,3 +8326,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0564. 📚 docs: clarify environment setup
 0514. 🐛 fix: fix broken CSS in mobile view
+0667. ✨ feat: add export to CSV option
