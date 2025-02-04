@@ -1631,3 +1631,4 @@
 0596. ♻️ chore: update .gitignore
 0732. ♻️ chore: add GitHub actions badge
 0552. 🐛 fix: fix null pointer exception on login
+0531. 🐛 fix: prevent crash on empty input
