@@ -1645,3 +1645,4 @@
 0960. ✅ test: increase coverage on auth module
 0147. ♻️ chore: bump dependencies
 0400. 🐛 fix: fix null pointer exception on login
+0847. ♻️ chore: clean up unused files
