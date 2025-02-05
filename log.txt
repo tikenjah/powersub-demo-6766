@@ -1643,3 +1643,4 @@
 0078. ♻️ chore: update .gitignore
 0496. ✅ test: add integration test for /submit endpoint
 0960. ✅ test: increase coverage on auth module
+0147. ♻️ chore: bump dependencies
