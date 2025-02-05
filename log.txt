@@ -5321,3 +5321,4 @@
 0142. ✨ feat: implement quiz timer feature
 0363. 📚 docs: clarify environment setup
 0094. 📚 docs: document token refresh logic
+0581. ✅ test: add integration test for /submit endpoint
