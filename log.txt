@@ -10286,3 +10286,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0805. ♻️ chore: add GitHub actions badge
 0994. 🚀 perf: reduce image load time
+0747. 🔧 refactor: clean up auth middleware
