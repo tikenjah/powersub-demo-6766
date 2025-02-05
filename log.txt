@@ -1654,3 +1654,4 @@
 0903. ✅ test: mock database connection in test suite
 0870. ♻️ chore: clean up unused files
 0373. 📚 docs: document token refresh logic
+0551. 📚 docs: write FAQ section
