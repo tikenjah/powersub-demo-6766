@@ -8331,3 +8331,4 @@
 0905. ♻️ chore: bump dependencies
 0697. ♻️ chore: bump dependencies
 0301. 🎨 style: apply consistent indentation
+0101. 📚 docs: clarify environment setup
