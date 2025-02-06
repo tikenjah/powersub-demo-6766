@@ -1658,3 +1658,4 @@
 0083. 🎨 style: reformat files with black
 0579. 📚 docs: clarify environment setup
 0826. 📚 docs: clarify environment setup
+0224. 🐛 fix: fix broken CSS in mobile view
