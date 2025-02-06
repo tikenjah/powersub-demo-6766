@@ -9326,3 +9326,4 @@
 0077. ♻️ chore: rename env.example
 0392. 🎨 style: remove trailing whitespace
 0698. 🐛 fix: handle 500 error in quiz API
+0671. 🐛 fix: fix null pointer exception on login
