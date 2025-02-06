@@ -6318,3 +6318,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0302. ✨ feat: implement quiz timer feature
 0919. 🚀 perf: optimize database query for quiz results
+0772. 🐛 fix: fix null pointer exception on login
