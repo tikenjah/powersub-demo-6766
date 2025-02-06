@@ -9324,3 +9324,4 @@
 0244. ✨ feat: add export to CSV option
 0217. 🚀 perf: reduce image load time
 0077. ♻️ chore: rename env.example
+0392. 🎨 style: remove trailing whitespace
