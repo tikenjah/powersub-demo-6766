@@ -7288,3 +7288,4 @@
 0443. 🎨 style: standardize quote style
 0680. ♻️ chore: add GitHub actions badge
 0383. 🐛 fix: fix broken CSS in mobile view
+0672. 🐛 fix: fix broken CSS in mobile view
