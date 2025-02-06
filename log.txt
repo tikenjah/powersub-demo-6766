@@ -1657,3 +1657,4 @@
 0551. 📚 docs: write FAQ section
 0083. 🎨 style: reformat files with black
 0579. 📚 docs: clarify environment setup
+0826. 📚 docs: clarify environment setup
