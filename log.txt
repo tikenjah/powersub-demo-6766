@@ -1666,3 +1666,4 @@
 0256. ✅ test: mock database connection in test suite
 0666. 🐛 fix: fix broken CSS in mobile view
 0062. ♻️ chore: update .gitignore
+0573. ✅ test: add integration test for /submit endpoint
