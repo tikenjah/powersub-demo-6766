@@ -1678,3 +1678,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0953. 🎨 style: remove trailing whitespace
 0468. 📚 docs: update README with setup steps
+0668. 🚀 perf: optimize database query for quiz results
