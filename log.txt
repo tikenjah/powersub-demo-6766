@@ -8337,3 +8337,4 @@
 0549. ✨ feat: enable dark mode toggle
 0234. ♻️ chore: rename env.example
 0526. ✨ feat: add user authentication
+0959. 🐛 fix: fix null pointer exception on login
