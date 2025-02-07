@@ -8336,3 +8336,4 @@
 0022. 📚 docs: document token refresh logic
 0549. ✨ feat: enable dark mode toggle
 0234. ♻️ chore: rename env.example
+0526. ✨ feat: add user authentication
