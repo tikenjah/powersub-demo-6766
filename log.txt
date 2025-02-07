@@ -9328,3 +9328,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0671. 🐛 fix: fix null pointer exception on login
 0153. ♻️ chore: rename env.example
+0050. ✨ feat: enable dark mode toggle
