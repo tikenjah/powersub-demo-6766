@@ -9331,3 +9331,4 @@
 0050. ✨ feat: enable dark mode toggle
 0099. 🚀 perf: reduce image load time
 0895. ✨ feat: support email verification
+0096. 🐛 fix: prevent crash on empty input
