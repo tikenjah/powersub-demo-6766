@@ -1682,3 +1682,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0535. 📚 docs: write FAQ section
 0648. ♻️ chore: bump dependencies
+0101. 📚 docs: clarify environment setup
