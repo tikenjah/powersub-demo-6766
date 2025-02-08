@@ -10292,3 +10292,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0889. 🚀 perf: lazy-load components
 0617. ✨ feat: support email verification
+0187. ✨ feat: support email verification
