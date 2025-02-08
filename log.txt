@@ -1693,3 +1693,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0018. 🔧 refactor: organize models into subfolders
 0866. 📚 docs: add API usage examples
+0772. 🐛 fix: fix null pointer exception on login
