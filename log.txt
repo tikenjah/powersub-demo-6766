@@ -6322,3 +6322,4 @@
 0448. 🐛 fix: correct typo in registration form
 0525. ✅ test: mock database connection in test suite
 0020. ✅ test: add integration test for /submit endpoint
+0649. 📚 docs: update README with setup steps
