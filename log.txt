@@ -1698,3 +1698,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0646. ✅ test: test user registration edge cases
 0511. 🐛 fix: fix broken CSS in mobile view
+0323. 📚 docs: clarify environment setup
