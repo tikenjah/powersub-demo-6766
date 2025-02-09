@@ -1694,3 +1694,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0866. 📚 docs: add API usage examples
 0772. 🐛 fix: fix null pointer exception on login
+0816. 🔧 refactor: organize models into subfolders
