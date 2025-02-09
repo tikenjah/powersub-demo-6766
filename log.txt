@@ -1701,3 +1701,4 @@
 0323. 📚 docs: clarify environment setup
 0630. 🚀 perf: lazy-load components
 0714. 📚 docs: improve code comments in utils
+0864. 🐛 fix: correct typo in registration form
