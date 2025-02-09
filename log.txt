@@ -7295,3 +7295,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0707. 🎨 style: apply consistent indentation
 0155. ✨ feat: create admin dashboard
+0773. 📚 docs: document token refresh logic
