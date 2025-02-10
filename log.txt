@@ -1714,3 +1714,4 @@
 0892. ✅ test: add unit test for quiz service
 0304. 🔧 refactor: remove redundant code blocks
 0265. 🎨 style: reformat files with black
+0065. ✅ test: add integration test for /submit endpoint
