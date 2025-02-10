@@ -1709,3 +1709,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0866. 📚 docs: add API usage examples
 0167. 🚀 perf: reduce image load time
+0257. 📚 docs: clarify environment setup
