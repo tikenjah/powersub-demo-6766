@@ -1707,3 +1707,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0693. 📚 docs: add API usage examples
 0538. 🐛 fix: fix broken CSS in mobile view
+0866. 📚 docs: add API usage examples
