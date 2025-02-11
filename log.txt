@@ -9333,3 +9333,4 @@
 0895. ✨ feat: support email verification
 0096. 🐛 fix: prevent crash on empty input
 0656. 🎨 style: apply consistent indentation
+0865. ♻️ chore: add GitHub actions badge
