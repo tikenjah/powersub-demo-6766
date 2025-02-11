@@ -6330,3 +6330,4 @@
 0323. 📚 docs: clarify environment setup
 0706. ✨ feat: support email verification
 0954. 🚀 perf: cache repeated calculations
+0148. 🔧 refactor: organize models into subfolders
