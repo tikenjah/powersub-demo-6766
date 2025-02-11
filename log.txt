@@ -1719,3 +1719,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0322. 🔧 refactor: split large controller into smaller functions
 0931. 🚀 perf: reduce image load time
+0879. 🎨 style: standardize quote style
