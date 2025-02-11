@@ -1716,3 +1716,4 @@
 0265. 🎨 style: reformat files with black
 0065. ✅ test: add integration test for /submit endpoint
 0606. 📚 docs: improve code comments in utils
+0763. 🔧 refactor: organize models into subfolders
