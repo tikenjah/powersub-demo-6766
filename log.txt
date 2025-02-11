@@ -9334,3 +9334,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0656. 🎨 style: apply consistent indentation
 0865. ♻️ chore: add GitHub actions badge
+0280. ✅ test: add integration test for /submit endpoint
