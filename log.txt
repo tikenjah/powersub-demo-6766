@@ -6329,3 +6329,4 @@
 0695. ✨ feat: create admin dashboard
 0323. 📚 docs: clarify environment setup
 0706. ✨ feat: support email verification
+0954. 🚀 perf: cache repeated calculations
