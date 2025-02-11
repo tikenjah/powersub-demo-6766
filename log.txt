@@ -5333,3 +5333,4 @@
 0034. 📚 docs: improve code comments in utils
 0981. 🚀 perf: lazy-load components
 0667. ✨ feat: add export to CSV option
+0902. ✨ feat: enable dark mode toggle
