@@ -6331,3 +6331,4 @@
 0706. ✨ feat: support email verification
 0954. 🚀 perf: cache repeated calculations
 0148. 🔧 refactor: organize models into subfolders
+0800. 🚀 perf: optimize database query for quiz results
