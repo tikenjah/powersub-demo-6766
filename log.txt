@@ -10301,3 +10301,4 @@
 0016. 🎨 style: apply consistent indentation
 0033. 🎨 style: apply consistent indentation
 0120. ✅ test: add integration test for /submit endpoint
+0449. ✅ test: add unit test for quiz service
