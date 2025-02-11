@@ -1724,3 +1724,4 @@
 0279. ✨ feat: support email verification
 0568. 🐛 fix: handle 500 error in quiz API
 0531. 🐛 fix: prevent crash on empty input
+0563. 📚 docs: clarify environment setup
