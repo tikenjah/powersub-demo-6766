@@ -10310,3 +10310,4 @@
 0824. 🚀 perf: lazy-load components
 0949. 📚 docs: write FAQ section
 0154. 🐛 fix: prevent crash on empty input
+0483. 📚 docs: update README with setup steps
