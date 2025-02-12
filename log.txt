@@ -7303,3 +7303,4 @@
 0930. 🎨 style: apply consistent indentation
 0720. ✨ feat: add export to CSV option
 0937. 🐛 fix: handle 500 error in quiz API
+0227. ✅ test: test user registration edge cases
