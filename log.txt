@@ -1735,3 +1735,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0425. 🔧 refactor: refactor quiz grading logic
 0720. ✨ feat: add export to CSV option
+0791. 🔧 refactor: clean up auth middleware
