@@ -1729,3 +1729,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0754. 🐛 fix: handle 500 error in quiz API
 0951. 🎨 style: rename variables for clarity
+0450. 🐛 fix: fix broken CSS in mobile view
