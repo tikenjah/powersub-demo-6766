@@ -5337,3 +5337,4 @@
 0406. ✨ feat: add export to CSV option
 0371. ✅ test: add integration test for /submit endpoint
 0491. 🚀 perf: lazy-load components
+0901. ✨ feat: add user authentication
