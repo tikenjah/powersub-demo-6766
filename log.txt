@@ -10309,3 +10309,4 @@
 0442. 🎨 style: standardize quote style
 0824. 🚀 perf: lazy-load components
 0949. 📚 docs: write FAQ section
+0154. 🐛 fix: prevent crash on empty input
