@@ -10305,3 +10305,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0706. ✨ feat: support email verification
 0937. 🐛 fix: handle 500 error in quiz API
+0273. 🚀 perf: reduce image load time
