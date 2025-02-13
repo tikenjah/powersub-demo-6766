@@ -1747,3 +1747,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0419. 🎨 style: remove trailing whitespace
 0871. ✅ test: add integration test for /submit endpoint
+0613. 🐛 fix: prevent crash on empty input
