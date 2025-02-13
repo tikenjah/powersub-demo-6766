@@ -7305,3 +7305,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0227. ✅ test: test user registration edge cases
 0703. 🔧 refactor: clean up auth middleware
+0547. 📚 docs: write FAQ section
