@@ -1740,3 +1740,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0008. 🚀 perf: reduce image load time
 0694. 🎨 style: rename variables for clarity
+0789. ✨ feat: create admin dashboard
