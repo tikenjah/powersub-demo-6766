@@ -6335,3 +6335,4 @@
 0709. ♻️ chore: bump dependencies
 0839. 🎨 style: apply consistent indentation
 0982. 🚀 perf: lazy-load components
+0787. ♻️ chore: rename env.example
