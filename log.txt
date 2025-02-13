@@ -9340,3 +9340,4 @@
 0460. 📚 docs: write FAQ section
 0047. 🎨 style: rename variables for clarity
 0575. ✅ test: add unit test for quiz service
+0398. 🚀 perf: cache repeated calculations
