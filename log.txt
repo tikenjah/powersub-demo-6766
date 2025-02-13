@@ -6337,3 +6337,4 @@
 0982. 🚀 perf: lazy-load components
 0787. ♻️ chore: rename env.example
 0346. ✅ test: mock database connection in test suite
+0227. ✅ test: test user registration edge cases
