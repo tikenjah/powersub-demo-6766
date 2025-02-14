@@ -1753,3 +1753,4 @@
 0982. 🚀 perf: lazy-load components
 0365. 🚀 perf: reduce image load time
 0409. 🚀 perf: lazy-load components
+0628. ♻️ chore: add GitHub actions badge
