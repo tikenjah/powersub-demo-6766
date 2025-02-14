@@ -1758,3 +1758,4 @@
 0250. 📚 docs: update README with setup steps
 0864. 🐛 fix: correct typo in registration form
 0299. 🐛 fix: resolve issue with date parsing
+0203. 🚀 perf: lazy-load components
