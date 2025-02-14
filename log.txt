@@ -1757,3 +1757,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0250. 📚 docs: update README with setup steps
 0864. 🐛 fix: correct typo in registration form
+0299. 🐛 fix: resolve issue with date parsing
