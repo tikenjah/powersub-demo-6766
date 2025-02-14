@@ -1751,3 +1751,4 @@
 0921. 🐛 fix: correct typo in registration form
 0978. 🐛 fix: prevent crash on empty input
 0982. 🚀 perf: lazy-load components
+0365. 🚀 perf: reduce image load time
