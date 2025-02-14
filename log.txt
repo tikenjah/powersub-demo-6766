@@ -6342,3 +6342,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0608. 🔧 refactor: remove redundant code blocks
 0534. 🔧 refactor: split large controller into smaller functions
+0641. 📚 docs: write FAQ section
