@@ -7310,3 +7310,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0704. 🚀 perf: cache repeated calculations
 0425. 🔧 refactor: refactor quiz grading logic
+0273. 🚀 perf: reduce image load time
