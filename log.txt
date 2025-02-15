@@ -1763,3 +1763,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0292. 📚 docs: clarify environment setup
 0300. ✨ feat: add export to CSV option
+0713. 🐛 fix: handle 500 error in quiz API
