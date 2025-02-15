@@ -1775,3 +1775,4 @@
 0989. 📚 docs: write FAQ section
 0606. 📚 docs: improve code comments in utils
 0055. 📚 docs: update README with setup steps
+0117. ✅ test: increase coverage on auth module
