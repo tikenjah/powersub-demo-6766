@@ -1770,3 +1770,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0603. 🐛 fix: fix broken CSS in mobile view
 0900. 🐛 fix: handle 500 error in quiz API
+0791. 🔧 refactor: clean up auth middleware
