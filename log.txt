@@ -1768,3 +1768,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0861. ♻️ chore: clean up unused files
 0546. 🐛 fix: fix null pointer exception on login
+0603. 🐛 fix: fix broken CSS in mobile view
