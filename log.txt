@@ -1778,3 +1778,4 @@
 0117. ✅ test: increase coverage on auth module
 0090. ✅ test: increase coverage on auth module
 0656. 🎨 style: apply consistent indentation
+0020. ✅ test: add integration test for /submit endpoint
