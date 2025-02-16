@@ -7313,3 +7313,4 @@
 0273. 🚀 perf: reduce image load time
 0440. 📚 docs: update README with setup steps
 0078. ♻️ chore: update .gitignore
+0463. 🚀 perf: reduce image load time
