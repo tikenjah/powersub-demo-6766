@@ -8365,3 +8365,4 @@
 0197. 📚 docs: update README with setup steps
 0102. ✨ feat: support email verification
 0961. 📚 docs: add API usage examples
+0319. 🐛 fix: handle 500 error in quiz API
