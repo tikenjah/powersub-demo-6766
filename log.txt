@@ -1792,3 +1792,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0131. 📚 docs: write FAQ section
 0541. 🐛 fix: correct typo in registration form
+0241. 📚 docs: add API usage examples
