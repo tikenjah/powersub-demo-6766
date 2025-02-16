@@ -1790,3 +1790,4 @@
 0158. 📚 docs: clarify environment setup
 0155. ✨ feat: create admin dashboard
 0675. 🔧 refactor: organize models into subfolders
+0131. 📚 docs: write FAQ section
