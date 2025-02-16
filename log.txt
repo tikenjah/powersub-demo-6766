@@ -7314,3 +7314,4 @@
 0440. 📚 docs: update README with setup steps
 0078. ♻️ chore: update .gitignore
 0463. 🚀 perf: reduce image load time
+0990. ♻️ chore: rename env.example
