@@ -1783,3 +1783,4 @@
 0061. ✨ feat: create admin dashboard
 0210. 🎨 style: apply consistent indentation
 0532. 🔧 refactor: split large controller into smaller functions
+0003. ✅ test: increase coverage on auth module
