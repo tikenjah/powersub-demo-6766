@@ -7311,3 +7311,4 @@
 0704. 🚀 perf: cache repeated calculations
 0425. 🔧 refactor: refactor quiz grading logic
 0273. 🚀 perf: reduce image load time
+0440. 📚 docs: update README with setup steps
