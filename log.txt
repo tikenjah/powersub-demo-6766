@@ -1789,3 +1789,4 @@
 0035. ✅ test: increase coverage on auth module
 0158. 📚 docs: clarify environment setup
 0155. ✨ feat: create admin dashboard
+0675. 🔧 refactor: organize models into subfolders
