@@ -1799,3 +1799,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0009. ✨ feat: enable dark mode toggle
 0717. 🔧 refactor: refactor quiz grading logic
+0483. 📚 docs: update README with setup steps
