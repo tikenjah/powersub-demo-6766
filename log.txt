@@ -1797,3 +1797,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0542. 🔧 refactor: organize models into subfolders
 0588. 🔧 refactor: organize models into subfolders
+0009. ✨ feat: enable dark mode toggle
