@@ -6349,3 +6349,4 @@
 0781. 🚀 perf: reduce image load time
 0034. 📚 docs: improve code comments in utils
 0561. 📚 docs: write FAQ section
+0456. 🚀 perf: optimize database query for quiz results
