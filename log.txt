@@ -1804,3 +1804,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0212. 🎨 style: standardize quote style
 0940. 📚 docs: document token refresh logic
+0243. 🔧 refactor: clean up auth middleware
