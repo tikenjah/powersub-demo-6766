@@ -1794,3 +1794,4 @@
 0541. 🐛 fix: correct typo in registration form
 0241. 📚 docs: add API usage examples
 0912. 📚 docs: document token refresh logic
+0030. 🐛 fix: fix null pointer exception on login
