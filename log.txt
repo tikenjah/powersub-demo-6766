@@ -7316,3 +7316,4 @@
 0463. 🚀 perf: reduce image load time
 0990. ♻️ chore: rename env.example
 0289. 🐛 fix: resolve issue with date parsing
+0580. ♻️ chore: bump dependencies
