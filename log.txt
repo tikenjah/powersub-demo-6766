@@ -9352,3 +9352,4 @@
 0640. ♻️ chore: bump dependencies
 0434. 📚 docs: document token refresh logic
 0350. 🚀 perf: cache repeated calculations
+0913. 🚀 perf: optimize database query for quiz results
