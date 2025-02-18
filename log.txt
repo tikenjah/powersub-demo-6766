@@ -7319,3 +7319,4 @@
 0580. ♻️ chore: bump dependencies
 0113. ✨ feat: add user authentication
 0024. 📚 docs: write FAQ section
+0128. ♻️ chore: rename env.example
