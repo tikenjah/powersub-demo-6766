@@ -1822,3 +1822,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0109. 🚀 perf: lazy-load components
 0027. 📚 docs: clarify environment setup
+0036. 🔧 refactor: clean up auth middleware
