@@ -1819,3 +1819,4 @@
 0113. ✨ feat: add user authentication
 0142. ✨ feat: implement quiz timer feature
 0937. 🐛 fix: handle 500 error in quiz API
+0514. 🐛 fix: fix broken CSS in mobile view
