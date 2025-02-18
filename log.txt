@@ -1823,3 +1823,4 @@
 0109. 🚀 perf: lazy-load components
 0027. 📚 docs: clarify environment setup
 0036. 🔧 refactor: clean up auth middleware
+0559. 🔧 refactor: split large controller into smaller functions
