@@ -10324,3 +10324,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0940. 📚 docs: document token refresh logic
 0500. ✅ test: add integration test for /submit endpoint
+0287. 📚 docs: write FAQ section
