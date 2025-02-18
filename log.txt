@@ -1825,3 +1825,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0559. 🔧 refactor: split large controller into smaller functions
 0391. 🐛 fix: fix null pointer exception on login
+0509. ♻️ chore: bump dependencies
