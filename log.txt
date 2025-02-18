@@ -8372,3 +8372,4 @@
 0184. 📚 docs: improve code comments in utils
 0775. 🐛 fix: fix null pointer exception on login
 0107. 🐛 fix: prevent crash on empty input
+0193. 🚀 perf: optimize database query for quiz results
