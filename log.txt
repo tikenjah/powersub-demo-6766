@@ -1830,3 +1830,4 @@
 0686. 🎨 style: standardize quote style
 0521. 🎨 style: standardize quote style
 0550. 🔧 refactor: split large controller into smaller functions
+0695. ✨ feat: create admin dashboard
