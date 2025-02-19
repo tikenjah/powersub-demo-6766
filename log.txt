@@ -1835,3 +1835,4 @@
 0487. 🎨 style: reformat files with black
 0617. ✨ feat: support email verification
 0023. 📚 docs: clarify environment setup
+0790. 📚 docs: write FAQ section
