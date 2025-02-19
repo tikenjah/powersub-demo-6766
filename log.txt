@@ -10326,3 +10326,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0287. 📚 docs: write FAQ section
 0435. ✅ test: add unit test for quiz service
+0550. 🔧 refactor: split large controller into smaller functions
