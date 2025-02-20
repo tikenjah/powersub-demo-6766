@@ -1836,3 +1836,4 @@
 0617. ✨ feat: support email verification
 0023. 📚 docs: clarify environment setup
 0790. 📚 docs: write FAQ section
+0953. 🎨 style: remove trailing whitespace
