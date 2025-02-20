@@ -1839,3 +1839,4 @@
 0953. 🎨 style: remove trailing whitespace
 0955. 🔧 refactor: remove redundant code blocks
 0246. ✅ test: add integration test for /submit endpoint
+0626. 🎨 style: standardize quote style
