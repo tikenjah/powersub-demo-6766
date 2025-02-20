@@ -5360,3 +5360,4 @@
 0362. 📚 docs: add API usage examples
 0739. 🎨 style: remove trailing whitespace
 0147. ♻️ chore: bump dependencies
+0341. 🚀 perf: lazy-load components
