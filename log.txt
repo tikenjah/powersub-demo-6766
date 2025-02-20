@@ -6359,3 +6359,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0051. ✨ feat: enable dark mode toggle
 0238. 🎨 style: apply consistent indentation
+0241. 📚 docs: add API usage examples
