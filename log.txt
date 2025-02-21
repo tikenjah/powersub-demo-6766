@@ -5364,3 +5364,4 @@
 0864. 🐛 fix: correct typo in registration form
 0682. ♻️ chore: rename env.example
 0589. 🐛 fix: fix broken CSS in mobile view
+0181. ♻️ chore: add GitHub actions badge
