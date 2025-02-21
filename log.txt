@@ -1858,3 +1858,4 @@
 0339. 📚 docs: update README with setup steps
 0176. 🔧 refactor: remove redundant code blocks
 0099. 🚀 perf: reduce image load time
+0804. ♻️ chore: add GitHub actions badge
