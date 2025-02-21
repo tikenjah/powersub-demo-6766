@@ -1851,3 +1851,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0235. 🐛 fix: fix null pointer exception on login
 0980. 🎨 style: reformat files with black
+0317. ✅ test: test user registration edge cases
