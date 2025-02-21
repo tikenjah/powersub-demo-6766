@@ -6362,3 +6362,4 @@
 0241. 📚 docs: add API usage examples
 0565. ♻️ chore: add GitHub actions badge
 0465. 🎨 style: rename variables for clarity
+0672. 🐛 fix: fix broken CSS in mobile view
