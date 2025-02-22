@@ -8385,3 +8385,4 @@
 0575. ✅ test: add unit test for quiz service
 0714. 📚 docs: improve code comments in utils
 0617. ✨ feat: support email verification
+0721. 🚀 perf: optimize database query for quiz results
