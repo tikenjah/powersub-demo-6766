@@ -1870,3 +1870,4 @@
 0114. ♻️ chore: update .gitignore
 0328. 🐛 fix: resolve issue with date parsing
 0601. ✨ feat: implement quiz timer feature
+0628. ♻️ chore: add GitHub actions badge
