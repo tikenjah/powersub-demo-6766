@@ -1873,3 +1873,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0663. 🚀 perf: reduce image load time
 0964. ♻️ chore: clean up unused files
+0699. 🎨 style: standardize quote style
