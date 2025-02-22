@@ -9370,3 +9370,4 @@
 0330. ✅ test: test user registration edge cases
 0976. ✨ feat: implement quiz timer feature
 0039. ✅ test: add integration test for /submit endpoint
+0923. ✨ feat: support email verification
