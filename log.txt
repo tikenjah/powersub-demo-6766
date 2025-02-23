@@ -1885,3 +1885,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0110. 🐛 fix: prevent crash on empty input
 0637. 🎨 style: apply consistent indentation
+0711. 🐛 fix: fix broken CSS in mobile view
