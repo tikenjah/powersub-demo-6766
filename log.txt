@@ -1887,3 +1887,4 @@
 0637. 🎨 style: apply consistent indentation
 0711. 🐛 fix: fix broken CSS in mobile view
 0205. 📚 docs: update README with setup steps
+0578. ✅ test: add integration test for /submit endpoint
