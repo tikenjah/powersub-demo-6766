@@ -6365,3 +6365,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0689. 🎨 style: reformat files with black
 0305. ✨ feat: enable dark mode toggle
+0180. ✨ feat: add export to CSV option
