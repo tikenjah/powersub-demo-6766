@@ -1878,3 +1878,4 @@
 0444. ✅ test: add unit test for quiz service
 0657. 🎨 style: standardize quote style
 0997. ✅ test: increase coverage on auth module
+0450. 🐛 fix: fix broken CSS in mobile view
