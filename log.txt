@@ -7330,3 +7330,4 @@
 0164. 📚 docs: document token refresh logic
 0795. 📚 docs: update README with setup steps
 0403. ✅ test: mock database connection in test suite
+0121. ✨ feat: support email verification
