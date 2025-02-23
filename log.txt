@@ -9371,3 +9371,4 @@
 0976. ✨ feat: implement quiz timer feature
 0039. ✅ test: add integration test for /submit endpoint
 0923. ✨ feat: support email verification
+0677. 📚 docs: add API usage examples
