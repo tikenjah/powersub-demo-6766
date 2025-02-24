@@ -1896,3 +1896,4 @@
 0896. 🚀 perf: reduce image load time
 0405. ✅ test: mock database connection in test suite
 0638. 📚 docs: improve code comments in utils
+0936. 🔧 refactor: organize models into subfolders
