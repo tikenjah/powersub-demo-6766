@@ -1906,3 +1906,4 @@
 0241. 📚 docs: add API usage examples
 0245. 🐛 fix: resolve issue with date parsing
 0162. ♻️ chore: add GitHub actions badge
+0337. 📚 docs: document token refresh logic
