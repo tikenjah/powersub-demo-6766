@@ -7332,3 +7332,4 @@
 0403. ✅ test: mock database connection in test suite
 0121. ✨ feat: support email verification
 0540. ♻️ chore: add GitHub actions badge
+0049. 🐛 fix: handle 500 error in quiz API
