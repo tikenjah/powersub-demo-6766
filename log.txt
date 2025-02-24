@@ -5376,3 +5376,4 @@
 0447. ♻️ chore: bump dependencies
 0859. ✨ feat: create admin dashboard
 0181. ♻️ chore: add GitHub actions badge
+0057. 🚀 perf: optimize database query for quiz results
