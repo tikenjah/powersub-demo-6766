@@ -1922,3 +1922,4 @@
 0404. 📚 docs: improve code comments in utils
 0211. 🔧 refactor: remove redundant code blocks
 0002. 🚀 perf: cache repeated calculations
+0909. 🔧 refactor: organize models into subfolders
