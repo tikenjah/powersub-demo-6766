@@ -7336,3 +7336,4 @@
 0862. ♻️ chore: bump dependencies
 0470. 🎨 style: remove trailing whitespace
 0554. 📚 docs: improve code comments in utils
+0588. 🔧 refactor: organize models into subfolders
