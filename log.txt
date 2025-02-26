@@ -6371,3 +6371,4 @@
 0055. 📚 docs: update README with setup steps
 0710. 🐛 fix: fix broken CSS in mobile view
 0871. ✅ test: add integration test for /submit endpoint
+0942. ✅ test: increase coverage on auth module
