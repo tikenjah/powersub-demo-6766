@@ -7338,3 +7338,4 @@
 0554. 📚 docs: improve code comments in utils
 0588. 🔧 refactor: organize models into subfolders
 0012. 🚀 perf: cache repeated calculations
+0859. ✨ feat: create admin dashboard
