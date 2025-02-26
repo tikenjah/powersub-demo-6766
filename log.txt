@@ -9384,3 +9384,4 @@
 0700. 🎨 style: rename variables for clarity
 0101. 📚 docs: clarify environment setup
 0746. ♻️ chore: add GitHub actions badge
+0561. 📚 docs: write FAQ section
