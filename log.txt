@@ -1928,3 +1928,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0716. ✨ feat: implement quiz timer feature
 0691. 🎨 style: rename variables for clarity
+0571. 🔧 refactor: clean up auth middleware
