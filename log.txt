@@ -9385,3 +9385,4 @@
 0101. 📚 docs: clarify environment setup
 0746. ♻️ chore: add GitHub actions badge
 0561. 📚 docs: write FAQ section
+0499. 🎨 style: reformat files with black
