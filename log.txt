@@ -1944,3 +1944,4 @@
 0586. 🎨 style: remove trailing whitespace
 0689. 🎨 style: reformat files with black
 0285. 🐛 fix: resolve issue with date parsing
+0557. 🔧 refactor: clean up auth middleware
