@@ -10344,3 +10344,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0289. 🐛 fix: resolve issue with date parsing
 0297. 🎨 style: remove trailing whitespace
+0979. 🎨 style: standardize quote style
