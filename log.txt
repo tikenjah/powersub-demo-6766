@@ -7340,3 +7340,4 @@
 0012. 🚀 perf: cache repeated calculations
 0859. ✨ feat: create admin dashboard
 0653. 🐛 fix: prevent crash on empty input
+0332. 🎨 style: standardize quote style
