@@ -5383,3 +5383,4 @@
 0981. 🚀 perf: lazy-load components
 0616. 🚀 perf: lazy-load components
 0747. 🔧 refactor: clean up auth middleware
+0989. 📚 docs: write FAQ section
