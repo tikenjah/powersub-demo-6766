@@ -6376,3 +6376,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0450. 🐛 fix: fix broken CSS in mobile view
 0268. 🐛 fix: prevent crash on empty input
+0005. ✅ test: add unit test for quiz service
