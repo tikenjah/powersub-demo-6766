@@ -1940,3 +1940,4 @@
 0099. 🚀 perf: reduce image load time
 0875. ✅ test: increase coverage on auth module
 0784. ♻️ chore: clean up unused files
+0229. 🚀 perf: optimize database query for quiz results
