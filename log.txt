@@ -1939,3 +1939,4 @@
 0277. 🎨 style: standardize quote style
 0099. 🚀 perf: reduce image load time
 0875. ✅ test: increase coverage on auth module
+0784. ♻️ chore: clean up unused files
