@@ -9390,3 +9390,4 @@
 0088. 📚 docs: add API usage examples
 0031. 📚 docs: document token refresh logic
 0153. ♻️ chore: rename env.example
+0105. 🐛 fix: correct typo in registration form
