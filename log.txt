@@ -7343,3 +7343,4 @@
 0332. 🎨 style: standardize quote style
 0052. 🎨 style: standardize quote style
 0374. 🎨 style: standardize quote style
+0803. ✅ test: mock database connection in test suite
