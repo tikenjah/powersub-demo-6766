@@ -10351,3 +10351,4 @@
 0055. 📚 docs: update README with setup steps
 0249. ✅ test: increase coverage on auth module
 0753. 🔧 refactor: remove redundant code blocks
+0612. ✅ test: test user registration edge cases
