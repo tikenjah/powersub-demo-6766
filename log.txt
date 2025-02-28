@@ -8398,3 +8398,4 @@
 0160. ♻️ chore: bump dependencies
 0153. ♻️ chore: rename env.example
 0787. ♻️ chore: rename env.example
+0756. ✨ feat: support email verification
