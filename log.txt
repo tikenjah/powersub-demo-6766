@@ -5389,3 +5389,4 @@
 0345. 📚 docs: document token refresh logic
 0341. 🚀 perf: lazy-load components
 0965. 🎨 style: reformat files with black
+0477. 🐛 fix: fix broken CSS in mobile view
