@@ -10352,3 +10352,4 @@
 0249. ✅ test: increase coverage on auth module
 0753. 🔧 refactor: remove redundant code blocks
 0612. ✅ test: test user registration edge cases
+0368. 🚀 perf: lazy-load components
