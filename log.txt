@@ -1957,3 +1957,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0322. 🔧 refactor: split large controller into smaller functions
 0298. ♻️ chore: update .gitignore
+0258. 🐛 fix: prevent crash on empty input
