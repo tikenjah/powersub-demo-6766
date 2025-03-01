@@ -6382,3 +6382,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0299. 🐛 fix: resolve issue with date parsing
 0829. 🔧 refactor: organize models into subfolders
+0030. 🐛 fix: fix null pointer exception on login
