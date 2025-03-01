@@ -5396,3 +5396,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0947. 📚 docs: write FAQ section
 0188. 🎨 style: apply consistent indentation
+0437. 📚 docs: clarify environment setup
