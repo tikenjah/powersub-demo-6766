@@ -8400,3 +8400,4 @@
 0787. ♻️ chore: rename env.example
 0756. ✨ feat: support email verification
 0053. ✅ test: increase coverage on auth module
+0440. 📚 docs: update README with setup steps
