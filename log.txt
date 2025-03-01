@@ -1959,3 +1959,4 @@
 0298. ♻️ chore: update .gitignore
 0258. 🐛 fix: prevent crash on empty input
 0366. 🔧 refactor: remove redundant code blocks
+0621. 🔧 refactor: clean up auth middleware
