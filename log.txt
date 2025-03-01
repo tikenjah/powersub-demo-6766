@@ -6381,3 +6381,4 @@
 0745. ✅ test: add unit test for quiz service
 0573. ✅ test: add integration test for /submit endpoint
 0299. 🐛 fix: resolve issue with date parsing
+0829. 🔧 refactor: organize models into subfolders
