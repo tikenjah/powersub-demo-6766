@@ -10354,3 +10354,4 @@
 0612. ✅ test: test user registration edge cases
 0368. 🚀 perf: lazy-load components
 0596. ♻️ chore: update .gitignore
+0636. ✅ test: increase coverage on auth module
