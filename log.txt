@@ -1964,3 +1964,4 @@
 0052. 🎨 style: standardize quote style
 0185. 📚 docs: write FAQ section
 0330. ✅ test: test user registration edge cases
+0737. 🐛 fix: handle 500 error in quiz API
