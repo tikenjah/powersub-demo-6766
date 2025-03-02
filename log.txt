@@ -10357,3 +10357,4 @@
 0636. ✅ test: increase coverage on auth module
 0702. ✨ feat: add user authentication
 0588. 🔧 refactor: organize models into subfolders
+0584. 🚀 perf: lazy-load components
