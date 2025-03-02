@@ -10361,3 +10361,4 @@
 0382. 📚 docs: improve code comments in utils
 0190. 🎨 style: rename variables for clarity
 0306. 🎨 style: apply consistent indentation
+0297. 🎨 style: remove trailing whitespace
