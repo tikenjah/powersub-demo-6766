@@ -6383,3 +6383,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0829. 🔧 refactor: organize models into subfolders
 0030. 🐛 fix: fix null pointer exception on login
+0226. 🚀 perf: lazy-load components
