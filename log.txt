@@ -1979,3 +1979,4 @@
 0076. 🎨 style: reformat files with black
 0719. 🎨 style: apply consistent indentation
 0074. ♻️ chore: add GitHub actions badge
+0792. 🎨 style: standardize quote style
