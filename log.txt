@@ -1983,3 +1983,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0616. 🚀 perf: lazy-load components
 0654. ✨ feat: create admin dashboard
+0727. ♻️ chore: add GitHub actions badge
