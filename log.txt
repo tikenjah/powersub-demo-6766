@@ -1988,3 +1988,4 @@
 0679. ♻️ chore: bump dependencies
 0181. ♻️ chore: add GitHub actions badge
 0591. ♻️ chore: clean up unused files
+0109. 🚀 perf: lazy-load components
