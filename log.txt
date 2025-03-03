@@ -1992,3 +1992,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0181. ♻️ chore: add GitHub actions badge
 0153. ♻️ chore: rename env.example
+0079. 🐛 fix: correct typo in registration form
