@@ -10364,3 +10364,4 @@
 0297. 🎨 style: remove trailing whitespace
 0275. 🎨 style: standardize quote style
 0998. 🐛 fix: fix null pointer exception on login
+0005. ✅ test: add unit test for quiz service
