@@ -8405,3 +8405,4 @@
 0439. 🐛 fix: correct typo in registration form
 0429. ✨ feat: add user authentication
 0420. 🚀 perf: reduce image load time
+0184. 📚 docs: improve code comments in utils
