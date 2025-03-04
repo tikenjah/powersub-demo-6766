@@ -6390,3 +6390,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0113. ✨ feat: add user authentication
 0085. ✨ feat: support email verification
+0144. ✅ test: increase coverage on auth module
