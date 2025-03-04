@@ -2004,3 +2004,4 @@
 0458. ✨ feat: create admin dashboard
 0556. ✨ feat: support email verification
 0777. 📚 docs: document token refresh logic
+0659. 📚 docs: add API usage examples
