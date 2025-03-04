@@ -6391,3 +6391,4 @@
 0113. ✨ feat: add user authentication
 0085. ✨ feat: support email verification
 0144. ✅ test: increase coverage on auth module
+0772. 🐛 fix: fix null pointer exception on login
