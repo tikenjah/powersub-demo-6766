@@ -7353,3 +7353,4 @@
 0230. ✨ feat: create admin dashboard
 0915. 🚀 perf: cache repeated calculations
 0324. 📚 docs: document token refresh logic
+0057. 🚀 perf: optimize database query for quiz results
