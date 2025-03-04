@@ -2003,3 +2003,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0458. ✨ feat: create admin dashboard
 0556. ✨ feat: support email verification
+0777. 📚 docs: document token refresh logic
