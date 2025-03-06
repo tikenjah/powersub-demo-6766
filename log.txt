@@ -10374,3 +10374,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0752. ✅ test: add integration test for /submit endpoint
 0440. 📚 docs: update README with setup steps
+0226. 🚀 perf: lazy-load components
