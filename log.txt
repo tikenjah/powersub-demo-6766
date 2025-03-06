@@ -5408,3 +5408,4 @@
 0470. 🎨 style: remove trailing whitespace
 0853. 🔧 refactor: refactor quiz grading logic
 0215. 🎨 style: reformat files with black
+0994. 🚀 perf: reduce image load time
