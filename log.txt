@@ -2016,3 +2016,4 @@
 0502. 📚 docs: update README with setup steps
 0480. ♻️ chore: add GitHub actions badge
 0302. ✨ feat: implement quiz timer feature
+0218. 🔧 refactor: clean up auth middleware
