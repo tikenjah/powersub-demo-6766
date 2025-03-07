@@ -8419,3 +8419,4 @@
 0091. ✨ feat: add user authentication
 0776. ✅ test: add integration test for /submit endpoint
 0495. 🔧 refactor: remove redundant code blocks
+0736. 🐛 fix: fix null pointer exception on login
