@@ -8425,3 +8425,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0180. ✨ feat: add export to CSV option
 0613. 🐛 fix: prevent crash on empty input
+0259. 🚀 perf: lazy-load components
