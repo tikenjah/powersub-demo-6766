@@ -2028,3 +2028,4 @@
 0925. ✨ feat: add export to CSV option
 0437. 📚 docs: clarify environment setup
 0018. 🔧 refactor: organize models into subfolders
+0075. ✅ test: mock database connection in test suite
