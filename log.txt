@@ -6398,3 +6398,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0717. 🔧 refactor: refactor quiz grading logic
 0304. 🔧 refactor: remove redundant code blocks
+0200. 🐛 fix: handle 500 error in quiz API
