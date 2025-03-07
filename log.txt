@@ -2032,3 +2032,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0126. 🎨 style: rename variables for clarity
 0901. ✨ feat: add user authentication
+0226. 🚀 perf: lazy-load components
