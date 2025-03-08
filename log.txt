@@ -5415,3 +5415,4 @@
 0968. 🎨 style: standardize quote style
 0657. 🎨 style: standardize quote style
 0991. ♻️ chore: clean up unused files
+0084. 🐛 fix: handle 500 error in quiz API
