@@ -2046,3 +2046,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0905. ♻️ chore: bump dependencies
 0470. 🎨 style: remove trailing whitespace
+0394. 🚀 perf: lazy-load components
