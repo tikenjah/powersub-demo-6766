@@ -2042,3 +2042,4 @@
 0219. ✅ test: increase coverage on auth module
 0235. 🐛 fix: fix null pointer exception on login
 0108. 🎨 style: remove trailing whitespace
+0432. 🎨 style: apply consistent indentation
