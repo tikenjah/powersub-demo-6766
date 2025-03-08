@@ -6404,3 +6404,4 @@
 0750. 🎨 style: apply consistent indentation
 0622. 🎨 style: apply consistent indentation
 0336. ✨ feat: add export to CSV option
+0486. ✨ feat: add export to CSV option
