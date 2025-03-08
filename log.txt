@@ -6403,3 +6403,4 @@
 0820. 📚 docs: add API usage examples
 0750. 🎨 style: apply consistent indentation
 0622. 🎨 style: apply consistent indentation
+0336. ✨ feat: add export to CSV option
