@@ -5412,3 +5412,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0255. 🔧 refactor: refactor quiz grading logic
 0635. 🎨 style: apply consistent indentation
+0968. 🎨 style: standardize quote style
