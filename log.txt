@@ -2038,3 +2038,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0047. 🎨 style: rename variables for clarity
 0293. ✅ test: add integration test for /submit endpoint
+0017. ✅ test: mock database connection in test suite
