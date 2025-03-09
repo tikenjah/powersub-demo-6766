@@ -9408,3 +9408,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0047. 🎨 style: rename variables for clarity
 0477. 🐛 fix: fix broken CSS in mobile view
+0778. 📚 docs: write FAQ section
