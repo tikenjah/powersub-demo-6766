@@ -6406,3 +6406,4 @@
 0336. ✨ feat: add export to CSV option
 0486. ✨ feat: add export to CSV option
 0872. 🎨 style: rename variables for clarity
+0236. 🔧 refactor: remove redundant code blocks
