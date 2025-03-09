@@ -7362,3 +7362,4 @@
 0219. ✅ test: increase coverage on auth module
 0147. ♻️ chore: bump dependencies
 0270. ♻️ chore: rename env.example
+0692. ✅ test: add integration test for /submit endpoint
