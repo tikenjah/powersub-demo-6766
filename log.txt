@@ -8429,3 +8429,4 @@
 0927. ♻️ chore: bump dependencies
 0915. 🚀 perf: cache repeated calculations
 0652. 🔧 refactor: organize models into subfolders
+0922. 📚 docs: write FAQ section
