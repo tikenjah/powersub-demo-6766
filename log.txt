@@ -8428,3 +8428,4 @@
 0259. 🚀 perf: lazy-load components
 0927. ♻️ chore: bump dependencies
 0915. 🚀 perf: cache repeated calculations
+0652. 🔧 refactor: organize models into subfolders
