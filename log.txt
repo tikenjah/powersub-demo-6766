@@ -2071,3 +2071,4 @@
 0593. 🐛 fix: correct typo in registration form
 0631. ✨ feat: create admin dashboard
 0019. ✨ feat: enable dark mode toggle
+0107. 🐛 fix: prevent crash on empty input
