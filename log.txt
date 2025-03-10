@@ -8431,3 +8431,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0922. 📚 docs: write FAQ section
 0691. 🎨 style: rename variables for clarity
+0761. ✅ test: add unit test for quiz service
