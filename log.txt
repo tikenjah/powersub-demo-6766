@@ -2073,3 +2073,4 @@
 0019. ✨ feat: enable dark mode toggle
 0107. 🐛 fix: prevent crash on empty input
 0959. 🐛 fix: fix null pointer exception on login
+0267. 📚 docs: improve code comments in utils
