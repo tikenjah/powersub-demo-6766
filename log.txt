@@ -6408,3 +6408,4 @@
 0872. 🎨 style: rename variables for clarity
 0236. 🔧 refactor: remove redundant code blocks
 0186. ✅ test: test user registration edge cases
+0129. 🔧 refactor: organize models into subfolders
