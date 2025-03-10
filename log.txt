@@ -2064,3 +2064,4 @@
 0809. ♻️ chore: rename env.example
 0105. 🐛 fix: correct typo in registration form
 0880. 🐛 fix: fix broken CSS in mobile view
+0760. 🐛 fix: resolve issue with date parsing
