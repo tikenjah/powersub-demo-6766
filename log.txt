@@ -2066,3 +2066,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0760. 🐛 fix: resolve issue with date parsing
 0790. 📚 docs: write FAQ section
+0787. ♻️ chore: rename env.example
