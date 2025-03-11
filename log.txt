@@ -6410,3 +6410,4 @@
 0186. ✅ test: test user registration edge cases
 0129. 🔧 refactor: organize models into subfolders
 0378. 🐛 fix: prevent crash on empty input
+0909. 🔧 refactor: organize models into subfolders
