@@ -2093,3 +2093,4 @@
 0889. 🚀 perf: lazy-load components
 0975. 🎨 style: apply consistent indentation
 0198. 📚 docs: clarify environment setup
+0371. ✅ test: add integration test for /submit endpoint
