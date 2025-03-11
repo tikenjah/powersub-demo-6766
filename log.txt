@@ -7367,3 +7367,4 @@
 0439. 🐛 fix: correct typo in registration form
 0897. 🐛 fix: prevent crash on empty input
 0427. ✅ test: mock database connection in test suite
+0384. 📚 docs: clarify environment setup
