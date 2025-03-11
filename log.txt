@@ -2082,3 +2082,4 @@
 0664. ✅ test: add unit test for quiz service
 0738. 🐛 fix: prevent crash on empty input
 0387. ✨ feat: enable dark mode toggle
+0576. ♻️ chore: update .gitignore
