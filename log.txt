@@ -5422,3 +5422,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0952. 🔧 refactor: split large controller into smaller functions
 0697. ♻️ chore: bump dependencies
+0646. ✅ test: test user registration edge cases
