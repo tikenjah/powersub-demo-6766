@@ -2100,3 +2100,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0966. 📚 docs: improve code comments in utils
 0032. 🎨 style: apply consistent indentation
+0649. 📚 docs: update README with setup steps
