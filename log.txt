@@ -10393,3 +10393,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0522. 🐛 fix: handle 500 error in quiz API
 0284. ✨ feat: implement quiz timer feature
+0203. 🚀 perf: lazy-load components
