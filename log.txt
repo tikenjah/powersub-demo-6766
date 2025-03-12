@@ -5423,3 +5423,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0697. ♻️ chore: bump dependencies
 0646. ✅ test: test user registration edge cases
+0851. ✅ test: mock database connection in test suite
