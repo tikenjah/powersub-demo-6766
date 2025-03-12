@@ -9423,3 +9423,4 @@
 0673. 🐛 fix: correct typo in registration form
 0800. 🚀 perf: optimize database query for quiz results
 0304. 🔧 refactor: remove redundant code blocks
+0988. 🐛 fix: fix broken CSS in mobile view
