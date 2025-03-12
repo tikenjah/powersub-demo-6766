@@ -7373,3 +7373,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0391. 🐛 fix: fix null pointer exception on login
 0980. 🎨 style: reformat files with black
+0703. 🔧 refactor: clean up auth middleware
