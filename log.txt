@@ -8439,3 +8439,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0540. ♻️ chore: add GitHub actions badge
 0553. 🐛 fix: correct typo in registration form
+0923. ✨ feat: support email verification
