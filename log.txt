@@ -2112,3 +2112,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0421. 🔧 refactor: split large controller into smaller functions
 0716. ✨ feat: implement quiz timer feature
+0392. 🎨 style: remove trailing whitespace
