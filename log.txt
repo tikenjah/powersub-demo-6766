@@ -10395,3 +10395,4 @@
 0284. ✨ feat: implement quiz timer feature
 0203. 🚀 perf: lazy-load components
 0026. 🔧 refactor: clean up auth middleware
+0361. ✨ feat: support email verification
