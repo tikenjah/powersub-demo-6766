@@ -6415,3 +6415,4 @@
 0924. ✅ test: mock database connection in test suite
 0600. 🐛 fix: prevent crash on empty input
 0944. ✨ feat: add user authentication
+0349. ✅ test: increase coverage on auth module
