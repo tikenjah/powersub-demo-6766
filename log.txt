@@ -6413,3 +6413,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0173. 🚀 perf: cache repeated calculations
 0924. ✅ test: mock database connection in test suite
+0600. 🐛 fix: prevent crash on empty input
