@@ -2119,3 +2119,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0629. 🔧 refactor: organize models into subfolders
 0399. ✅ test: mock database connection in test suite
+0474. ✅ test: add unit test for quiz service
