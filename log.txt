@@ -10398,3 +10398,4 @@
 0361. ✨ feat: support email verification
 0731. 🎨 style: standardize quote style
 0834. ✅ test: increase coverage on auth module
+0791. 🔧 refactor: clean up auth middleware
