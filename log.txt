@@ -8450,3 +8450,4 @@
 0027. 📚 docs: clarify environment setup
 0173. 🚀 perf: cache repeated calculations
 0762. 🚀 perf: lazy-load components
+0548. 📚 docs: write FAQ section
