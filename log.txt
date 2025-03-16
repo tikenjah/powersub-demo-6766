@@ -2156,3 +2156,4 @@
 0214. 📚 docs: improve code comments in utils
 0876. ♻️ chore: rename env.example
 0329. 📚 docs: update README with setup steps
+0294. 🐛 fix: prevent crash on empty input
