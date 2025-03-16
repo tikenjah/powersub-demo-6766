@@ -2139,3 +2139,4 @@
 0374. 🎨 style: standardize quote style
 0079. 🐛 fix: correct typo in registration form
 0600. 🐛 fix: prevent crash on empty input
+0278. 🔧 refactor: clean up auth middleware
