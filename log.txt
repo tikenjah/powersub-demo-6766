@@ -2143,3 +2143,4 @@
 0886. ♻️ chore: clean up unused files
 0612. ✅ test: test user registration edge cases
 0498. ✅ test: mock database connection in test suite
+0525. ✅ test: mock database connection in test suite
