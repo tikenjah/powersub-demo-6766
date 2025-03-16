@@ -2141,3 +2141,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0278. 🔧 refactor: clean up auth middleware
 0886. ♻️ chore: clean up unused files
+0612. ✅ test: test user registration edge cases
