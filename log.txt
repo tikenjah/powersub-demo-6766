@@ -7393,3 +7393,4 @@
 0987. ✨ feat: create admin dashboard
 0623. 🎨 style: standardize quote style
 0424. ✨ feat: add user authentication
+0387. ✨ feat: enable dark mode toggle
