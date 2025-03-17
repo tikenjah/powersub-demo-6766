@@ -5441,3 +5441,4 @@
 0766. 🎨 style: reformat files with black
 0501. ✨ feat: add export to CSV option
 0707. 🎨 style: apply consistent indentation
+0538. 🐛 fix: fix broken CSS in mobile view
