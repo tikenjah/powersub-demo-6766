@@ -8455,3 +8455,4 @@
 0833. ✨ feat: add user authentication
 0022. 📚 docs: document token refresh logic
 0198. 📚 docs: clarify environment setup
+0738. 🐛 fix: prevent crash on empty input
