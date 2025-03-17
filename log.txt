@@ -2168,3 +2168,4 @@
 0942. ✅ test: increase coverage on auth module
 0946. ✅ test: add unit test for quiz service
 0230. ✨ feat: create admin dashboard
+0738. 🐛 fix: prevent crash on empty input
