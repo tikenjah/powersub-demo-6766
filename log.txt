@@ -2164,3 +2164,4 @@
 0798. 🚀 perf: reduce image load time
 0466. 🚀 perf: optimize database query for quiz results
 0575. ✅ test: add unit test for quiz service
+0802. 🔧 refactor: remove redundant code blocks
