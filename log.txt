@@ -8458,3 +8458,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0793. 📚 docs: clarify environment setup
 0474. ✅ test: add unit test for quiz service
+0085. ✨ feat: support email verification
