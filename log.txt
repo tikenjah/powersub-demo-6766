@@ -5444,3 +5444,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0180. ✨ feat: add export to CSV option
 0720. ✨ feat: add export to CSV option
+0359. 🔧 refactor: clean up auth middleware
