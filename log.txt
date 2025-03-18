@@ -2175,3 +2175,4 @@
 0180. ✨ feat: add export to CSV option
 0979. 🎨 style: standardize quote style
 0715. ✨ feat: create admin dashboard
+0689. 🎨 style: reformat files with black
