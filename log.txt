@@ -2185,3 +2185,4 @@
 0244. ✨ feat: add export to CSV option
 0321. 🔧 refactor: organize models into subfolders
 0927. ♻️ chore: bump dependencies
+0102. ✨ feat: support email verification
