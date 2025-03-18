@@ -2176,3 +2176,4 @@
 0979. 🎨 style: standardize quote style
 0715. ✨ feat: create admin dashboard
 0689. 🎨 style: reformat files with black
+0489. 🔧 refactor: organize models into subfolders
