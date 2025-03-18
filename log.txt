@@ -2178,3 +2178,4 @@
 0689. 🎨 style: reformat files with black
 0489. 🔧 refactor: organize models into subfolders
 0523. ♻️ chore: bump dependencies
+0776. ✅ test: add integration test for /submit endpoint
