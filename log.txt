@@ -7398,3 +7398,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0762. 🚀 perf: lazy-load components
 0235. 🐛 fix: fix null pointer exception on login
+0200. 🐛 fix: handle 500 error in quiz API
