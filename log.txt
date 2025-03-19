@@ -9439,3 +9439,4 @@
 0423. ✅ test: mock database connection in test suite
 0796. 🔧 refactor: refactor quiz grading logic
 0429. ✨ feat: add user authentication
+0489. 🔧 refactor: organize models into subfolders
