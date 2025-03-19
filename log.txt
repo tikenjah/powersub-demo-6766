@@ -2190,3 +2190,4 @@
 0965. 🎨 style: reformat files with black
 0657. 🎨 style: standardize quote style
 0491. 🚀 perf: lazy-load components
+0492. 🎨 style: remove trailing whitespace
