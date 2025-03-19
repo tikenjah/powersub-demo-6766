@@ -2193,3 +2193,4 @@
 0492. 🎨 style: remove trailing whitespace
 0035. ✅ test: increase coverage on auth module
 0695. ✨ feat: create admin dashboard
+0122. ✨ feat: support email verification
