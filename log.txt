@@ -8461,3 +8461,4 @@
 0085. ✨ feat: support email verification
 0861. ♻️ chore: clean up unused files
 0777. 📚 docs: document token refresh logic
+0849. 🐛 fix: correct typo in registration form
