@@ -6428,3 +6428,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0080. ✨ feat: support email verification
 0653. 🐛 fix: prevent crash on empty input
+0935. 📚 docs: update README with setup steps
