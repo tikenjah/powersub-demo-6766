@@ -10409,3 +10409,4 @@
 0360. ✨ feat: add export to CSV option
 0914. ✅ test: test user registration edge cases
 0495. 🔧 refactor: remove redundant code blocks
+0835. 🐛 fix: prevent crash on empty input
