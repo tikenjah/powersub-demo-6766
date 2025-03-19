@@ -2195,3 +2195,4 @@
 0695. ✨ feat: create admin dashboard
 0122. ✨ feat: support email verification
 0264. 🚀 perf: optimize database query for quiz results
+0689. 🎨 style: reformat files with black
