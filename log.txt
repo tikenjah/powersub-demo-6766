@@ -6427,3 +6427,4 @@
 0070. ✨ feat: implement quiz timer feature
 0589. 🐛 fix: fix broken CSS in mobile view
 0080. ✨ feat: support email verification
+0653. 🐛 fix: prevent crash on empty input
