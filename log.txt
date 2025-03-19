@@ -2189,3 +2189,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0965. 🎨 style: reformat files with black
 0657. 🎨 style: standardize quote style
+0491. 🚀 perf: lazy-load components
