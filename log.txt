@@ -8464,3 +8464,4 @@
 0849. 🐛 fix: correct typo in registration form
 0010. ✨ feat: add user authentication
 0373. 📚 docs: document token refresh logic
+0651. ✨ feat: enable dark mode toggle
