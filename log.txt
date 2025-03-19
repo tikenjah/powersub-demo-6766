@@ -5448,3 +5448,4 @@
 0215. 🎨 style: reformat files with black
 0636. ✅ test: increase coverage on auth module
 0505. ♻️ chore: add GitHub actions badge
+0666. 🐛 fix: fix broken CSS in mobile view
