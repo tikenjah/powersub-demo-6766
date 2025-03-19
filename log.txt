@@ -5447,3 +5447,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0215. 🎨 style: reformat files with black
 0636. ✅ test: increase coverage on auth module
+0505. ♻️ chore: add GitHub actions badge
