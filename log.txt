@@ -2187,3 +2187,4 @@
 0927. ♻️ chore: bump dependencies
 0102. ✨ feat: support email verification
 0603. 🐛 fix: fix broken CSS in mobile view
+0965. 🎨 style: reformat files with black
