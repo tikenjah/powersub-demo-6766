@@ -6426,3 +6426,4 @@
 0011. ✅ test: add unit test for quiz service
 0070. ✨ feat: implement quiz timer feature
 0589. 🐛 fix: fix broken CSS in mobile view
+0080. ✨ feat: support email verification
