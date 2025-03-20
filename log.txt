@@ -6431,3 +6431,4 @@
 0935. 📚 docs: update README with setup steps
 0577. ✨ feat: implement quiz timer feature
 0093. ✅ test: add unit test for quiz service
+0911. ✅ test: increase coverage on auth module
