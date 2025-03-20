@@ -9443,3 +9443,4 @@
 0199. ✨ feat: create admin dashboard
 0958. 🐛 fix: prevent crash on empty input
 0056. ♻️ chore: rename env.example
+0112. ✨ feat: enable dark mode toggle
