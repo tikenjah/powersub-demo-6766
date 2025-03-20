@@ -8466,3 +8466,4 @@
 0373. 📚 docs: document token refresh logic
 0651. ✨ feat: enable dark mode toggle
 0256. ✅ test: mock database connection in test suite
+0908. ♻️ chore: bump dependencies
