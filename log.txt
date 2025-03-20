@@ -6433,3 +6433,4 @@
 0093. ✅ test: add unit test for quiz service
 0911. ✅ test: increase coverage on auth module
 0521. 🎨 style: standardize quote style
+0690. 🚀 perf: lazy-load components
