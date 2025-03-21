@@ -10412,3 +10412,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0099. 🚀 perf: reduce image load time
 0611. ✅ test: test user registration edge cases
+0984. ♻️ chore: clean up unused files
