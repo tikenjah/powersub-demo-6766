@@ -8469,3 +8469,4 @@
 0908. ♻️ chore: bump dependencies
 0286. ✅ test: mock database connection in test suite
 0566. 📚 docs: write FAQ section
+0273. 🚀 perf: reduce image load time
