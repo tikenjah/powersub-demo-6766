@@ -5452,3 +5452,4 @@
 0142. ✨ feat: implement quiz timer feature
 0576. ♻️ chore: update .gitignore
 0081. 🐛 fix: fix null pointer exception on login
+0642. 🚀 perf: optimize database query for quiz results
