@@ -2228,3 +2228,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0576. ♻️ chore: update .gitignore
 0176. 🔧 refactor: remove redundant code blocks
+0162. ♻️ chore: add GitHub actions badge
