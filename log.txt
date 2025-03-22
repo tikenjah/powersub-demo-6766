@@ -6438,3 +6438,4 @@
 0320. 📚 docs: update README with setup steps
 0323. 📚 docs: clarify environment setup
 0868. ✅ test: add unit test for quiz service
+0507. 🔧 refactor: clean up auth middleware
