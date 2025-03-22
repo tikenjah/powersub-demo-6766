@@ -7401,3 +7401,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0039. ✅ test: add integration test for /submit endpoint
 0438. ♻️ chore: bump dependencies
+0781. 🚀 perf: reduce image load time
