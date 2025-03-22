@@ -2232,3 +2232,4 @@
 0966. 📚 docs: improve code comments in utils
 0258. 🐛 fix: prevent crash on empty input
 0640. ♻️ chore: bump dependencies
+0994. 🚀 perf: reduce image load time
