@@ -8473,3 +8473,4 @@
 0513. ♻️ chore: bump dependencies
 0033. 🎨 style: apply consistent indentation
 0111. 📚 docs: update README with setup steps
+0201. 🔧 refactor: clean up auth middleware
