@@ -10415,3 +10415,4 @@
 0984. ♻️ chore: clean up unused files
 0175. 📚 docs: add API usage examples
 0056. ♻️ chore: rename env.example
+0743. 🎨 style: apply consistent indentation
