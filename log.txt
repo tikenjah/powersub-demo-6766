@@ -8475,3 +8475,4 @@
 0111. 📚 docs: update README with setup steps
 0201. 🔧 refactor: clean up auth middleware
 0116. ✨ feat: support email verification
+0035. ✅ test: increase coverage on auth module
