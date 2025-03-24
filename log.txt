@@ -2261,3 +2261,4 @@
 0169. 📚 docs: add API usage examples
 0889. 🚀 perf: lazy-load components
 0568. 🐛 fix: handle 500 error in quiz API
+0589. 🐛 fix: fix broken CSS in mobile view
