@@ -6447,3 +6447,4 @@
 0509. ♻️ chore: bump dependencies
 0949. 📚 docs: write FAQ section
 0739. 🎨 style: remove trailing whitespace
+0759. 🔧 refactor: organize models into subfolders
