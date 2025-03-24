@@ -2260,3 +2260,4 @@
 0306. 🎨 style: apply consistent indentation
 0169. 📚 docs: add API usage examples
 0889. 🚀 perf: lazy-load components
+0568. 🐛 fix: handle 500 error in quiz API
