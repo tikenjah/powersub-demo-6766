@@ -10420,3 +10420,4 @@
 0499. 🎨 style: reformat files with black
 0926. 🔧 refactor: organize models into subfolders
 0081. 🐛 fix: fix null pointer exception on login
+0566. 📚 docs: write FAQ section
