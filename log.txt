@@ -2255,3 +2255,4 @@
 0637. 🎨 style: apply consistent indentation
 0891. ✨ feat: create admin dashboard
 0979. 🎨 style: standardize quote style
+0831. 📚 docs: clarify environment setup
