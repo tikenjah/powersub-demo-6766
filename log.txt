@@ -10418,3 +10418,4 @@
 0743. 🎨 style: apply consistent indentation
 0512. 🚀 perf: reduce image load time
 0499. 🎨 style: reformat files with black
+0926. 🔧 refactor: organize models into subfolders
