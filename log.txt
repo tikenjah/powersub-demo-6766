@@ -2256,3 +2256,4 @@
 0891. ✨ feat: create admin dashboard
 0979. 🎨 style: standardize quote style
 0831. 📚 docs: clarify environment setup
+0498. ✅ test: mock database connection in test suite
