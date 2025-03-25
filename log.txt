@@ -2275,3 +2275,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0378. 🐛 fix: prevent crash on empty input
 0879. 🎨 style: standardize quote style
+0372. ✨ feat: add user authentication
