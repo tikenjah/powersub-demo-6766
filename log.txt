@@ -6449,3 +6449,4 @@
 0739. 🎨 style: remove trailing whitespace
 0759. 🔧 refactor: organize models into subfolders
 0252. 🎨 style: remove trailing whitespace
+0084. 🐛 fix: handle 500 error in quiz API
