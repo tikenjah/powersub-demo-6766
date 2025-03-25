@@ -2264,3 +2264,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0099. 🚀 perf: reduce image load time
 0387. ✨ feat: enable dark mode toggle
+0270. ♻️ chore: rename env.example
