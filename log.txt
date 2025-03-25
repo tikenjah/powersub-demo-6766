@@ -2263,3 +2263,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0589. 🐛 fix: fix broken CSS in mobile view
 0099. 🚀 perf: reduce image load time
+0387. ✨ feat: enable dark mode toggle
