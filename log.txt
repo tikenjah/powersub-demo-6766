@@ -2265,3 +2265,4 @@
 0099. 🚀 perf: reduce image load time
 0387. ✨ feat: enable dark mode toggle
 0270. ♻️ chore: rename env.example
+0557. 🔧 refactor: clean up auth middleware
