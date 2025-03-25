@@ -2269,3 +2269,4 @@
 0846. ✨ feat: implement quiz timer feature
 0606. 📚 docs: improve code comments in utils
 0455. ♻️ chore: clean up unused files
+0221. ✨ feat: add user authentication
