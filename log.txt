@@ -6451,3 +6451,4 @@
 0252. 🎨 style: remove trailing whitespace
 0084. 🐛 fix: handle 500 error in quiz API
 0356. 📚 docs: write FAQ section
+0144. ✅ test: increase coverage on auth module
