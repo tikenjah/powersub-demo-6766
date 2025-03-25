@@ -7411,3 +7411,4 @@
 0051. ✨ feat: enable dark mode toggle
 0653. 🐛 fix: prevent crash on empty input
 0715. ✨ feat: create admin dashboard
+0583. ✅ test: increase coverage on auth module
