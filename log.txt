@@ -2280,3 +2280,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0921. 🐛 fix: correct typo in registration form
 0308. 🚀 perf: reduce image load time
+0929. ✨ feat: support email verification
