@@ -7415,3 +7415,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0501. ✨ feat: add export to CSV option
 0041. 🐛 fix: fix broken CSS in mobile view
+0698. 🐛 fix: handle 500 error in quiz API
