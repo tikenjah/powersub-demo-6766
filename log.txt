@@ -10425,3 +10425,4 @@
 0452. ✨ feat: implement quiz timer feature
 0091. ✨ feat: add user authentication
 0008. 🚀 perf: reduce image load time
+0205. 📚 docs: update README with setup steps
