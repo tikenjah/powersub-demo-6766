@@ -5463,3 +5463,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0959. 🐛 fix: fix null pointer exception on login
 0409. 🚀 perf: lazy-load components
+0268. 🐛 fix: prevent crash on empty input
