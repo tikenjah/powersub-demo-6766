@@ -8484,3 +8484,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0593. 🐛 fix: correct typo in registration form
 0092. 🚀 perf: reduce image load time
+0020. ✅ test: add integration test for /submit endpoint
