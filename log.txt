@@ -5468,3 +5468,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0849. 🐛 fix: correct typo in registration form
 0128. ♻️ chore: rename env.example
+0753. 🔧 refactor: remove redundant code blocks
