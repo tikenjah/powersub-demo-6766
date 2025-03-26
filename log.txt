@@ -2283,3 +2283,4 @@
 0929. ✨ feat: support email verification
 0897. 🐛 fix: prevent crash on empty input
 0880. 🐛 fix: fix broken CSS in mobile view
+0777. 📚 docs: document token refresh logic
