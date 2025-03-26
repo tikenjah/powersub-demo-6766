@@ -5470,3 +5470,4 @@
 0128. ♻️ chore: rename env.example
 0753. 🔧 refactor: remove redundant code blocks
 0135. ✅ test: test user registration edge cases
+0913. 🚀 perf: optimize database query for quiz results
