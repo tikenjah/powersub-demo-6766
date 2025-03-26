@@ -7413,3 +7413,4 @@
 0715. ✨ feat: create admin dashboard
 0583. ✅ test: increase coverage on auth module
 0645. 🐛 fix: resolve issue with date parsing
+0501. ✨ feat: add export to CSV option
