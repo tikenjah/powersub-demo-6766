@@ -2282,3 +2282,4 @@
 0308. 🚀 perf: reduce image load time
 0929. ✨ feat: support email verification
 0897. 🐛 fix: prevent crash on empty input
+0880. 🐛 fix: fix broken CSS in mobile view
