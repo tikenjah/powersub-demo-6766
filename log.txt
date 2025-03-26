@@ -6456,3 +6456,4 @@
 0524. ♻️ chore: rename env.example
 0115. 🚀 perf: reduce image load time
 0088. 📚 docs: add API usage examples
+0383. 🐛 fix: fix broken CSS in mobile view
