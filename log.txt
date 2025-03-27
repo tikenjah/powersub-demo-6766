@@ -2294,3 +2294,4 @@
 0166. 🚀 perf: cache repeated calculations
 0037. 🐛 fix: correct typo in registration form
 0186. ✅ test: test user registration edge cases
+0426. ✅ test: add integration test for /submit endpoint
