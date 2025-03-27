@@ -10429,3 +10429,4 @@
 0311. 🎨 style: apply consistent indentation
 0764. ✨ feat: add user authentication
 0378. 🐛 fix: prevent crash on empty input
+0511. 🐛 fix: fix broken CSS in mobile view
