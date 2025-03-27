@@ -10428,3 +10428,4 @@
 0205. 📚 docs: update README with setup steps
 0311. 🎨 style: apply consistent indentation
 0764. ✨ feat: add user authentication
+0378. 🐛 fix: prevent crash on empty input
