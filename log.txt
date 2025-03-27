@@ -7421,3 +7421,4 @@
 0911. ✅ test: increase coverage on auth module
 0693. 📚 docs: add API usage examples
 0287. 📚 docs: write FAQ section
+0736. 🐛 fix: fix null pointer exception on login
