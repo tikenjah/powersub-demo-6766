@@ -2304,3 +2304,4 @@
 0654. ✨ feat: create admin dashboard
 0757. 🔧 refactor: remove redundant code blocks
 0365. 🚀 perf: reduce image load time
+0995. ✅ test: mock database connection in test suite
