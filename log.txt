@@ -9464,3 +9464,4 @@
 0227. ✅ test: test user registration edge cases
 0350. 🚀 perf: cache repeated calculations
 0295. 🎨 style: remove trailing whitespace
+0391. 🐛 fix: fix null pointer exception on login
