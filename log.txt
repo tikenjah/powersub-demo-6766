@@ -2319,3 +2319,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0005. ✅ test: add unit test for quiz service
 0551. 📚 docs: write FAQ section
+0751. 🐛 fix: handle 500 error in quiz API
