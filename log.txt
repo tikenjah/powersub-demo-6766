@@ -6460,3 +6460,4 @@
 0053. ✅ test: increase coverage on auth module
 0128. ♻️ chore: rename env.example
 0005. ✅ test: add unit test for quiz service
+0628. ♻️ chore: add GitHub actions badge
