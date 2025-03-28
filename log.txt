@@ -2316,3 +2316,4 @@
 0961. 📚 docs: add API usage examples
 0865. ♻️ chore: add GitHub actions badge
 0735. ♻️ chore: add GitHub actions badge
+0207. 🐛 fix: prevent crash on empty input
