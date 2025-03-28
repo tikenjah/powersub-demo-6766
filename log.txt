@@ -2314,3 +2314,4 @@
 0455. ♻️ chore: clean up unused files
 0677. 📚 docs: add API usage examples
 0961. 📚 docs: add API usage examples
+0865. ♻️ chore: add GitHub actions badge
