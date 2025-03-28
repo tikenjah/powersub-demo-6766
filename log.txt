@@ -2322,3 +2322,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0875. ✅ test: increase coverage on auth module
 0837. 🚀 perf: cache repeated calculations
+0854. ♻️ chore: rename env.example
