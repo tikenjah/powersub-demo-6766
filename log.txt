@@ -2315,3 +2315,4 @@
 0677. 📚 docs: add API usage examples
 0961. 📚 docs: add API usage examples
 0865. ♻️ chore: add GitHub actions badge
+0735. ♻️ chore: add GitHub actions badge
