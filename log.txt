@@ -2318,3 +2318,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0207. 🐛 fix: prevent crash on empty input
 0005. ✅ test: add unit test for quiz service
+0551. 📚 docs: write FAQ section
