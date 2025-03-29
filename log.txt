@@ -6462,3 +6462,4 @@
 0005. ✅ test: add unit test for quiz service
 0628. ♻️ chore: add GitHub actions badge
 0166. 🚀 perf: cache repeated calculations
+0791. 🔧 refactor: clean up auth middleware
