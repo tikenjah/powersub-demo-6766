@@ -2333,3 +2333,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0805. ♻️ chore: add GitHub actions badge
 0840. 🔧 refactor: refactor quiz grading logic
+0311. 🎨 style: apply consistent indentation
