@@ -10432,3 +10432,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0864. 🐛 fix: correct typo in registration form
 0869. ♻️ chore: bump dependencies
+0661. ✅ test: add integration test for /submit endpoint
