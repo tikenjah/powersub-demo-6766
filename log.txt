@@ -5479,3 +5479,4 @@
 0242. ♻️ chore: clean up unused files
 0422. 🔧 refactor: organize models into subfolders
 0511. 🐛 fix: fix broken CSS in mobile view
+0616. 🚀 perf: lazy-load components
