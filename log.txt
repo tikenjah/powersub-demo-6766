@@ -2336,3 +2336,4 @@
 0311. 🎨 style: apply consistent indentation
 0486. ✨ feat: add export to CSV option
 0781. 🚀 perf: reduce image load time
+0339. 📚 docs: update README with setup steps
