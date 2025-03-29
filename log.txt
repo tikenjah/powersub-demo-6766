@@ -2328,3 +2328,4 @@
 0819. 🚀 perf: reduce image load time
 0580. ♻️ chore: bump dependencies
 0990. ♻️ chore: rename env.example
+0484. 🐛 fix: handle 500 error in quiz API
