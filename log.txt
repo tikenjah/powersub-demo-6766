@@ -6466,3 +6466,4 @@
 0311. 🎨 style: apply consistent indentation
 0638. 📚 docs: improve code comments in utils
 0499. 🎨 style: reformat files with black
+0667. ✨ feat: add export to CSV option
