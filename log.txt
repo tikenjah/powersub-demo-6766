@@ -9468,3 +9468,4 @@
 0453. 🎨 style: standardize quote style
 0977. 🔧 refactor: organize models into subfolders
 0679. ♻️ chore: bump dependencies
+0630. 🚀 perf: lazy-load components
