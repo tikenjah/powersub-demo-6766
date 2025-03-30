@@ -2347,3 +2347,4 @@
 0798. 🚀 perf: reduce image load time
 0426. ✅ test: add integration test for /submit endpoint
 0295. 🎨 style: remove trailing whitespace
+0841. 🚀 perf: optimize database query for quiz results
