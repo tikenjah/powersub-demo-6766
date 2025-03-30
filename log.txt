@@ -2340,3 +2340,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0637. 🎨 style: apply consistent indentation
 0582. ✨ feat: add export to CSV option
+0499. 🎨 style: reformat files with black
