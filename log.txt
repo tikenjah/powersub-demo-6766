@@ -5483,3 +5483,4 @@
 0896. 🚀 perf: reduce image load time
 0290. ✅ test: test user registration edge cases
 0988. 🐛 fix: fix broken CSS in mobile view
+0243. 🔧 refactor: clean up auth middleware
