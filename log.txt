@@ -2353,3 +2353,4 @@
 0128. ♻️ chore: rename env.example
 0088. 📚 docs: add API usage examples
 0189. 📚 docs: clarify environment setup
+0120. ✅ test: add integration test for /submit endpoint
