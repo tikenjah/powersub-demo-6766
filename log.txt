@@ -7430,3 +7430,4 @@
 0862. ♻️ chore: bump dependencies
 0210. 🎨 style: apply consistent indentation
 0202. 🔧 refactor: refactor quiz grading logic
+0140. 🐛 fix: handle 500 error in quiz API
