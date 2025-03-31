@@ -2359,3 +2359,4 @@
 0620. ✨ feat: implement quiz timer feature
 0796. 🔧 refactor: refactor quiz grading logic
 0775. 🐛 fix: fix null pointer exception on login
+0039. ✅ test: add integration test for /submit endpoint
