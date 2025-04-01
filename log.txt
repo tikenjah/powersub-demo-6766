@@ -7434,3 +7434,4 @@
 0700. 🎨 style: rename variables for clarity
 0276. ✅ test: add integration test for /submit endpoint
 0189. 📚 docs: clarify environment setup
+0502. 📚 docs: update README with setup steps
