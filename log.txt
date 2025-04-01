@@ -10439,3 +10439,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0714. 📚 docs: improve code comments in utils
 0276. ✅ test: add integration test for /submit endpoint
+0135. ✅ test: test user registration edge cases
