@@ -8497,3 +8497,4 @@
 0009. ✨ feat: enable dark mode toggle
 0867. 🔧 refactor: refactor quiz grading logic
 0132. ✅ test: add unit test for quiz service
+0348. ✅ test: test user registration edge cases
