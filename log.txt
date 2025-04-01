@@ -6470,3 +6470,4 @@
 0358. 🚀 perf: reduce image load time
 0015. ✨ feat: implement quiz timer feature
 0597. 🚀 perf: cache repeated calculations
+0029. 🚀 perf: lazy-load components
