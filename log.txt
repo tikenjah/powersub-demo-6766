@@ -2370,3 +2370,4 @@
 0966. 📚 docs: improve code comments in utils
 0653. 🐛 fix: prevent crash on empty input
 0912. 📚 docs: document token refresh logic
+0672. 🐛 fix: fix broken CSS in mobile view
