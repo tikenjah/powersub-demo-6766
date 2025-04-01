@@ -9475,3 +9475,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0253. 📚 docs: update README with setup steps
 0501. ✨ feat: add export to CSV option
+0642. 🚀 perf: optimize database query for quiz results
