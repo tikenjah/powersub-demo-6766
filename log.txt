@@ -2375,3 +2375,4 @@
 0823. ✨ feat: add user authentication
 0053. ✅ test: increase coverage on auth module
 0625. 🐛 fix: handle 500 error in quiz API
+0478. 🐛 fix: resolve issue with date parsing
