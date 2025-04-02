@@ -2393,3 +2393,4 @@
 0230. ✨ feat: create admin dashboard
 0171. 🐛 fix: fix broken CSS in mobile view
 0869. ♻️ chore: bump dependencies
+0418. ✅ test: mock database connection in test suite
