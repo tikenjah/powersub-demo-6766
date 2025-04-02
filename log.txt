@@ -6477,3 +6477,4 @@
 0270. ♻️ chore: rename env.example
 0151. ✅ test: add unit test for quiz service
 0192. ✨ feat: enable dark mode toggle
+0517. ✅ test: mock database connection in test suite
