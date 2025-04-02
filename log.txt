@@ -8500,3 +8500,4 @@
 0348. ✅ test: test user registration edge cases
 0710. 🐛 fix: fix broken CSS in mobile view
 0569. 📚 docs: document token refresh logic
+0892. ✅ test: add unit test for quiz service
