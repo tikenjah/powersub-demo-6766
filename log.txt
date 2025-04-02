@@ -7437,3 +7437,4 @@
 0502. 📚 docs: update README with setup steps
 0198. 📚 docs: clarify environment setup
 0897. 🐛 fix: prevent crash on empty input
+0633. ✨ feat: add user authentication
