@@ -2387,3 +2387,4 @@
 0786. ✨ feat: enable dark mode toggle
 0791. 🔧 refactor: clean up auth middleware
 0325. 🎨 style: rename variables for clarity
+0247. 🎨 style: apply consistent indentation
