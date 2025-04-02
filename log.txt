@@ -2392,3 +2392,4 @@
 0300. ✨ feat: add export to CSV option
 0230. ✨ feat: create admin dashboard
 0171. 🐛 fix: fix broken CSS in mobile view
+0869. ♻️ chore: bump dependencies
