@@ -2383,3 +2383,4 @@
 0012. 🚀 perf: cache repeated calculations
 0254. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
+0345. 📚 docs: document token refresh logic
