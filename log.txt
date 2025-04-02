@@ -10445,3 +10445,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0903. ✅ test: mock database connection in test suite
 0182. 🔧 refactor: remove redundant code blocks
+0384. 📚 docs: clarify environment setup
