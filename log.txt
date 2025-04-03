@@ -8502,3 +8502,4 @@
 0569. 📚 docs: document token refresh logic
 0892. ✅ test: add unit test for quiz service
 0385. ♻️ chore: clean up unused files
+0771. 🚀 perf: cache repeated calculations
