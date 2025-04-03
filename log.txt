@@ -5492,3 +5492,4 @@
 0966. 📚 docs: improve code comments in utils
 0458. ✨ feat: create admin dashboard
 0135. ✅ test: test user registration edge cases
+0726. ✨ feat: enable dark mode toggle
