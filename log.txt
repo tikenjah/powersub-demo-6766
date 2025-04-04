@@ -2402,3 +2402,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0931. 🚀 perf: reduce image load time
 0404. 📚 docs: improve code comments in utils
+0290. ✅ test: test user registration edge cases
