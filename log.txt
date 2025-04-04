@@ -7440,3 +7440,4 @@
 0633. ✨ feat: add user authentication
 0173. 🚀 perf: cache repeated calculations
 0960. ✅ test: increase coverage on auth module
+0610. 🚀 perf: lazy-load components
