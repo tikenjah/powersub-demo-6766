@@ -2405,3 +2405,4 @@
 0290. ✅ test: test user registration edge cases
 0012. 🚀 perf: cache repeated calculations
 0136. 🚀 perf: lazy-load components
+0761. ✅ test: add unit test for quiz service
