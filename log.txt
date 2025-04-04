@@ -2412,3 +2412,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0182. 🔧 refactor: remove redundant code blocks
 0886. ♻️ chore: clean up unused files
+0995. ✅ test: mock database connection in test suite
