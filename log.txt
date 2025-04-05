@@ -2418,3 +2418,4 @@
 0953. 🎨 style: remove trailing whitespace
 0610. 🚀 perf: lazy-load components
 0632. 🎨 style: remove trailing whitespace
+0612. ✅ test: test user registration edge cases
