@@ -2426,3 +2426,4 @@
 0418. ✅ test: mock database connection in test suite
 0959. 🐛 fix: fix null pointer exception on login
 0554. 📚 docs: improve code comments in utils
+0453. 🎨 style: standardize quote style
