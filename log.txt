@@ -8507,3 +8507,4 @@
 0979. 🎨 style: standardize quote style
 0583. ✅ test: increase coverage on auth module
 0024. 📚 docs: write FAQ section
+0336. ✨ feat: add export to CSV option
