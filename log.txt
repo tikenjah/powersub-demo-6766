@@ -8506,3 +8506,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0979. 🎨 style: standardize quote style
 0583. ✅ test: increase coverage on auth module
+0024. 📚 docs: write FAQ section
