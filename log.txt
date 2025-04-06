@@ -5497,3 +5497,4 @@
 0265. 🎨 style: reformat files with black
 0335. ♻️ chore: update .gitignore
 0959. 🐛 fix: fix null pointer exception on login
+0546. 🐛 fix: fix null pointer exception on login
