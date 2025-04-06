@@ -5498,3 +5498,4 @@
 0335. ♻️ chore: update .gitignore
 0959. 🐛 fix: fix null pointer exception on login
 0546. 🐛 fix: fix null pointer exception on login
+0182. 🔧 refactor: remove redundant code blocks
