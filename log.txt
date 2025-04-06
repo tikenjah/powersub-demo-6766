@@ -2435,3 +2435,4 @@
 0524. ♻️ chore: rename env.example
 0286. ✅ test: mock database connection in test suite
 0571. 🔧 refactor: clean up auth middleware
+0849. 🐛 fix: correct typo in registration form
