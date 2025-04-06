@@ -2442,3 +2442,4 @@
 0185. 📚 docs: write FAQ section
 0368. 🚀 perf: lazy-load components
 0643. 🎨 style: apply consistent indentation
+0149. ✨ feat: add export to CSV option
