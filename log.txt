@@ -2443,3 +2443,4 @@
 0368. 🚀 perf: lazy-load components
 0643. 🎨 style: apply consistent indentation
 0149. ✨ feat: add export to CSV option
+0290. ✅ test: test user registration edge cases
