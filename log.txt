@@ -2439,3 +2439,4 @@
 0198. 📚 docs: clarify environment setup
 0162. ♻️ chore: add GitHub actions badge
 0146. 🎨 style: apply consistent indentation
+0185. 📚 docs: write FAQ section
