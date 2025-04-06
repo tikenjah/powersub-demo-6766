@@ -9487,3 +9487,4 @@
 0303. 🎨 style: rename variables for clarity
 0796. 🔧 refactor: refactor quiz grading logic
 0590. 🐛 fix: fix null pointer exception on login
+0538. 🐛 fix: fix broken CSS in mobile view
