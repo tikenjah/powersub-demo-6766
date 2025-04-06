@@ -2440,3 +2440,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0146. 🎨 style: apply consistent indentation
 0185. 📚 docs: write FAQ section
+0368. 🚀 perf: lazy-load components
