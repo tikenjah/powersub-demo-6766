@@ -8512,3 +8512,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0725. 🚀 perf: lazy-load components
 0817. 🔧 refactor: remove redundant code blocks
+0363. 📚 docs: clarify environment setup
