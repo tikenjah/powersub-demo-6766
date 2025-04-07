@@ -5501,3 +5501,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0602. 🔧 refactor: remove redundant code blocks
 0313. 🎨 style: apply consistent indentation
+0621. 🔧 refactor: clean up auth middleware
