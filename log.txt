@@ -2449,3 +2449,4 @@
 0601. ✨ feat: implement quiz timer feature
 0469. 🚀 perf: lazy-load components
 0243. 🔧 refactor: clean up auth middleware
+0344. ♻️ chore: add GitHub actions badge
