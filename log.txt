@@ -5499,3 +5499,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0546. 🐛 fix: fix null pointer exception on login
 0182. 🔧 refactor: remove redundant code blocks
+0602. 🔧 refactor: remove redundant code blocks
