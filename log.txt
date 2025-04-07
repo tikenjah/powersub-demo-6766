@@ -2453,3 +2453,4 @@
 0929. ✨ feat: support email verification
 0041. 🐛 fix: fix broken CSS in mobile view
 0081. 🐛 fix: fix null pointer exception on login
+0297. 🎨 style: remove trailing whitespace
