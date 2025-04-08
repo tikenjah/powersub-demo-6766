@@ -6490,3 +6490,4 @@
 0678. ✨ feat: add user authentication
 0183. 🔧 refactor: split large controller into smaller functions
 0325. 🎨 style: rename variables for clarity
+0611. ✅ test: test user registration edge cases
