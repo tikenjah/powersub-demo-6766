@@ -2455,3 +2455,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0297. 🎨 style: remove trailing whitespace
 0455. ♻️ chore: clean up unused files
+0160. ♻️ chore: bump dependencies
