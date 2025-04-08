@@ -8517,3 +8517,4 @@
 0694. 🎨 style: rename variables for clarity
 0190. 🎨 style: rename variables for clarity
 0600. 🐛 fix: prevent crash on empty input
+0797. 📚 docs: add API usage examples
