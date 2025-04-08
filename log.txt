@@ -2459,3 +2459,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0619. ✨ feat: create admin dashboard
 0518. ✨ feat: support email verification
+0914. ✅ test: test user registration edge cases
