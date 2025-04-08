@@ -8516,3 +8516,4 @@
 0325. 🎨 style: rename variables for clarity
 0694. 🎨 style: rename variables for clarity
 0190. 🎨 style: rename variables for clarity
+0600. 🐛 fix: prevent crash on empty input
