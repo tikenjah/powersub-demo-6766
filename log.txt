@@ -2456,3 +2456,4 @@
 0297. 🎨 style: remove trailing whitespace
 0455. ♻️ chore: clean up unused files
 0160. ♻️ chore: bump dependencies
+0224. 🐛 fix: fix broken CSS in mobile view
