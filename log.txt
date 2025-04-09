@@ -7456,3 +7456,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0317. ✅ test: test user registration edge cases
 0745. ✅ test: add unit test for quiz service
+0922. 📚 docs: write FAQ section
