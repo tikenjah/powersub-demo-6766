@@ -5505,3 +5505,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0731. 🎨 style: standardize quote style
 0808. 🚀 perf: optimize database query for quiz results
+0934. ✨ feat: support email verification
