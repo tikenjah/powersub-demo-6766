@@ -2485,3 +2485,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0505. ♻️ chore: add GitHub actions badge
 0145. 📚 docs: improve code comments in utils
+0713. 🐛 fix: handle 500 error in quiz API
