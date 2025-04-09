@@ -10466,3 +10466,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0946. ✅ test: add unit test for quiz service
 0104. 🎨 style: apply consistent indentation
+0934. ✨ feat: support email verification
