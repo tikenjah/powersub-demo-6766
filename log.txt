@@ -2477,3 +2477,4 @@
 0257. 📚 docs: clarify environment setup
 0987. ✨ feat: create admin dashboard
 0722. 📚 docs: add API usage examples
+0253. 📚 docs: update README with setup steps
