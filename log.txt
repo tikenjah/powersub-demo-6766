@@ -2487,3 +2487,4 @@
 0145. 📚 docs: improve code comments in utils
 0713. 🐛 fix: handle 500 error in quiz API
 0445. 📚 docs: improve code comments in utils
+0625. 🐛 fix: handle 500 error in quiz API
