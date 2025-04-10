@@ -2492,3 +2492,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0187. ✨ feat: support email verification
 0673. 🐛 fix: correct typo in registration form
+0313. 🎨 style: apply consistent indentation
