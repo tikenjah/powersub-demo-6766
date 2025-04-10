@@ -10470,3 +10470,4 @@
 0947. 📚 docs: write FAQ section
 0666. 🐛 fix: fix broken CSS in mobile view
 0664. ✅ test: add unit test for quiz service
+0741. 🎨 style: apply consistent indentation
