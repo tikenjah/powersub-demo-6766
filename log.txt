@@ -8519,3 +8519,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0797. 📚 docs: add API usage examples
 0066. 🔧 refactor: clean up auth middleware
+0584. 🚀 perf: lazy-load components
