@@ -10467,3 +10467,4 @@
 0946. ✅ test: add unit test for quiz service
 0104. 🎨 style: apply consistent indentation
 0934. ✨ feat: support email verification
+0947. 📚 docs: write FAQ section
