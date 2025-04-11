@@ -2505,3 +2505,4 @@
 0295. 🎨 style: remove trailing whitespace
 0460. 📚 docs: write FAQ section
 0225. 🚀 perf: reduce image load time
+0359. 🔧 refactor: clean up auth middleware
