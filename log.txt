@@ -2506,3 +2506,4 @@
 0460. 📚 docs: write FAQ section
 0225. 🚀 perf: reduce image load time
 0359. 🔧 refactor: clean up auth middleware
+0485. 📚 docs: update README with setup steps
