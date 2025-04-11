@@ -2503,3 +2503,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0060. ♻️ chore: clean up unused files
 0295. 🎨 style: remove trailing whitespace
+0460. 📚 docs: write FAQ section
