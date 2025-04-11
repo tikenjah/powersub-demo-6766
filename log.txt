@@ -8525,3 +8525,4 @@
 0654. ✨ feat: create admin dashboard
 0633. ✨ feat: add user authentication
 0129. 🔧 refactor: organize models into subfolders
+0388. 🎨 style: reformat files with black
