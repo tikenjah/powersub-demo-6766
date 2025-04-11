@@ -8523,3 +8523,4 @@
 0124. 🎨 style: reformat files with black
 0461. ✨ feat: add user authentication
 0654. ✨ feat: create admin dashboard
+0633. ✨ feat: add user authentication
