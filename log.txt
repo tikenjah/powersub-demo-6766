@@ -8527,3 +8527,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0388. 🎨 style: reformat files with black
 0413. ✅ test: add integration test for /submit endpoint
+0535. 📚 docs: write FAQ section
