@@ -2504,3 +2504,4 @@
 0060. ♻️ chore: clean up unused files
 0295. 🎨 style: remove trailing whitespace
 0460. 📚 docs: write FAQ section
+0225. 🚀 perf: reduce image load time
