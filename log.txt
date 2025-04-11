@@ -2501,3 +2501,4 @@
 0702. ✨ feat: add user authentication
 0587. 🔧 refactor: remove redundant code blocks
 0514. 🐛 fix: fix broken CSS in mobile view
+0060. ♻️ chore: clean up unused files
