@@ -7458,3 +7458,4 @@
 0745. ✅ test: add unit test for quiz service
 0922. 📚 docs: write FAQ section
 0183. 🔧 refactor: split large controller into smaller functions
+0066. 🔧 refactor: clean up auth middleware
