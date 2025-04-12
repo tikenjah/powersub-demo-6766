@@ -8529,3 +8529,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0535. 📚 docs: write FAQ section
 0773. 📚 docs: document token refresh logic
+0099. 🚀 perf: reduce image load time
