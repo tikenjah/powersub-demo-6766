@@ -8532,3 +8532,4 @@
 0099. 🚀 perf: reduce image load time
 0645. 🐛 fix: resolve issue with date parsing
 0385. ♻️ chore: clean up unused files
+0113. ✨ feat: add user authentication
