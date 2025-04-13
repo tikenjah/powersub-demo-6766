@@ -8534,3 +8534,4 @@
 0385. ♻️ chore: clean up unused files
 0113. ✨ feat: add user authentication
 0442. 🎨 style: standardize quote style
+0006. 🐛 fix: prevent crash on empty input
