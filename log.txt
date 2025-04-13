@@ -7462,3 +7462,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0150. 🎨 style: remove trailing whitespace
 0062. ♻️ chore: update .gitignore
+0159. 🚀 perf: lazy-load components
