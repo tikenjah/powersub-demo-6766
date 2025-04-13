@@ -2522,3 +2522,4 @@
 0300. ✨ feat: add export to CSV option
 0874. 🔧 refactor: split large controller into smaller functions
 0591. ♻️ chore: clean up unused files
+0239. 🎨 style: standardize quote style
