@@ -6510,3 +6510,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0830. 🎨 style: apply consistent indentation
 0491. 🚀 perf: lazy-load components
+0271. ✅ test: add unit test for quiz service
