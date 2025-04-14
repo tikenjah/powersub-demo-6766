@@ -5519,3 +5519,4 @@
 0392. 🎨 style: remove trailing whitespace
 0295. 🎨 style: remove trailing whitespace
 0492. 🎨 style: remove trailing whitespace
+0885. ♻️ chore: update .gitignore
