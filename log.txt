@@ -8536,3 +8536,4 @@
 0442. 🎨 style: standardize quote style
 0006. 🐛 fix: prevent crash on empty input
 0283. ♻️ chore: add GitHub actions badge
+0159. 🚀 perf: lazy-load components
