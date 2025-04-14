@@ -2526,3 +2526,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0797. 📚 docs: add API usage examples
 0884. 📚 docs: clarify environment setup
+0026. 🔧 refactor: clean up auth middleware
