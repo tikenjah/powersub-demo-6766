@@ -2529,3 +2529,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0140. 🐛 fix: handle 500 error in quiz API
 0579. 📚 docs: clarify environment setup
+0357. ✅ test: add unit test for quiz service
