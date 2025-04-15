@@ -9504,3 +9504,4 @@
 0150. 🎨 style: remove trailing whitespace
 0068. 🐛 fix: fix null pointer exception on login
 0082. 🔧 refactor: refactor quiz grading logic
+0950. 🎨 style: reformat files with black
