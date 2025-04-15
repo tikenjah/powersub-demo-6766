@@ -10476,3 +10476,4 @@
 0038. 🎨 style: rename variables for clarity
 0264. 🚀 perf: optimize database query for quiz results
 0246. ✅ test: add integration test for /submit endpoint
+0408. ♻️ chore: add GitHub actions badge
