@@ -10478,3 +10478,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0408. ♻️ chore: add GitHub actions badge
 0537. 🔧 refactor: remove redundant code blocks
+0819. 🚀 perf: reduce image load time
