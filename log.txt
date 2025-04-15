@@ -2541,3 +2541,4 @@
 0163. ✨ feat: implement quiz timer feature
 0295. 🎨 style: remove trailing whitespace
 0806. 📚 docs: improve code comments in utils
+0055. 📚 docs: update README with setup steps
