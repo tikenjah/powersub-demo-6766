@@ -10479,3 +10479,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0537. 🔧 refactor: remove redundant code blocks
 0819. 🚀 perf: reduce image load time
+0017. ✅ test: mock database connection in test suite
