@@ -2553,3 +2553,4 @@
 0765. ♻️ chore: clean up unused files
 0946. ✅ test: add unit test for quiz service
 0802. 🔧 refactor: remove redundant code blocks
+0507. 🔧 refactor: clean up auth middleware
