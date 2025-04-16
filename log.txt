@@ -2547,3 +2547,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0602. 🔧 refactor: remove redundant code blocks
 0565. ♻️ chore: add GitHub actions badge
+0107. 🐛 fix: prevent crash on empty input
