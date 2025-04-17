@@ -2568,3 +2568,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0102. ✨ feat: support email verification
 0235. 🐛 fix: fix null pointer exception on login
+0946. ✅ test: add unit test for quiz service
