@@ -2572,3 +2572,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0082. 🔧 refactor: refactor quiz grading logic
 0683. ✅ test: mock database connection in test suite
+0589. 🐛 fix: fix broken CSS in mobile view
