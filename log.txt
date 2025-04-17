@@ -8548,3 +8548,4 @@
 0596. ♻️ chore: update .gitignore
 0557. 🔧 refactor: clean up auth middleware
 0276. ✅ test: add integration test for /submit endpoint
+0785. ✨ feat: enable dark mode toggle
