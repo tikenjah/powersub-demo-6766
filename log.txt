@@ -2567,3 +2567,4 @@
 0599. ✅ test: test user registration edge cases
 0296. 🔧 refactor: organize models into subfolders
 0102. ✨ feat: support email verification
+0235. 🐛 fix: fix null pointer exception on login
