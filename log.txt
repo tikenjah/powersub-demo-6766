@@ -2569,3 +2569,4 @@
 0102. ✨ feat: support email verification
 0235. 🐛 fix: fix null pointer exception on login
 0946. ✅ test: add unit test for quiz service
+0822. 🔧 refactor: remove redundant code blocks
