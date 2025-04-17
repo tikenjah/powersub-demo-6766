@@ -6522,3 +6522,4 @@
 0950. 🎨 style: reformat files with black
 0619. ✨ feat: create admin dashboard
 0049. 🐛 fix: handle 500 error in quiz API
+0323. 📚 docs: clarify environment setup
