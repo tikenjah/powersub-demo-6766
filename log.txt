@@ -6524,3 +6524,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0323. 📚 docs: clarify environment setup
 0328. 🐛 fix: resolve issue with date parsing
+0051. ✨ feat: enable dark mode toggle
