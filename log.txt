@@ -10489,3 +10489,4 @@
 0487. 🎨 style: reformat files with black
 0377. ✨ feat: add user authentication
 0357. ✅ test: add unit test for quiz service
+0330. ✅ test: test user registration edge cases
