@@ -2575,3 +2575,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0433. 🐛 fix: prevent crash on empty input
 0858. ♻️ chore: clean up unused files
+0444. ✅ test: add unit test for quiz service
