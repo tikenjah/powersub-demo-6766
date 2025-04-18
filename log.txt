@@ -2583,3 +2583,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0272. 🔧 refactor: remove redundant code blocks
 0688. 🚀 perf: reduce image load time
+0529. 📚 docs: write FAQ section
