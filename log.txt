@@ -2578,3 +2578,4 @@
 0444. ✅ test: add unit test for quiz service
 0887. 📚 docs: add API usage examples
 0917. ✅ test: add integration test for /submit endpoint
+0956. 📚 docs: clarify environment setup
