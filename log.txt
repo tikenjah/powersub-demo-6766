@@ -6525,3 +6525,4 @@
 0323. 📚 docs: clarify environment setup
 0328. 🐛 fix: resolve issue with date parsing
 0051. ✨ feat: enable dark mode toggle
+0254. 🚀 perf: reduce image load time
