@@ -7475,3 +7475,4 @@
 0858. ♻️ chore: clean up unused files
 0854. ♻️ chore: rename env.example
 0523. ♻️ chore: bump dependencies
+0786. ✨ feat: enable dark mode toggle
