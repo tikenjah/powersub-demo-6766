@@ -2603,3 +2603,4 @@
 0275. 🎨 style: standardize quote style
 0298. ♻️ chore: update .gitignore
 0207. 🐛 fix: prevent crash on empty input
+0542. 🔧 refactor: organize models into subfolders
