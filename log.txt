@@ -10490,3 +10490,4 @@
 0377. ✨ feat: add user authentication
 0357. ✅ test: add unit test for quiz service
 0330. ✅ test: test user registration edge cases
+0988. 🐛 fix: fix broken CSS in mobile view
