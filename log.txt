@@ -2601,3 +2601,4 @@
 0188. 🎨 style: apply consistent indentation
 0340. 🚀 perf: optimize database query for quiz results
 0275. 🎨 style: standardize quote style
+0298. ♻️ chore: update .gitignore
