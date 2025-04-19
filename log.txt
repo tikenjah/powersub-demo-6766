@@ -10492,3 +10492,4 @@
 0330. ✅ test: test user registration edge cases
 0988. 🐛 fix: fix broken CSS in mobile view
 0101. 📚 docs: clarify environment setup
+0501. ✨ feat: add export to CSV option
