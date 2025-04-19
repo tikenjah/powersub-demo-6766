@@ -2592,3 +2592,4 @@
 0003. ✅ test: increase coverage on auth module
 0423. ✅ test: mock database connection in test suite
 0731. 🎨 style: standardize quote style
+0871. ✅ test: add integration test for /submit endpoint
