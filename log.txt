@@ -2590,3 +2590,4 @@
 0034. 📚 docs: improve code comments in utils
 0833. ✨ feat: add user authentication
 0003. ✅ test: increase coverage on auth module
+0423. ✅ test: mock database connection in test suite
