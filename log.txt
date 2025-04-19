@@ -6528,3 +6528,4 @@
 0254. 🚀 perf: reduce image load time
 0513. ♻️ chore: bump dependencies
 0554. 📚 docs: improve code comments in utils
+0457. 🐛 fix: handle 500 error in quiz API
