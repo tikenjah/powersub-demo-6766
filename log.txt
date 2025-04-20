@@ -8555,3 +8555,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0021. ✨ feat: support email verification
 0577. ✨ feat: implement quiz timer feature
+0981. 🚀 perf: lazy-load components
