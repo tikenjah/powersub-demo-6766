@@ -5533,3 +5533,4 @@
 0953. 🎨 style: remove trailing whitespace
 0876. ♻️ chore: rename env.example
 0525. ✅ test: mock database connection in test suite
+0743. 🎨 style: apply consistent indentation
