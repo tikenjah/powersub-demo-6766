@@ -9513,3 +9513,4 @@
 0784. ♻️ chore: clean up unused files
 0964. ♻️ chore: clean up unused files
 0249. ✅ test: increase coverage on auth module
+0743. 🎨 style: apply consistent indentation
