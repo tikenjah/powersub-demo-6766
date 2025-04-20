@@ -6532,3 +6532,4 @@
 0256. ✅ test: mock database connection in test suite
 0208. 🔧 refactor: clean up auth middleware
 0764. ✨ feat: add user authentication
+0197. 📚 docs: update README with setup steps
