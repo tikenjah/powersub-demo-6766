@@ -2610,3 +2610,4 @@
 0693. 📚 docs: add API usage examples
 0527. 🎨 style: remove trailing whitespace
 0916. ♻️ chore: bump dependencies
+0252. 🎨 style: remove trailing whitespace
