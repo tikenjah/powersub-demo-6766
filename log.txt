@@ -6535,3 +6535,4 @@
 0197. 📚 docs: update README with setup steps
 0916. ♻️ chore: bump dependencies
 0179. 🔧 refactor: split large controller into smaller functions
+0135. ✅ test: test user registration edge cases
