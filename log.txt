@@ -8558,3 +8558,4 @@
 0981. 🚀 perf: lazy-load components
 0463. 🚀 perf: reduce image load time
 0371. ✅ test: add integration test for /submit endpoint
+0030. 🐛 fix: fix null pointer exception on login
