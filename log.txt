@@ -5534,3 +5534,4 @@
 0876. ♻️ chore: rename env.example
 0525. ✅ test: mock database connection in test suite
 0743. 🎨 style: apply consistent indentation
+0111. 📚 docs: update README with setup steps
