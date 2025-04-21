@@ -8557,3 +8557,4 @@
 0577. ✨ feat: implement quiz timer feature
 0981. 🚀 perf: lazy-load components
 0463. 🚀 perf: reduce image load time
+0371. ✅ test: add integration test for /submit endpoint
