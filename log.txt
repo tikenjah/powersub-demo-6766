@@ -2629,3 +2629,4 @@
 0788. 📚 docs: add API usage examples
 0444. ✅ test: add unit test for quiz service
 0669. ✨ feat: enable dark mode toggle
+0140. 🐛 fix: handle 500 error in quiz API
