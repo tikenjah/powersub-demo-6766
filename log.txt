@@ -2636,3 +2636,4 @@
 0627. 📚 docs: document token refresh logic
 0173. 🚀 perf: cache repeated calculations
 0311. 🎨 style: apply consistent indentation
+0105. 🐛 fix: correct typo in registration form
