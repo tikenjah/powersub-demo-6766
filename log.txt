@@ -6536,3 +6536,4 @@
 0916. ♻️ chore: bump dependencies
 0179. 🔧 refactor: split large controller into smaller functions
 0135. ✅ test: test user registration edge cases
+0783. 🐛 fix: handle 500 error in quiz API
