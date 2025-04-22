@@ -9517,3 +9517,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0831. 📚 docs: clarify environment setup
 0474. ✅ test: add unit test for quiz service
+0349. ✅ test: increase coverage on auth module
