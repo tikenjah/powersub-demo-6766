@@ -2638,3 +2638,4 @@
 0311. 🎨 style: apply consistent indentation
 0105. 🐛 fix: correct typo in registration form
 0269. ✅ test: test user registration edge cases
+0363. 📚 docs: clarify environment setup
