@@ -2633,3 +2633,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0802. 🔧 refactor: remove redundant code blocks
 0095. ✅ test: mock database connection in test suite
+0627. 📚 docs: document token refresh logic
