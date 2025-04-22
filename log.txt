@@ -8561,3 +8561,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0632. 🎨 style: remove trailing whitespace
 0184. 📚 docs: improve code comments in utils
+0887. 📚 docs: add API usage examples
