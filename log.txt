@@ -7486,3 +7486,4 @@
 0444. ✅ test: add unit test for quiz service
 0939. 📚 docs: update README with setup steps
 0506. 🐛 fix: handle 500 error in quiz API
+0373. 📚 docs: document token refresh logic
