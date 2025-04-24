@@ -2659,3 +2659,4 @@
 0314. ✨ feat: implement quiz timer feature
 0020. ✅ test: add integration test for /submit endpoint
 0021. ✨ feat: support email verification
+0320. 📚 docs: update README with setup steps
