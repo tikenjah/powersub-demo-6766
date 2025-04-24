@@ -8569,3 +8569,4 @@
 0333. 🚀 perf: cache repeated calculations
 0520. 🐛 fix: fix null pointer exception on login
 0690. 🚀 perf: lazy-load components
+0875. ✅ test: increase coverage on auth module
