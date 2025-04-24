@@ -2662,3 +2662,4 @@
 0320. 📚 docs: update README with setup steps
 0714. 📚 docs: improve code comments in utils
 0323. 📚 docs: clarify environment setup
+0875. ✅ test: increase coverage on auth module
