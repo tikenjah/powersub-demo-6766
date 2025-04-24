@@ -2652,3 +2652,4 @@
 0402. 🎨 style: reformat files with black
 0058. ♻️ chore: add GitHub actions badge
 0877. 🚀 perf: optimize database query for quiz results
+0127. 🐛 fix: fix null pointer exception on login
