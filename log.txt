@@ -2675,3 +2675,4 @@
 0884. 📚 docs: clarify environment setup
 0176. 🔧 refactor: remove redundant code blocks
 0838. 🎨 style: standardize quote style
+0066. 🔧 refactor: clean up auth middleware
