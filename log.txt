@@ -5548,3 +5548,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0124. 🎨 style: reformat files with black
 0352. ✨ feat: add export to CSV option
+0068. 🐛 fix: fix null pointer exception on login
