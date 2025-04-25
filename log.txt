@@ -2670,3 +2670,4 @@
 0323. 📚 docs: clarify environment setup
 0986. 📚 docs: document token refresh logic
 0628. ♻️ chore: add GitHub actions badge
+0265. 🎨 style: reformat files with black
