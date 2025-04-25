@@ -9526,3 +9526,4 @@
 0591. ♻️ chore: clean up unused files
 0165. 🎨 style: remove trailing whitespace
 0617. ✨ feat: support email verification
+0593. 🐛 fix: correct typo in registration form
