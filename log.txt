@@ -2687,3 +2687,4 @@
 0453. 🎨 style: standardize quote style
 0520. 🐛 fix: fix null pointer exception on login
 0645. 🐛 fix: resolve issue with date parsing
+0546. 🐛 fix: fix null pointer exception on login
