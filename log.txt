@@ -5555,3 +5555,4 @@
 0186. ✅ test: test user registration edge cases
 0504. 📚 docs: document token refresh logic
 0687. 🎨 style: remove trailing whitespace
+0259. 🚀 perf: lazy-load components
