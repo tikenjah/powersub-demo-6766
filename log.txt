@@ -2685,3 +2685,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0475. 🔧 refactor: clean up auth middleware
 0453. 🎨 style: standardize quote style
+0520. 🐛 fix: fix null pointer exception on login
