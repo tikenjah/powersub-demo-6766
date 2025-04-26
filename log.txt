@@ -7495,3 +7495,4 @@
 0252. 🎨 style: remove trailing whitespace
 0047. 🎨 style: rename variables for clarity
 0151. ✅ test: add unit test for quiz service
+0193. 🚀 perf: optimize database query for quiz results
