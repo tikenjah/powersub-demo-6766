@@ -2681,3 +2681,4 @@
 0633. ✨ feat: add user authentication
 0464. 🎨 style: remove trailing whitespace
 0690. 🚀 perf: lazy-load components
+0925. ✨ feat: add export to CSV option
