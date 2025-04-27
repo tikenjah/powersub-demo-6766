@@ -7499,3 +7499,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0875. ✅ test: increase coverage on auth module
 0576. ♻️ chore: update .gitignore
+0511. 🐛 fix: fix broken CSS in mobile view
