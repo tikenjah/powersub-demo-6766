@@ -7502,3 +7502,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0650. ✅ test: add unit test for quiz service
 0790. 📚 docs: write FAQ section
+0426. ✅ test: add integration test for /submit endpoint
