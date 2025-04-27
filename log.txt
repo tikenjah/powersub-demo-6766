@@ -2697,3 +2697,4 @@
 0971. 🎨 style: standardize quote style
 0285. 🐛 fix: resolve issue with date parsing
 0056. ♻️ chore: rename env.example
+0116. ✨ feat: support email verification
