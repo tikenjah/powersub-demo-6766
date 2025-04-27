@@ -6544,3 +6544,4 @@
 0307. ✨ feat: support email verification
 0072. 🚀 perf: optimize database query for quiz results
 0033. 🎨 style: apply consistent indentation
+0408. ♻️ chore: add GitHub actions badge
