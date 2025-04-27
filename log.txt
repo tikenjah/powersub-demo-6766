@@ -7500,3 +7500,4 @@
 0875. ✅ test: increase coverage on auth module
 0576. ♻️ chore: update .gitignore
 0511. 🐛 fix: fix broken CSS in mobile view
+0650. ✅ test: add unit test for quiz service
