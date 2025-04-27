@@ -2692,3 +2692,4 @@
 0252. 🎨 style: remove trailing whitespace
 0299. 🐛 fix: resolve issue with date parsing
 0395. 📚 docs: write FAQ section
+0813. 🔧 refactor: organize models into subfolders
