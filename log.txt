@@ -9529,3 +9529,4 @@
 0593. 🐛 fix: correct typo in registration form
 0314. ✨ feat: implement quiz timer feature
 0451. ✨ feat: support email verification
+0735. ♻️ chore: add GitHub actions badge
