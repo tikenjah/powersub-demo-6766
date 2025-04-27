@@ -2690,3 +2690,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0595. ✨ feat: enable dark mode toggle
 0252. 🎨 style: remove trailing whitespace
+0299. 🐛 fix: resolve issue with date parsing
