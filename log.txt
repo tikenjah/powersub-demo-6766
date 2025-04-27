@@ -8578,3 +8578,4 @@
 0445. 📚 docs: improve code comments in utils
 0467. ✅ test: add integration test for /submit endpoint
 0144. ✅ test: increase coverage on auth module
+0426. ✅ test: add integration test for /submit endpoint
