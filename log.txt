@@ -10511,3 +10511,4 @@
 0964. ♻️ chore: clean up unused files
 0086. 🐛 fix: correct typo in registration form
 0277. 🎨 style: standardize quote style
+0277. 🎨 style: standardize quote style
