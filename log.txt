@@ -2701,3 +2701,4 @@
 0439. 🐛 fix: correct typo in registration form
 0964. ♻️ chore: clean up unused files
 0910. 🎨 style: remove trailing whitespace
+0036. 🔧 refactor: clean up auth middleware
