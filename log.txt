@@ -8579,3 +8579,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0144. ✅ test: increase coverage on auth module
 0426. ✅ test: add integration test for /submit endpoint
+0839. 🎨 style: apply consistent indentation
