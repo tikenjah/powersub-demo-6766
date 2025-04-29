@@ -2718,3 +2718,4 @@
 0003. ✅ test: increase coverage on auth module
 0095. ✅ test: mock database connection in test suite
 0057. 🚀 perf: optimize database query for quiz results
+0617. ✨ feat: support email verification
