@@ -6546,3 +6546,4 @@
 0033. 🎨 style: apply consistent indentation
 0408. ♻️ chore: add GitHub actions badge
 0803. ✅ test: mock database connection in test suite
+0367. 🐛 fix: fix null pointer exception on login
