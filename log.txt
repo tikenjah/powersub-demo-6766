@@ -10518,3 +10518,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0538. 🐛 fix: fix broken CSS in mobile view
 0320. 📚 docs: update README with setup steps
+0481. ✅ test: add unit test for quiz service
