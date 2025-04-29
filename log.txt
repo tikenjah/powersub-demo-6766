@@ -7507,3 +7507,4 @@
 0803. ✅ test: mock database connection in test suite
 0326. 🚀 perf: cache repeated calculations
 0031. 📚 docs: document token refresh logic
+0854. ♻️ chore: rename env.example
