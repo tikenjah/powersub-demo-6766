@@ -2712,3 +2712,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0739. 🎨 style: remove trailing whitespace
 0801. ✨ feat: enable dark mode toggle
+0661. ✅ test: add integration test for /submit endpoint
