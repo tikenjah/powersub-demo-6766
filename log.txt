@@ -10515,3 +10515,4 @@
 0441. 📚 docs: add API usage examples
 0665. ♻️ chore: update .gitignore
 0764. ✨ feat: add user authentication
+0096. 🐛 fix: prevent crash on empty input
