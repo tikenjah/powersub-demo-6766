@@ -8583,3 +8583,4 @@
 0580. ♻️ chore: bump dependencies
 0704. 🚀 perf: cache repeated calculations
 0326. 🚀 perf: cache repeated calculations
+0778. 📚 docs: write FAQ section
