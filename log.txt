@@ -2729,3 +2729,4 @@
 0053. ✅ test: increase coverage on auth module
 0164. 📚 docs: document token refresh logic
 0423. ✅ test: mock database connection in test suite
+0221. ✨ feat: add user authentication
