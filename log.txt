@@ -2732,3 +2732,4 @@
 0221. ✨ feat: add user authentication
 0254. 🚀 perf: reduce image load time
 0965. 🎨 style: reformat files with black
+0901. ✨ feat: add user authentication
