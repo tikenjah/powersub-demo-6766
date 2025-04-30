@@ -2726,3 +2726,4 @@
 0029. 🚀 perf: lazy-load components
 0590. 🐛 fix: fix null pointer exception on login
 0679. ♻️ chore: bump dependencies
+0053. ✅ test: increase coverage on auth module
