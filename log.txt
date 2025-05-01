@@ -9539,3 +9539,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0447. ♻️ chore: bump dependencies
 0003. ✅ test: increase coverage on auth module
+0213. ✅ test: add integration test for /submit endpoint
