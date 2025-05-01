@@ -2745,3 +2745,4 @@
 0646. ✅ test: test user registration edge cases
 0506. 🐛 fix: handle 500 error in quiz API
 0208. 🔧 refactor: clean up auth middleware
+0540. ♻️ chore: add GitHub actions badge
