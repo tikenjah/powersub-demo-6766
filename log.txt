@@ -2743,3 +2743,4 @@
 0536. ✨ feat: add user authentication
 0699. 🎨 style: standardize quote style
 0646. ✅ test: test user registration edge cases
+0506. 🐛 fix: handle 500 error in quiz API
