@@ -5566,3 +5566,4 @@
 0101. 📚 docs: clarify environment setup
 0775. 🐛 fix: fix null pointer exception on login
 0804. ♻️ chore: add GitHub actions badge
+0856. 🐛 fix: fix null pointer exception on login
