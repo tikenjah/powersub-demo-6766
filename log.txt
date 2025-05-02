@@ -2753,3 +2753,4 @@
 0001. 🚀 perf: cache repeated calculations
 0450. 🐛 fix: fix broken CSS in mobile view
 0198. 📚 docs: clarify environment setup
+0164. 📚 docs: document token refresh logic
