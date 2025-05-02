@@ -8590,3 +8590,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0585. 🚀 perf: lazy-load components
 0662. ♻️ chore: clean up unused files
+0828. ♻️ chore: add GitHub actions badge
