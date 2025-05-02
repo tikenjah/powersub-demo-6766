@@ -2761,3 +2761,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0391. 🐛 fix: fix null pointer exception on login
 0111. 📚 docs: update README with setup steps
+0291. 📚 docs: write FAQ section
