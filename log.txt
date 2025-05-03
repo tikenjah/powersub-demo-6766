@@ -2763,3 +2763,4 @@
 0111. 📚 docs: update README with setup steps
 0291. 📚 docs: write FAQ section
 0053. ✅ test: increase coverage on auth module
+0238. 🎨 style: apply consistent indentation
