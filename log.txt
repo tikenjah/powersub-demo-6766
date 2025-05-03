@@ -2767,3 +2767,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0768. 🎨 style: remove trailing whitespace
 0306. 🎨 style: apply consistent indentation
+0696. 🔧 refactor: clean up auth middleware
