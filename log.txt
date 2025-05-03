@@ -2774,3 +2774,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0499. 🎨 style: reformat files with black
 0583. ✅ test: increase coverage on auth module
+0792. 🎨 style: standardize quote style
