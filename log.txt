@@ -2773,3 +2773,4 @@
 0269. ✅ test: test user registration edge cases
 0522. 🐛 fix: handle 500 error in quiz API
 0499. 🎨 style: reformat files with black
+0583. ✅ test: increase coverage on auth module
