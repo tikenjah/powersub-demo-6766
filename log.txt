@@ -7518,3 +7518,4 @@
 0997. ✅ test: increase coverage on auth module
 0345. 📚 docs: document token refresh logic
 0717. 🔧 refactor: refactor quiz grading logic
+0578. ✅ test: add integration test for /submit endpoint
