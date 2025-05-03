@@ -2772,3 +2772,4 @@
 0968. 🎨 style: standardize quote style
 0269. ✅ test: test user registration edge cases
 0522. 🐛 fix: handle 500 error in quiz API
+0499. 🎨 style: reformat files with black
