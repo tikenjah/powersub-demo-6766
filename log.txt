@@ -2775,3 +2775,4 @@
 0499. 🎨 style: reformat files with black
 0583. ✅ test: increase coverage on auth module
 0792. 🎨 style: standardize quote style
+0169. 📚 docs: add API usage examples
