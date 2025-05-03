@@ -9545,3 +9545,4 @@
 0597. 🚀 perf: cache repeated calculations
 0811. 🎨 style: reformat files with black
 0989. 📚 docs: write FAQ section
+0877. 🚀 perf: optimize database query for quiz results
