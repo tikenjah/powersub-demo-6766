@@ -8591,3 +8591,4 @@
 0585. 🚀 perf: lazy-load components
 0662. ♻️ chore: clean up unused files
 0828. ♻️ chore: add GitHub actions badge
+0371. ✅ test: add integration test for /submit endpoint
