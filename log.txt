@@ -2778,3 +2778,4 @@
 0169. 📚 docs: add API usage examples
 0324. 📚 docs: document token refresh logic
 0228. 🔧 refactor: remove redundant code blocks
+0756. ✨ feat: support email verification
