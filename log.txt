@@ -6559,3 +6559,4 @@
 0656. 🎨 style: apply consistent indentation
 0440. 📚 docs: update README with setup steps
 0249. ✅ test: increase coverage on auth module
+0720. ✨ feat: add export to CSV option
