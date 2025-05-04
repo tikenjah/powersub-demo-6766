@@ -9547,3 +9547,4 @@
 0989. 📚 docs: write FAQ section
 0877. 🚀 perf: optimize database query for quiz results
 0456. 🚀 perf: optimize database query for quiz results
+0545. 🎨 style: standardize quote style
