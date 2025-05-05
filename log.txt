@@ -5574,3 +5574,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0305. ✨ feat: enable dark mode toggle
 0912. 📚 docs: document token refresh logic
+0415. 🐛 fix: handle 500 error in quiz API
