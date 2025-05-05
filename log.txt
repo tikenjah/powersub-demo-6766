@@ -2792,3 +2792,4 @@
 0249. ✅ test: increase coverage on auth module
 0652. 🔧 refactor: organize models into subfolders
 0370. 🚀 perf: reduce image load time
+0251. ♻️ chore: update .gitignore
