@@ -9552,3 +9552,4 @@
 0558. ✨ feat: enable dark mode toggle
 0148. 🔧 refactor: organize models into subfolders
 0004. 🚀 perf: optimize database query for quiz results
+0600. 🐛 fix: prevent crash on empty input
