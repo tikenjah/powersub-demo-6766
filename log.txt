@@ -6567,3 +6567,4 @@
 0794. ♻️ chore: clean up unused files
 0559. 🔧 refactor: split large controller into smaller functions
 0942. ✅ test: increase coverage on auth module
+0104. 🎨 style: apply consistent indentation
