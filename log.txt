@@ -6568,3 +6568,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0942. ✅ test: increase coverage on auth module
 0104. 🎨 style: apply consistent indentation
+0287. 📚 docs: write FAQ section
