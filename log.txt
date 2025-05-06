@@ -9554,3 +9554,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0600. 🐛 fix: prevent crash on empty input
 0468. 📚 docs: update README with setup steps
+0297. 🎨 style: remove trailing whitespace
