@@ -6566,3 +6566,4 @@
 0662. ♻️ chore: clean up unused files
 0794. ♻️ chore: clean up unused files
 0559. 🔧 refactor: split large controller into smaller functions
+0942. ✅ test: increase coverage on auth module
