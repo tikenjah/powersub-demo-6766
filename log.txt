@@ -2823,3 +2823,4 @@
 0076. 🎨 style: reformat files with black
 0554. 📚 docs: improve code comments in utils
 0911. ✅ test: increase coverage on auth module
+0347. ♻️ chore: update .gitignore
