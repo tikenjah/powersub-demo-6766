@@ -2824,3 +2824,4 @@
 0554. 📚 docs: improve code comments in utils
 0911. ✅ test: increase coverage on auth module
 0347. ♻️ chore: update .gitignore
+0631. ✨ feat: create admin dashboard
