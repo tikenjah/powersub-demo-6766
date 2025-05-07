@@ -2819,3 +2819,4 @@
 0897. 🐛 fix: prevent crash on empty input
 0706. ✨ feat: support email verification
 0366. 🔧 refactor: remove redundant code blocks
+0607. 🐛 fix: prevent crash on empty input
