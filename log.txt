@@ -5581,3 +5581,4 @@
 0187. ✨ feat: support email verification
 0987. ✨ feat: create admin dashboard
 0825. 🔧 refactor: split large controller into smaller functions
+0710. 🐛 fix: fix broken CSS in mobile view
