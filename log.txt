@@ -2834,3 +2834,4 @@
 0317. ✅ test: test user registration edge cases
 0348. ✅ test: test user registration edge cases
 0681. ✨ feat: create admin dashboard
+0460. 📚 docs: write FAQ section
