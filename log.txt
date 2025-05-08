@@ -2827,3 +2827,4 @@
 0631. ✨ feat: create admin dashboard
 0998. 🐛 fix: fix null pointer exception on login
 0542. 🔧 refactor: organize models into subfolders
+0192. ✨ feat: enable dark mode toggle
