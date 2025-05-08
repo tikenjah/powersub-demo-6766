@@ -2837,3 +2837,4 @@
 0460. 📚 docs: write FAQ section
 0004. 🚀 perf: optimize database query for quiz results
 0956. 📚 docs: clarify environment setup
+0296. 🔧 refactor: organize models into subfolders
