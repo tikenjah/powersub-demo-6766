@@ -2836,3 +2836,4 @@
 0681. ✨ feat: create admin dashboard
 0460. 📚 docs: write FAQ section
 0004. 🚀 perf: optimize database query for quiz results
+0956. 📚 docs: clarify environment setup
