@@ -7533,3 +7533,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0599. ✅ test: test user registration edge cases
 0770. ♻️ chore: rename env.example
+0475. 🔧 refactor: clean up auth middleware
