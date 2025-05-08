@@ -2826,3 +2826,4 @@
 0347. ♻️ chore: update .gitignore
 0631. ✨ feat: create admin dashboard
 0998. 🐛 fix: fix null pointer exception on login
+0542. 🔧 refactor: organize models into subfolders
