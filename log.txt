@@ -2856,3 +2856,4 @@
 0502. 📚 docs: update README with setup steps
 0451. ✨ feat: support email verification
 0648. ♻️ chore: bump dependencies
+0213. ✅ test: add integration test for /submit endpoint
