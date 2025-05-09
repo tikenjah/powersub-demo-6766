@@ -6572,3 +6572,4 @@
 0741. 🎨 style: apply consistent indentation
 0634. 🎨 style: reformat files with black
 0318. 🔧 refactor: refactor quiz grading logic
+0545. 🎨 style: standardize quote style
