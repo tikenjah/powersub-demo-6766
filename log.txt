@@ -2851,3 +2851,4 @@
 0838. 🎨 style: standardize quote style
 0779. 🔧 refactor: organize models into subfolders
 0025. 🚀 perf: optimize database query for quiz results
+0268. 🐛 fix: prevent crash on empty input
