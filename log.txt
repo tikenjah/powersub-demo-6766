@@ -9564,3 +9564,4 @@
 0940. 📚 docs: document token refresh logic
 0090. ✅ test: increase coverage on auth module
 0292. 📚 docs: clarify environment setup
+0066. 🔧 refactor: clean up auth middleware
