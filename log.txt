@@ -2847,3 +2847,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0564. 📚 docs: clarify environment setup
 0695. ✨ feat: create admin dashboard
+0566. 📚 docs: write FAQ section
