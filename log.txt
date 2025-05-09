@@ -2848,3 +2848,4 @@
 0564. 📚 docs: clarify environment setup
 0695. ✨ feat: create admin dashboard
 0566. 📚 docs: write FAQ section
+0838. 🎨 style: standardize quote style
