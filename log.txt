@@ -2844,3 +2844,4 @@
 0196. ♻️ chore: bump dependencies
 0929. ✨ feat: support email verification
 0663. 🚀 perf: reduce image load time
+0201. 🔧 refactor: clean up auth middleware
