@@ -2858,3 +2858,4 @@
 0648. ♻️ chore: bump dependencies
 0213. ✅ test: add integration test for /submit endpoint
 0292. 📚 docs: clarify environment setup
+0652. 🔧 refactor: organize models into subfolders
