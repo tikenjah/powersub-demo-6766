@@ -2865,3 +2865,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0671. 🐛 fix: fix null pointer exception on login
 0751. 🐛 fix: handle 500 error in quiz API
+0602. 🔧 refactor: remove redundant code blocks
