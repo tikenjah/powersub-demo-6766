@@ -6577,3 +6577,4 @@
 0690. 🚀 perf: lazy-load components
 0663. 🚀 perf: reduce image load time
 0993. ✨ feat: implement quiz timer feature
+0281. ✨ feat: support email verification
