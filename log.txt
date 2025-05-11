@@ -2877,3 +2877,4 @@
 0139. 📚 docs: document token refresh logic
 0735. ♻️ chore: add GitHub actions badge
 0439. 🐛 fix: correct typo in registration form
+0598. 🔧 refactor: remove redundant code blocks
