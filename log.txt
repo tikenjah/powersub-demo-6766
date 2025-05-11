@@ -6583,3 +6583,4 @@
 0887. 📚 docs: add API usage examples
 0440. 📚 docs: update README with setup steps
 0529. 📚 docs: write FAQ section
+0568. 🐛 fix: handle 500 error in quiz API
