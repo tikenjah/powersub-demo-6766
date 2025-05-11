@@ -2875,3 +2875,4 @@
 0888. 🚀 perf: lazy-load components
 0123. ✨ feat: implement quiz timer feature
 0139. 📚 docs: document token refresh logic
+0735. ♻️ chore: add GitHub actions badge
