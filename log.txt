@@ -2886,3 +2886,4 @@
 0915. 🚀 perf: cache repeated calculations
 0770. ♻️ chore: rename env.example
 0593. 🐛 fix: correct typo in registration form
+0721. 🚀 perf: optimize database query for quiz results
