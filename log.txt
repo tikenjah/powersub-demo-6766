@@ -6585,3 +6585,4 @@
 0529. 📚 docs: write FAQ section
 0568. 🐛 fix: handle 500 error in quiz API
 0523. ♻️ chore: bump dependencies
+0549. ✨ feat: enable dark mode toggle
