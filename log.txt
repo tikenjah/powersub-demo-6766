@@ -8615,3 +8615,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0025. 🚀 perf: optimize database query for quiz results
 0376. 🎨 style: apply consistent indentation
+0647. 🐛 fix: prevent crash on empty input
