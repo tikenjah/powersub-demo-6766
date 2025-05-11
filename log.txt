@@ -8613,3 +8613,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0410. 🎨 style: reformat files with black
 0565. ♻️ chore: add GitHub actions badge
+0025. 🚀 perf: optimize database query for quiz results
