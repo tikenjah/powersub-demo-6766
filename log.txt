@@ -5597,3 +5597,4 @@
 0883. 📚 docs: improve code comments in utils
 0491. 🚀 perf: lazy-load components
 0167. 🚀 perf: reduce image load time
+0049. 🐛 fix: handle 500 error in quiz API
