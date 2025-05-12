@@ -7545,3 +7545,4 @@
 0984. ♻️ chore: clean up unused files
 0809. ♻️ chore: rename env.example
 0696. 🔧 refactor: clean up auth middleware
+0910. 🎨 style: remove trailing whitespace
