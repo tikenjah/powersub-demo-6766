@@ -5596,3 +5596,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0883. 📚 docs: improve code comments in utils
 0491. 🚀 perf: lazy-load components
+0167. 🚀 perf: reduce image load time
