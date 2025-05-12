@@ -2890,3 +2890,4 @@
 0353. ♻️ chore: rename env.example
 0209. ✨ feat: implement quiz timer feature
 0073. 🔧 refactor: split large controller into smaller functions
+0349. ✅ test: increase coverage on auth module
