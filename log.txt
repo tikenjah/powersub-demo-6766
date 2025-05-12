@@ -9573,3 +9573,4 @@
 0599. ✅ test: test user registration edge cases
 0139. 📚 docs: document token refresh logic
 0787. ♻️ chore: rename env.example
+0570. 🎨 style: apply consistent indentation
