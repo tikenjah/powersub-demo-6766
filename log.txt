@@ -2911,3 +2911,4 @@
 0834. ✅ test: increase coverage on auth module
 0638. 📚 docs: improve code comments in utils
 0024. 📚 docs: write FAQ section
+0948. 🐛 fix: fix broken CSS in mobile view
