@@ -9576,3 +9576,4 @@
 0570. 🎨 style: apply consistent indentation
 0383. 🐛 fix: fix broken CSS in mobile view
 0665. ♻️ chore: update .gitignore
+0074. ♻️ chore: add GitHub actions badge
