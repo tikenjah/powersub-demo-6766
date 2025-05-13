@@ -6588,3 +6588,4 @@
 0549. ✨ feat: enable dark mode toggle
 0119. 📚 docs: improve code comments in utils
 0882. 🚀 perf: optimize database query for quiz results
+0054. ♻️ chore: update .gitignore
