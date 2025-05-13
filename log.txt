@@ -2909,3 +2909,4 @@
 0447. ♻️ chore: bump dependencies
 0369. 🎨 style: standardize quote style
 0834. ✅ test: increase coverage on auth module
+0638. 📚 docs: improve code comments in utils
