@@ -2901,3 +2901,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0287. 📚 docs: write FAQ section
 0086. 🐛 fix: correct typo in registration form
+0592. 📚 docs: add API usage examples
