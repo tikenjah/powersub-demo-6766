@@ -9580,3 +9580,4 @@
 0789. ✨ feat: create admin dashboard
 0014. 🔧 refactor: remove redundant code blocks
 0094. 📚 docs: document token refresh logic
+0849. 🐛 fix: correct typo in registration form
