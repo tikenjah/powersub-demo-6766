@@ -2900,3 +2900,4 @@
 0410. 🎨 style: reformat files with black
 0425. 🔧 refactor: refactor quiz grading logic
 0287. 📚 docs: write FAQ section
+0086. 🐛 fix: correct typo in registration form
