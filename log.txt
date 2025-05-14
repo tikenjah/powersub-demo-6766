@@ -2919,3 +2919,4 @@
 0234. ♻️ chore: rename env.example
 0280. ✅ test: add integration test for /submit endpoint
 0837. 🚀 perf: cache repeated calculations
+0703. 🔧 refactor: clean up auth middleware
