@@ -6591,3 +6591,4 @@
 0054. ♻️ chore: update .gitignore
 0021. ✨ feat: support email verification
 0061. ✨ feat: create admin dashboard
+0144. ✅ test: increase coverage on auth module
