@@ -2916,3 +2916,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0922. 📚 docs: write FAQ section
 0548. 📚 docs: write FAQ section
+0234. ♻️ chore: rename env.example
