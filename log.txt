@@ -2929,3 +2929,4 @@
 0787. ♻️ chore: rename env.example
 0273. 🚀 perf: reduce image load time
 0477. 🐛 fix: fix broken CSS in mobile view
+0709. ♻️ chore: bump dependencies
