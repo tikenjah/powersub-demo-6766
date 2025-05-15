@@ -5605,3 +5605,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0516. ✅ test: add unit test for quiz service
 0771. 🚀 perf: cache repeated calculations
+0125. ✅ test: add integration test for /submit endpoint
