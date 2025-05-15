@@ -2930,3 +2930,4 @@
 0273. 🚀 perf: reduce image load time
 0477. 🐛 fix: fix broken CSS in mobile view
 0709. ♻️ chore: bump dependencies
+0145. 📚 docs: improve code comments in utils
