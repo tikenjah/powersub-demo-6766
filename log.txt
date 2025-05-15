@@ -9585,3 +9585,4 @@
 0513. ♻️ chore: bump dependencies
 0711. 🐛 fix: fix broken CSS in mobile view
 0662. ♻️ chore: clean up unused files
+0570. 🎨 style: apply consistent indentation
