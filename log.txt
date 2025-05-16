@@ -6596,3 +6596,4 @@
 0765. ♻️ chore: clean up unused files
 0925. ✨ feat: add export to CSV option
 0618. ✨ feat: support email verification
+0402. 🎨 style: reformat files with black
