@@ -2938,3 +2938,4 @@
 0111. 📚 docs: update README with setup steps
 0342. 🚀 perf: cache repeated calculations
 0184. 📚 docs: improve code comments in utils
+0355. 🚀 perf: optimize database query for quiz results
