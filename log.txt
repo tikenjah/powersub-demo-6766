@@ -8629,3 +8629,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0107. 🐛 fix: prevent crash on empty input
 0664. ✅ test: add unit test for quiz service
+0029. 🚀 perf: lazy-load components
