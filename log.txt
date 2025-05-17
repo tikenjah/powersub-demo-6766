@@ -2948,3 +2948,4 @@
 0833. ✨ feat: add user authentication
 0321. 🔧 refactor: organize models into subfolders
 0277. 🎨 style: standardize quote style
+0008. 🚀 perf: reduce image load time
