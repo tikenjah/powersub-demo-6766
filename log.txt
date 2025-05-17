@@ -2953,3 +2953,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0620. ✨ feat: implement quiz timer feature
 0948. 🐛 fix: fix broken CSS in mobile view
+0621. 🔧 refactor: clean up auth middleware
