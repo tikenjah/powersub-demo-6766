@@ -2960,3 +2960,4 @@
 0239. 🎨 style: standardize quote style
 0869. ♻️ chore: bump dependencies
 0357. ✅ test: add unit test for quiz service
+0068. 🐛 fix: fix null pointer exception on login
