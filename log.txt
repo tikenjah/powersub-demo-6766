@@ -5614,3 +5614,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0053. ✅ test: increase coverage on auth module
 0757. 🔧 refactor: remove redundant code blocks
+0170. ✅ test: increase coverage on auth module
