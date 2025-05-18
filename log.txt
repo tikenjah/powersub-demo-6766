@@ -6602,3 +6602,4 @@
 0618. ✨ feat: support email verification
 0871. ✅ test: add integration test for /submit endpoint
 0435. ✅ test: add unit test for quiz service
+0837. 🚀 perf: cache repeated calculations
