@@ -2957,3 +2957,4 @@
 0636. ✅ test: increase coverage on auth module
 0839. 🎨 style: apply consistent indentation
 0943. 🎨 style: rename variables for clarity
+0239. 🎨 style: standardize quote style
