@@ -8632,3 +8632,4 @@
 0029. 🚀 perf: lazy-load components
 0978. 🐛 fix: prevent crash on empty input
 0469. 🚀 perf: lazy-load components
+0505. ♻️ chore: add GitHub actions badge
