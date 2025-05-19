@@ -2973,3 +2973,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0682. ♻️ chore: rename env.example
 0155. ✨ feat: create admin dashboard
+0703. 🔧 refactor: clean up auth middleware
