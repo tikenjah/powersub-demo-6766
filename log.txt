@@ -6605,3 +6605,4 @@
 0837. 🚀 perf: cache repeated calculations
 0610. 🚀 perf: lazy-load components
 0412. ✅ test: increase coverage on auth module
+0759. 🔧 refactor: organize models into subfolders
