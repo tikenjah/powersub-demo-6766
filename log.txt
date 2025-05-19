@@ -8634,3 +8634,4 @@
 0469. 🚀 perf: lazy-load components
 0505. ♻️ chore: add GitHub actions badge
 0308. 🚀 perf: reduce image load time
+0979. 🎨 style: standardize quote style
