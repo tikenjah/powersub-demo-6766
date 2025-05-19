@@ -2971,3 +2971,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0449. ✅ test: add unit test for quiz service
 0835. 🐛 fix: prevent crash on empty input
+0682. ♻️ chore: rename env.example
