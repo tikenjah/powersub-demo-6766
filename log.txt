@@ -2970,3 +2970,4 @@
 0405. ✅ test: mock database connection in test suite
 0818. 🔧 refactor: remove redundant code blocks
 0449. ✅ test: add unit test for quiz service
+0835. 🐛 fix: prevent crash on empty input
