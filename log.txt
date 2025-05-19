@@ -7565,3 +7565,4 @@
 0555. ✨ feat: create admin dashboard
 0095. ✅ test: mock database connection in test suite
 0097. 🐛 fix: handle 500 error in quiz API
+0086. 🐛 fix: correct typo in registration form
