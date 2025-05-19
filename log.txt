@@ -6604,3 +6604,4 @@
 0435. ✅ test: add unit test for quiz service
 0837. 🚀 perf: cache repeated calculations
 0610. 🚀 perf: lazy-load components
+0412. ✅ test: increase coverage on auth module
