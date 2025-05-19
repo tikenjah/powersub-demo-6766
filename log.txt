@@ -8633,3 +8633,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0469. 🚀 perf: lazy-load components
 0505. ♻️ chore: add GitHub actions badge
+0308. 🚀 perf: reduce image load time
