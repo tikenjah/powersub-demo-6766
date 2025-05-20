@@ -2988,3 +2988,4 @@
 0021. ✨ feat: support email verification
 0799. ♻️ chore: clean up unused files
 0406. ✨ feat: add export to CSV option
+0074. ♻️ chore: add GitHub actions badge
