@@ -8635,3 +8635,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0308. 🚀 perf: reduce image load time
 0979. 🎨 style: standardize quote style
+0391. 🐛 fix: fix null pointer exception on login
