@@ -2986,3 +2986,4 @@
 0574. ✨ feat: enable dark mode toggle
 0017. ✅ test: mock database connection in test suite
 0021. ✨ feat: support email verification
+0799. ♻️ chore: clean up unused files
