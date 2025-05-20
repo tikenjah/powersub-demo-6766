@@ -5618,3 +5618,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0016. 🎨 style: apply consistent indentation
 0082. 🔧 refactor: refactor quiz grading logic
+0978. 🐛 fix: prevent crash on empty input
