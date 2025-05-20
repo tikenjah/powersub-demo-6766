@@ -7570,3 +7570,4 @@
 0012. 🚀 perf: cache repeated calculations
 0097. 🐛 fix: handle 500 error in quiz API
 0307. ✨ feat: support email verification
+0362. 📚 docs: add API usage examples
