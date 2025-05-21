@@ -3004,3 +3004,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0431. 🎨 style: reformat files with black
 0125. ✅ test: add integration test for /submit endpoint
+0535. 📚 docs: write FAQ section
