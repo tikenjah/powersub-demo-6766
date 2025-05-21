@@ -5623,3 +5623,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0155. ✨ feat: create admin dashboard
 0686. 🎨 style: standardize quote style
+0131. 📚 docs: write FAQ section
