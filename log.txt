@@ -2990,3 +2990,4 @@
 0406. ✨ feat: add export to CSV option
 0074. ♻️ chore: add GitHub actions badge
 0731. 🎨 style: standardize quote style
+0698. 🐛 fix: handle 500 error in quiz API
