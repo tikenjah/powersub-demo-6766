@@ -7577,3 +7577,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0331. 🐛 fix: fix broken CSS in mobile view
 0916. ♻️ chore: bump dependencies
+0687. 🎨 style: remove trailing whitespace
