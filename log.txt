@@ -6609,3 +6609,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0588. 🔧 refactor: organize models into subfolders
 0993. ✨ feat: implement quiz timer feature
+0084. 🐛 fix: handle 500 error in quiz API
