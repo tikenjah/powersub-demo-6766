@@ -7578,3 +7578,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0916. ♻️ chore: bump dependencies
 0687. 🎨 style: remove trailing whitespace
+0767. 🔧 refactor: remove redundant code blocks
