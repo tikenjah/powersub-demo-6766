@@ -7575,3 +7575,4 @@
 0549. ✨ feat: enable dark mode toggle
 0527. 🎨 style: remove trailing whitespace
 0068. 🐛 fix: fix null pointer exception on login
+0331. 🐛 fix: fix broken CSS in mobile view
