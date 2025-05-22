@@ -8644,3 +8644,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0789. ✨ feat: create admin dashboard
 0219. ✅ test: increase coverage on auth module
+0802. 🔧 refactor: remove redundant code blocks
