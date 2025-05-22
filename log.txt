@@ -3010,3 +3010,4 @@
 0062. ♻️ chore: update .gitignore
 0859. ✨ feat: create admin dashboard
 0472. 🐛 fix: fix null pointer exception on login
+0131. 📚 docs: write FAQ section
