@@ -6614,3 +6614,4 @@
 0024. 📚 docs: write FAQ section
 0043. ✅ test: add integration test for /submit endpoint
 0341. 🚀 perf: lazy-load components
+0618. ✨ feat: support email verification
