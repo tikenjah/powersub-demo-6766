@@ -7583,3 +7583,4 @@
 0087. ✨ feat: add export to CSV option
 0693. 📚 docs: add API usage examples
 0908. ♻️ chore: bump dependencies
+0129. 🔧 refactor: organize models into subfolders
