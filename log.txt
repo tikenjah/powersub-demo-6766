@@ -9605,3 +9605,4 @@
 1000. ✅ test: increase coverage on auth module
 0033. 🎨 style: apply consistent indentation
 0092. 🚀 perf: reduce image load time
+0792. 🎨 style: standardize quote style
