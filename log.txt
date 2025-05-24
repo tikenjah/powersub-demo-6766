@@ -10573,3 +10573,4 @@
 0134. ✨ feat: implement quiz timer feature
 0693. 📚 docs: add API usage examples
 0697. ♻️ chore: bump dependencies
+0835. 🐛 fix: prevent crash on empty input
