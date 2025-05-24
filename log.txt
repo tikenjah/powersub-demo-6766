@@ -5631,3 +5631,4 @@
 0053. ✅ test: increase coverage on auth module
 0657. 🎨 style: standardize quote style
 0689. 🎨 style: reformat files with black
+0780. 📚 docs: add API usage examples
