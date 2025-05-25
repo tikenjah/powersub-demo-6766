@@ -3049,3 +3049,4 @@
 0665. ♻️ chore: update .gitignore
 0188. 🎨 style: apply consistent indentation
 0828. ♻️ chore: add GitHub actions badge
+0890. 🔧 refactor: organize models into subfolders
