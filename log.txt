@@ -3047,3 +3047,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0834. ✅ test: increase coverage on auth module
 0665. ♻️ chore: update .gitignore
+0188. 🎨 style: apply consistent indentation
