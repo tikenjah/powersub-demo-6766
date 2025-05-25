@@ -3050,3 +3050,4 @@
 0188. 🎨 style: apply consistent indentation
 0828. ♻️ chore: add GitHub actions badge
 0890. 🔧 refactor: organize models into subfolders
+0178. ✨ feat: support email verification
