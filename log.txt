@@ -7589,3 +7589,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0654. ✨ feat: create admin dashboard
 0080. ✨ feat: support email verification
+0055. 📚 docs: update README with setup steps
