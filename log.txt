@@ -10579,3 +10579,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0294. 🐛 fix: prevent crash on empty input
 0715. ✨ feat: create admin dashboard
+0024. 📚 docs: write FAQ section
