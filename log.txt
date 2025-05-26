@@ -3059,3 +3059,4 @@
 0673. 🐛 fix: correct typo in registration form
 0789. ✨ feat: create admin dashboard
 0925. ✨ feat: add export to CSV option
+0669. ✨ feat: enable dark mode toggle
