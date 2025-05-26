@@ -3057,3 +3057,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0781. 🚀 perf: reduce image load time
 0673. 🐛 fix: correct typo in registration form
+0789. ✨ feat: create admin dashboard
