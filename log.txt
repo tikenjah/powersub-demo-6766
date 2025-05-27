@@ -3075,3 +3075,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0056. ♻️ chore: rename env.example
 0353. ♻️ chore: rename env.example
+0996. ✅ test: test user registration edge cases
