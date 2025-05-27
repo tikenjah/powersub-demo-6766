@@ -6620,3 +6620,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0829. 🔧 refactor: organize models into subfolders
 0139. 📚 docs: document token refresh logic
+0080. ✨ feat: support email verification
