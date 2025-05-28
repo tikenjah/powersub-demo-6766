@@ -3101,3 +3101,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0251. ♻️ chore: update .gitignore
 0198. 📚 docs: clarify environment setup
+0779. 🔧 refactor: organize models into subfolders
