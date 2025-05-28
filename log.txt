@@ -3100,3 +3100,4 @@
 0016. 🎨 style: apply consistent indentation
 0865. ♻️ chore: add GitHub actions badge
 0251. ♻️ chore: update .gitignore
+0198. 📚 docs: clarify environment setup
