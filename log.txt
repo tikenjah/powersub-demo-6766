@@ -3091,3 +3091,4 @@
 0567. 📚 docs: add API usage examples
 0026. 🔧 refactor: clean up auth middleware
 0337. 📚 docs: document token refresh logic
+0298. ♻️ chore: update .gitignore
