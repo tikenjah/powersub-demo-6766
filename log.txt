@@ -3084,3 +3084,4 @@
 0052. 🎨 style: standardize quote style
 0329. 📚 docs: update README with setup steps
 0774. 🔧 refactor: refactor quiz grading logic
+0988. 🐛 fix: fix broken CSS in mobile view
