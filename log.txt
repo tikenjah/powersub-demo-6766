@@ -3097,3 +3097,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0080. ✨ feat: support email verification
 0959. 🐛 fix: fix null pointer exception on login
+0016. 🎨 style: apply consistent indentation
