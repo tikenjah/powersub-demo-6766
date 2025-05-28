@@ -3090,3 +3090,4 @@
 0789. ✨ feat: create admin dashboard
 0567. 📚 docs: add API usage examples
 0026. 🔧 refactor: clean up auth middleware
+0337. 📚 docs: document token refresh logic
