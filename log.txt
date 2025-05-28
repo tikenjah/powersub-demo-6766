@@ -3093,3 +3093,4 @@
 0337. 📚 docs: document token refresh logic
 0298. ♻️ chore: update .gitignore
 0884. 📚 docs: clarify environment setup
+0258. 🐛 fix: prevent crash on empty input
