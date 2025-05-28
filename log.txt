@@ -3098,3 +3098,4 @@
 0080. ✨ feat: support email verification
 0959. 🐛 fix: fix null pointer exception on login
 0016. 🎨 style: apply consistent indentation
+0865. ♻️ chore: add GitHub actions badge
