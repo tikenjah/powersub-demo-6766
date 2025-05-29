@@ -3117,3 +3117,4 @@
 0257. 📚 docs: clarify environment setup
 0320. 📚 docs: update README with setup steps
 0136. 🚀 perf: lazy-load components
+0528. ♻️ chore: clean up unused files
