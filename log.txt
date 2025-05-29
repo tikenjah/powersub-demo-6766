@@ -6626,3 +6626,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0642. 🚀 perf: optimize database query for quiz results
 0093. ✅ test: add unit test for quiz service
+0791. 🔧 refactor: clean up auth middleware
