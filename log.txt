@@ -10584,3 +10584,4 @@
 1000. ✅ test: increase coverage on auth module
 0993. ✨ feat: implement quiz timer feature
 0648. ♻️ chore: bump dependencies
+0576. ♻️ chore: update .gitignore
