@@ -3110,3 +3110,4 @@
 0028. 🎨 style: standardize quote style
 0667. ✨ feat: add export to CSV option
 0652. 🔧 refactor: organize models into subfolders
+0571. 🔧 refactor: clean up auth middleware
