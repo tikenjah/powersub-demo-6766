@@ -10582,3 +10582,4 @@
 0024. 📚 docs: write FAQ section
 0371. ✅ test: add integration test for /submit endpoint
 1000. ✅ test: increase coverage on auth module
+0993. ✨ feat: implement quiz timer feature
