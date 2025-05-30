@@ -10588,3 +10588,4 @@
 0996. ✅ test: test user registration edge cases
 0332. 🎨 style: standardize quote style
 0605. ✨ feat: support email verification
+0251. ♻️ chore: update .gitignore
