@@ -6629,3 +6629,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0616. 🚀 perf: lazy-load components
 0582. ✨ feat: add export to CSV option
+0386. 🚀 perf: optimize database query for quiz results
