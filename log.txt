@@ -10586,3 +10586,4 @@
 0648. ♻️ chore: bump dependencies
 0576. ♻️ chore: update .gitignore
 0996. ✅ test: test user registration edge cases
+0332. 🎨 style: standardize quote style
