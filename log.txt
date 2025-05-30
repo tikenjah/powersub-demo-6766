@@ -9620,3 +9620,4 @@
 0320. 📚 docs: update README with setup steps
 0509. ♻️ chore: bump dependencies
 0669. ✨ feat: enable dark mode toggle
+0144. ✅ test: increase coverage on auth module
