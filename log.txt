@@ -3129,3 +3129,4 @@
 0782. 📚 docs: improve code comments in utils
 0094. 📚 docs: document token refresh logic
 0965. 🎨 style: reformat files with black
+0346. ✅ test: mock database connection in test suite
