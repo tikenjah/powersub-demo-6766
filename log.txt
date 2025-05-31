@@ -3139,3 +3139,4 @@
 0308. 🚀 perf: reduce image load time
 0181. ♻️ chore: add GitHub actions badge
 0118. 🚀 perf: reduce image load time
+0582. ✨ feat: add export to CSV option
