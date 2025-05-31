@@ -5650,3 +5650,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0041. 🐛 fix: fix broken CSS in mobile view
 0429. ✨ feat: add user authentication
+0349. ✅ test: increase coverage on auth module
