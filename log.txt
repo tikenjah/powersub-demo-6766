@@ -3142,3 +3142,4 @@
 0582. ✨ feat: add export to CSV option
 0237. 🎨 style: standardize quote style
 0217. 🚀 perf: reduce image load time
+0543. ✨ feat: support email verification
