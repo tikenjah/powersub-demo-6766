@@ -7600,3 +7600,4 @@
 0060. ♻️ chore: clean up unused files
 0723. 🔧 refactor: remove redundant code blocks
 0843. 📚 docs: document token refresh logic
+0592. 📚 docs: add API usage examples
