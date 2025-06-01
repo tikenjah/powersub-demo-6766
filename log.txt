@@ -5656,3 +5656,4 @@
 0771. 🚀 perf: cache repeated calculations
 0466. 🚀 perf: optimize database query for quiz results
 0478. 🐛 fix: resolve issue with date parsing
+0647. 🐛 fix: prevent crash on empty input
