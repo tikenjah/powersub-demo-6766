@@ -3152,3 +3152,4 @@
 0204. 🎨 style: standardize quote style
 0642. 🚀 perf: optimize database query for quiz results
 0670. ✨ feat: add export to CSV option
+0100. ♻️ chore: update .gitignore
