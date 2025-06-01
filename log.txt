@@ -6634,3 +6634,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0678. ✨ feat: add user authentication
 0648. ♻️ chore: bump dependencies
+0053. ✅ test: increase coverage on auth module
