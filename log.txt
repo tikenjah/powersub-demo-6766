@@ -3154,3 +3154,4 @@
 0670. ✨ feat: add export to CSV option
 0100. ♻️ chore: update .gitignore
 0066. 🔧 refactor: clean up auth middleware
+0895. ✨ feat: support email verification
