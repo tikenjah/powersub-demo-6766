@@ -7603,3 +7603,4 @@
 0592. 📚 docs: add API usage examples
 0503. ♻️ chore: rename env.example
 0850. ♻️ chore: rename env.example
+0589. 🐛 fix: fix broken CSS in mobile view
