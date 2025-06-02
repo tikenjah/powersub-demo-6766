@@ -7606,3 +7606,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0695. ✨ feat: create admin dashboard
 0759. 🔧 refactor: organize models into subfolders
+0502. 📚 docs: update README with setup steps
