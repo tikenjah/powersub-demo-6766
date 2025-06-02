@@ -3158,3 +3158,4 @@
 0888. 🚀 perf: lazy-load components
 0702. ✨ feat: add user authentication
 0941. 🚀 perf: cache repeated calculations
+0772. 🐛 fix: fix null pointer exception on login
