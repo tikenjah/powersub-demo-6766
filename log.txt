@@ -6637,3 +6637,4 @@
 0053. ✅ test: increase coverage on auth module
 0493. ✨ feat: add user authentication
 0716. ✨ feat: implement quiz timer feature
+0051. ✨ feat: enable dark mode toggle
