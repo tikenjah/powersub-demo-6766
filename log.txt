@@ -7605,3 +7605,4 @@
 0850. ♻️ chore: rename env.example
 0589. 🐛 fix: fix broken CSS in mobile view
 0695. ✨ feat: create admin dashboard
+0759. 🔧 refactor: organize models into subfolders
