@@ -6638,3 +6638,4 @@
 0493. ✨ feat: add user authentication
 0716. ✨ feat: implement quiz timer feature
 0051. ✨ feat: enable dark mode toggle
+0819. 🚀 perf: reduce image load time
