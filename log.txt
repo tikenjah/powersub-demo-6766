@@ -10596,3 +10596,4 @@
 0262. 🎨 style: remove trailing whitespace
 0136. 🚀 perf: lazy-load components
 0782. 📚 docs: improve code comments in utils
+0433. 🐛 fix: prevent crash on empty input
