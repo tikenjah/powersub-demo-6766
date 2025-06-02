@@ -7608,3 +7608,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0502. 📚 docs: update README with setup steps
 0703. 🔧 refactor: clean up auth middleware
+0387. ✨ feat: enable dark mode toggle
