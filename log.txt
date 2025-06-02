@@ -10592,3 +10592,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0080. ✨ feat: support email verification
 0172. 📚 docs: add API usage examples
+0363. 📚 docs: clarify environment setup
