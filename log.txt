@@ -8675,3 +8675,4 @@
 0635. 🎨 style: apply consistent indentation
 0910. 🎨 style: remove trailing whitespace
 0699. 🎨 style: standardize quote style
+0690. 🚀 perf: lazy-load components
