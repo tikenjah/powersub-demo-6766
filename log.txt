@@ -3179,3 +3179,4 @@
 0232. 🎨 style: apply consistent indentation
 0287. 📚 docs: write FAQ section
 0716. ✨ feat: implement quiz timer feature
+0793. 📚 docs: clarify environment setup
