@@ -7611,3 +7611,4 @@
 0387. ✨ feat: enable dark mode toggle
 0880. 🐛 fix: fix broken CSS in mobile view
 0179. 🔧 refactor: split large controller into smaller functions
+0652. 🔧 refactor: organize models into subfolders
