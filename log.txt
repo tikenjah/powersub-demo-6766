@@ -3167,3 +3167,4 @@
 0476. 🚀 perf: reduce image load time
 0350. 🚀 perf: cache repeated calculations
 0516. ✅ test: add unit test for quiz service
+0120. ✅ test: add integration test for /submit endpoint
