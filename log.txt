@@ -6643,3 +6643,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0885. ♻️ chore: update .gitignore
 0644. 🎨 style: apply consistent indentation
+0441. 📚 docs: add API usage examples
