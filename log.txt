@@ -3181,3 +3181,4 @@
 0716. ✨ feat: implement quiz timer feature
 0793. 📚 docs: clarify environment setup
 0760. 🐛 fix: resolve issue with date parsing
+0241. 📚 docs: add API usage examples
