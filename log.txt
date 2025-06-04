@@ -7613,3 +7613,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0652. 🔧 refactor: organize models into subfolders
 0617. ✨ feat: support email verification
+0791. 🔧 refactor: clean up auth middleware
