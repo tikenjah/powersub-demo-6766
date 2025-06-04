@@ -3184,3 +3184,4 @@
 0241. 📚 docs: add API usage examples
 0424. ✨ feat: add user authentication
 0150. 🎨 style: remove trailing whitespace
+0205. 📚 docs: update README with setup steps
