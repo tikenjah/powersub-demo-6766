@@ -6644,3 +6644,4 @@
 0885. ♻️ chore: update .gitignore
 0644. 🎨 style: apply consistent indentation
 0441. 📚 docs: add API usage examples
+0593. 🐛 fix: correct typo in registration form
