@@ -7615,3 +7615,4 @@
 0617. ✨ feat: support email verification
 0791. 🔧 refactor: clean up auth middleware
 0552. 🐛 fix: fix null pointer exception on login
+0714. 📚 docs: improve code comments in utils
