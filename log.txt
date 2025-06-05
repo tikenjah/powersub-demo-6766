@@ -7614,3 +7614,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0617. ✨ feat: support email verification
 0791. 🔧 refactor: clean up auth middleware
+0552. 🐛 fix: fix null pointer exception on login
