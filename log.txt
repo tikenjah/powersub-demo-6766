@@ -3195,3 +3195,4 @@
 0582. ✨ feat: add export to CSV option
 0545. 🎨 style: standardize quote style
 0964. ♻️ chore: clean up unused files
+0994. 🚀 perf: reduce image load time
