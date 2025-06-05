@@ -8684,3 +8684,4 @@
 0953. 🎨 style: remove trailing whitespace
 0572. ✨ feat: add user authentication
 0925. ✨ feat: add export to CSV option
+0083. 🎨 style: reformat files with black
