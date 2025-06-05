@@ -5666,3 +5666,4 @@
 0997. ✅ test: increase coverage on auth module
 0314. ✨ feat: implement quiz timer feature
 0357. ✅ test: add unit test for quiz service
+0361. ✨ feat: support email verification
