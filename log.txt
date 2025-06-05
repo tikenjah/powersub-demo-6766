@@ -3200,3 +3200,4 @@
 0897. 🐛 fix: prevent crash on empty input
 0608. 🔧 refactor: remove redundant code blocks
 0353. ♻️ chore: rename env.example
+0616. 🚀 perf: lazy-load components
