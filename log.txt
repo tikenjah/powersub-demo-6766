@@ -7617,3 +7617,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0714. 📚 docs: improve code comments in utils
 0388. 🎨 style: reformat files with black
+0547. 📚 docs: write FAQ section
