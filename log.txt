@@ -3211,3 +3211,4 @@
 0543. ✨ feat: support email verification
 0046. 🎨 style: rename variables for clarity
 0534. 🔧 refactor: split large controller into smaller functions
+0456. 🚀 perf: optimize database query for quiz results
