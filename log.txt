@@ -6648,3 +6648,4 @@
 0048. 📚 docs: update README with setup steps
 0760. 🐛 fix: resolve issue with date parsing
 0410. 🎨 style: reformat files with black
+0471. ✨ feat: support email verification
