@@ -7619,3 +7619,4 @@
 0388. 🎨 style: reformat files with black
 0547. 📚 docs: write FAQ section
 0718. 🐛 fix: resolve issue with date parsing
+0843. 📚 docs: document token refresh logic
