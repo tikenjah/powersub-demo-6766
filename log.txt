@@ -3214,3 +3214,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0308. 🚀 perf: reduce image load time
 0600. 🐛 fix: prevent crash on empty input
+0829. 🔧 refactor: organize models into subfolders
