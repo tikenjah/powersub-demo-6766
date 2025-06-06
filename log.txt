@@ -6650,3 +6650,4 @@
 0410. 🎨 style: reformat files with black
 0471. ✨ feat: support email verification
 0579. 📚 docs: clarify environment setup
+0444. ✅ test: add unit test for quiz service
