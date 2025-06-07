@@ -3222,3 +3222,4 @@
 0088. 📚 docs: add API usage examples
 0927. ♻️ chore: bump dependencies
 0084. 🐛 fix: handle 500 error in quiz API
+0578. ✅ test: add integration test for /submit endpoint
