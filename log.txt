@@ -3226,3 +3226,4 @@
 0447. ♻️ chore: bump dependencies
 0145. 📚 docs: improve code comments in utils
 0891. ✨ feat: create admin dashboard
+0399. ✅ test: mock database connection in test suite
