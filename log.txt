@@ -9634,3 +9634,4 @@
 0569. 📚 docs: document token refresh logic
 0457. 🐛 fix: handle 500 error in quiz API
 0370. 🚀 perf: reduce image load time
+0451. ✨ feat: support email verification
