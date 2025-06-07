@@ -3233,3 +3233,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0189. 📚 docs: clarify environment setup
 0737. 🐛 fix: handle 500 error in quiz API
+0086. 🐛 fix: correct typo in registration form
