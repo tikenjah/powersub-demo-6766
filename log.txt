@@ -3217,3 +3217,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0411. ✅ test: add unit test for quiz service
 0458. ✨ feat: create admin dashboard
+0616. 🚀 perf: lazy-load components
