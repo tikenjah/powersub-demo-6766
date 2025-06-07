@@ -3221,3 +3221,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0088. 📚 docs: add API usage examples
 0927. ♻️ chore: bump dependencies
+0084. 🐛 fix: handle 500 error in quiz API
