@@ -3242,3 +3242,4 @@
 0868. ✅ test: add unit test for quiz service
 0731. 🎨 style: standardize quote style
 0109. 🚀 perf: lazy-load components
+0724. ✅ test: mock database connection in test suite
