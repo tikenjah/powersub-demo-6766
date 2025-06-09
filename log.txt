@@ -3258,3 +3258,4 @@
 0227. ✅ test: test user registration edge cases
 0974. ✨ feat: add export to CSV option
 0586. 🎨 style: remove trailing whitespace
+0680. ♻️ chore: add GitHub actions badge
