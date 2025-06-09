@@ -3259,3 +3259,4 @@
 0974. ✨ feat: add export to CSV option
 0586. 🎨 style: remove trailing whitespace
 0680. ♻️ chore: add GitHub actions badge
+0992. ♻️ chore: clean up unused files
