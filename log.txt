@@ -3257,3 +3257,4 @@
 0997. ✅ test: increase coverage on auth module
 0227. ✅ test: test user registration edge cases
 0974. ✨ feat: add export to CSV option
+0586. 🎨 style: remove trailing whitespace
