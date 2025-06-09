@@ -10612,3 +10612,4 @@
 0153. ♻️ chore: rename env.example
 0981. 🚀 perf: lazy-load components
 0785. ✨ feat: enable dark mode toggle
+0356. 📚 docs: write FAQ section
