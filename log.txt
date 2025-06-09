@@ -3256,3 +3256,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0997. ✅ test: increase coverage on auth module
 0227. ✅ test: test user registration edge cases
+0974. ✨ feat: add export to CSV option
