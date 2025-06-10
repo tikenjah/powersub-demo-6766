@@ -3274,3 +3274,4 @@
 0373. 📚 docs: document token refresh logic
 0540. ♻️ chore: add GitHub actions badge
 0442. 🎨 style: standardize quote style
+0254. 🚀 perf: reduce image load time
