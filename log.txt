@@ -3273,3 +3273,4 @@
 0852. ✨ feat: enable dark mode toggle
 0373. 📚 docs: document token refresh logic
 0540. ♻️ chore: add GitHub actions badge
+0442. 🎨 style: standardize quote style
