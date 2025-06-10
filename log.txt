@@ -3269,3 +3269,4 @@
 0055. 📚 docs: update README with setup steps
 0654. ✨ feat: create admin dashboard
 0362. 📚 docs: add API usage examples
+0249. ✅ test: increase coverage on auth module
