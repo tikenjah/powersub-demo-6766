@@ -3270,3 +3270,4 @@
 0654. ✨ feat: create admin dashboard
 0362. 📚 docs: add API usage examples
 0249. ✅ test: increase coverage on auth module
+0852. ✨ feat: enable dark mode toggle
