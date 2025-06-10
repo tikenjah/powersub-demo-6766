@@ -3268,3 +3268,4 @@
 0402. 🎨 style: reformat files with black
 0055. 📚 docs: update README with setup steps
 0654. ✨ feat: create admin dashboard
+0362. 📚 docs: add API usage examples
