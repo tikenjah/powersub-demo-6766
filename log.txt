@@ -3280,3 +3280,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0213. ✅ test: add integration test for /submit endpoint
 0870. ♻️ chore: clean up unused files
+0732. ♻️ chore: add GitHub actions badge
