@@ -7630,3 +7630,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0913. 🚀 perf: optimize database query for quiz results
 0576. ♻️ chore: update .gitignore
+0370. 🚀 perf: reduce image load time
