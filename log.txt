@@ -8700,3 +8700,4 @@
 0586. 🎨 style: remove trailing whitespace
 0987. ✨ feat: create admin dashboard
 0249. ✅ test: increase coverage on auth module
+0235. 🐛 fix: fix null pointer exception on login
