@@ -3287,3 +3287,4 @@
 0281. ✨ feat: support email verification
 0854. ♻️ chore: rename env.example
 0965. 🎨 style: reformat files with black
+0927. ♻️ chore: bump dependencies
