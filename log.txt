@@ -7634,3 +7634,4 @@
 0064. 📚 docs: clarify environment setup
 0308. 🚀 perf: reduce image load time
 0787. ♻️ chore: rename env.example
+0636. ✅ test: increase coverage on auth module
