@@ -10623,3 +10623,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0378. 🐛 fix: prevent crash on empty input
 0288. 🔧 refactor: refactor quiz grading logic
+0362. 📚 docs: add API usage examples
