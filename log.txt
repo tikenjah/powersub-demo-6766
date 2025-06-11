@@ -10625,3 +10625,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0362. 📚 docs: add API usage examples
 0250. 📚 docs: update README with setup steps
+0116. ✨ feat: support email verification
