@@ -3288,3 +3288,4 @@
 0854. ♻️ chore: rename env.example
 0965. 🎨 style: reformat files with black
 0927. ♻️ chore: bump dependencies
+0197. 📚 docs: update README with setup steps
