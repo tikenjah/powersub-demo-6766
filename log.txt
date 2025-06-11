@@ -10627,3 +10627,4 @@
 0250. 📚 docs: update README with setup steps
 0116. ✨ feat: support email verification
 0721. 🚀 perf: optimize database query for quiz results
+0427. ✅ test: mock database connection in test suite
