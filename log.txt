@@ -10631,3 +10631,4 @@
 0968. 🎨 style: standardize quote style
 0119. 📚 docs: improve code comments in utils
 0396. 🔧 refactor: split large controller into smaller functions
+0457. 🐛 fix: handle 500 error in quiz API
