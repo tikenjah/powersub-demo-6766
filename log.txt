@@ -7637,3 +7637,4 @@
 0636. ✅ test: increase coverage on auth module
 0481. ✅ test: add unit test for quiz service
 0192. ✨ feat: enable dark mode toggle
+0654. ✨ feat: create admin dashboard
