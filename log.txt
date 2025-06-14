@@ -5684,3 +5684,4 @@
 0461. ✨ feat: add user authentication
 0827. 🚀 perf: optimize database query for quiz results
 0278. 🔧 refactor: clean up auth middleware
+0382. 📚 docs: improve code comments in utils
