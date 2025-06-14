@@ -3321,3 +3321,4 @@
 0850. ♻️ chore: rename env.example
 0784. ♻️ chore: clean up unused files
 0778. 📚 docs: write FAQ section
+0726. ✨ feat: enable dark mode toggle
