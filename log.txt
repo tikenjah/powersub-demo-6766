@@ -8709,3 +8709,4 @@
 0135. ✅ test: test user registration edge cases
 0408. ♻️ chore: add GitHub actions badge
 0457. 🐛 fix: handle 500 error in quiz API
+0373. 📚 docs: document token refresh logic
