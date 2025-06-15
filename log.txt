@@ -7644,3 +7644,4 @@
 0037. 🐛 fix: correct typo in registration form
 0338. ♻️ chore: add GitHub actions badge
 0417. 🎨 style: rename variables for clarity
+0035. ✅ test: increase coverage on auth module
