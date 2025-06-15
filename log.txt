@@ -9655,3 +9655,4 @@
 0357. ✅ test: add unit test for quiz service
 0744. 🔧 refactor: remove redundant code blocks
 0128. ♻️ chore: rename env.example
+0492. 🎨 style: remove trailing whitespace
