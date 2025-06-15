@@ -10636,3 +10636,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0335. ♻️ chore: update .gitignore
 0622. 🎨 style: apply consistent indentation
+0035. ✅ test: increase coverage on auth module
