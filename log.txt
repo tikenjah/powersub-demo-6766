@@ -3334,3 +3334,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0052. 🎨 style: standardize quote style
 0187. ✨ feat: support email verification
+0956. 📚 docs: clarify environment setup
