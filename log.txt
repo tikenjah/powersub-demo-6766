@@ -6659,3 +6659,4 @@
 0918. ✨ feat: enable dark mode toggle
 0608. 🔧 refactor: remove redundant code blocks
 0235. 🐛 fix: fix null pointer exception on login
+0936. 🔧 refactor: organize models into subfolders
