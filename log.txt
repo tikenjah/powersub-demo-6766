@@ -8710,3 +8710,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0457. 🐛 fix: handle 500 error in quiz API
 0373. 📚 docs: document token refresh logic
+0051. ✨ feat: enable dark mode toggle
