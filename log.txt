@@ -3335,3 +3335,4 @@
 0052. 🎨 style: standardize quote style
 0187. ✨ feat: support email verification
 0956. 📚 docs: clarify environment setup
+0685. ✅ test: test user registration edge cases
