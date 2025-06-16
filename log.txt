@@ -8713,3 +8713,4 @@
 0051. ✨ feat: enable dark mode toggle
 0083. 🎨 style: reformat files with black
 0577. ✨ feat: implement quiz timer feature
+0792. 🎨 style: standardize quote style
