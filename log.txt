@@ -6662,3 +6662,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0146. 🎨 style: apply consistent indentation
 0820. 📚 docs: add API usage examples
+0293. ✅ test: add integration test for /submit endpoint
