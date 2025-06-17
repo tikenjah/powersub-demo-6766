@@ -9665,3 +9665,4 @@
 0905. ♻️ chore: bump dependencies
 0824. 🚀 perf: lazy-load components
 0739. 🎨 style: remove trailing whitespace
+0781. 🚀 perf: reduce image load time
