@@ -6666,3 +6666,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0561. 📚 docs: write FAQ section
 0001. 🚀 perf: cache repeated calculations
+0516. ✅ test: add unit test for quiz service
