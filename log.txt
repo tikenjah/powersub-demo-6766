@@ -6667,3 +6667,4 @@
 0561. 📚 docs: write FAQ section
 0001. 🚀 perf: cache repeated calculations
 0516. ✅ test: add unit test for quiz service
+0518. ✨ feat: support email verification
