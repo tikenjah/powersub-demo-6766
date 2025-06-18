@@ -7655,3 +7655,4 @@
 0435. ✅ test: add unit test for quiz service
 0847. ♻️ chore: clean up unused files
 0734. ✨ feat: add export to CSV option
+0429. ✨ feat: add user authentication
