@@ -8716,3 +8716,4 @@
 0792. 🎨 style: standardize quote style
 0170. ✅ test: increase coverage on auth module
 0397. 🐛 fix: handle 500 error in quiz API
+0338. ♻️ chore: add GitHub actions badge
