@@ -6669,3 +6669,4 @@
 0516. ✅ test: add unit test for quiz service
 0518. ✨ feat: support email verification
 0315. ✅ test: add integration test for /submit endpoint
+0902. ✨ feat: enable dark mode toggle
