@@ -3359,3 +3359,4 @@
 0884. 📚 docs: clarify environment setup
 0797. 📚 docs: add API usage examples
 0420. 🚀 perf: reduce image load time
+0538. 🐛 fix: fix broken CSS in mobile view
