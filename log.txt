@@ -5691,3 +5691,4 @@
 0561. 📚 docs: write FAQ section
 0442. 🎨 style: standardize quote style
 0859. ✨ feat: create admin dashboard
+0830. 🎨 style: apply consistent indentation
