@@ -3367,3 +3367,4 @@
 0238. 🎨 style: apply consistent indentation
 0058. ♻️ chore: add GitHub actions badge
 0077. ♻️ chore: rename env.example
+0419. 🎨 style: remove trailing whitespace
