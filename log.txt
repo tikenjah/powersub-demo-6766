@@ -3377,3 +3377,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0669. ✨ feat: enable dark mode toggle
 0453. 🎨 style: standardize quote style
+0008. 🚀 perf: reduce image load time
