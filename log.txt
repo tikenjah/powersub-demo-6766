@@ -3371,3 +3371,4 @@
 0161. ✨ feat: create admin dashboard
 0577. ✨ feat: implement quiz timer feature
 0305. ✨ feat: enable dark mode toggle
+0990. ♻️ chore: rename env.example
