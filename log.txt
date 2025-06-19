@@ -10648,3 +10648,4 @@
 0270. ♻️ chore: rename env.example
 0363. 📚 docs: clarify environment setup
 0327. 🔧 refactor: split large controller into smaller functions
+0599. ✅ test: test user registration edge cases
