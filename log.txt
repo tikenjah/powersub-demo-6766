@@ -9670,3 +9670,4 @@
 0892. ✅ test: add unit test for quiz service
 0239. 🎨 style: standardize quote style
 0632. 🎨 style: remove trailing whitespace
+0152. ✨ feat: add user authentication
