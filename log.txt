@@ -3373,3 +3373,4 @@
 0305. ✨ feat: enable dark mode toggle
 0990. ♻️ chore: rename env.example
 0227. ✅ test: test user registration edge cases
+0283. ♻️ chore: add GitHub actions badge
