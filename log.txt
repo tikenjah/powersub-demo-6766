@@ -6674,3 +6674,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0285. 🐛 fix: resolve issue with date parsing
 0896. 🚀 perf: reduce image load time
+0052. 🎨 style: standardize quote style
