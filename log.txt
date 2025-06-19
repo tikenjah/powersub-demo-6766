@@ -8720,3 +8720,4 @@
 0085. ✨ feat: support email verification
 0598. 🔧 refactor: remove redundant code blocks
 0789. ✨ feat: create admin dashboard
+0365. 🚀 perf: reduce image load time
