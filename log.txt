@@ -3387,3 +3387,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0598. 🔧 refactor: remove redundant code blocks
 0610. 🚀 perf: lazy-load components
+0432. 🎨 style: apply consistent indentation
