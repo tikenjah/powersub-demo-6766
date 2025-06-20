@@ -6677,3 +6677,4 @@
 0052. 🎨 style: standardize quote style
 0760. 🐛 fix: resolve issue with date parsing
 0728. 🔧 refactor: split large controller into smaller functions
+0816. 🔧 refactor: organize models into subfolders
