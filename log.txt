@@ -10654,3 +10654,4 @@
 0021. ✨ feat: support email verification
 0517. ✅ test: mock database connection in test suite
 0857. 🎨 style: rename variables for clarity
+0346. ✅ test: mock database connection in test suite
