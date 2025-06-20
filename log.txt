@@ -10652,3 +10652,4 @@
 0706. ✨ feat: support email verification
 0838. 🎨 style: standardize quote style
 0021. ✨ feat: support email verification
+0517. ✅ test: mock database connection in test suite
