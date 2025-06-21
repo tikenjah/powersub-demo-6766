@@ -3397,3 +3397,4 @@
 0946. ✅ test: add unit test for quiz service
 0006. 🐛 fix: prevent crash on empty input
 0022. 📚 docs: document token refresh logic
+0844. 📚 docs: update README with setup steps
