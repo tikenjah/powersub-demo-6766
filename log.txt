@@ -3395,3 +3395,4 @@
 0742. 📚 docs: clarify environment setup
 0624. ✅ test: add unit test for quiz service
 0946. ✅ test: add unit test for quiz service
+0006. 🐛 fix: prevent crash on empty input
