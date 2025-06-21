@@ -6682,3 +6682,4 @@
 0766. 🎨 style: reformat files with black
 0643. 🎨 style: apply consistent indentation
 0278. 🔧 refactor: clean up auth middleware
+0779. 🔧 refactor: organize models into subfolders
