@@ -3391,3 +3391,4 @@
 0982. 🚀 perf: lazy-load components
 0546. 🐛 fix: fix null pointer exception on login
 0790. 📚 docs: write FAQ section
+0162. ♻️ chore: add GitHub actions badge
