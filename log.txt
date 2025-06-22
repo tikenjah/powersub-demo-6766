@@ -6683,3 +6683,4 @@
 0643. 🎨 style: apply consistent indentation
 0278. 🔧 refactor: clean up auth middleware
 0779. 🔧 refactor: organize models into subfolders
+0895. ✨ feat: support email verification
