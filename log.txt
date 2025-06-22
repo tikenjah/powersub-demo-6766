@@ -6684,3 +6684,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0779. 🔧 refactor: organize models into subfolders
 0895. ✨ feat: support email verification
+0488. ♻️ chore: add GitHub actions badge
