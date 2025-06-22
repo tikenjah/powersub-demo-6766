@@ -3401,3 +3401,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0254. 🚀 perf: reduce image load time
 0751. 🐛 fix: handle 500 error in quiz API
+0649. 📚 docs: update README with setup steps
