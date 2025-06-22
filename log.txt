@@ -10660,3 +10660,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0403. ✅ test: mock database connection in test suite
 0916. ♻️ chore: bump dependencies
+0364. 🐛 fix: resolve issue with date parsing
