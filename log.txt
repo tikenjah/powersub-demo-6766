@@ -8728,3 +8728,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0209. ✨ feat: implement quiz timer feature
 0420. 🚀 perf: reduce image load time
+0690. 🚀 perf: lazy-load components
