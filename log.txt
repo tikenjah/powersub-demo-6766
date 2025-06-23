@@ -3423,3 +3423,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0611. ✅ test: test user registration edge cases
 0500. ✅ test: add integration test for /submit endpoint
+0081. 🐛 fix: fix null pointer exception on login
