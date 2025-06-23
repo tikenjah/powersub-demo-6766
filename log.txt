@@ -3409,3 +3409,4 @@
 0993. ✨ feat: implement quiz timer feature
 0589. 🐛 fix: fix broken CSS in mobile view
 0512. 🚀 perf: reduce image load time
+0403. ✅ test: mock database connection in test suite
