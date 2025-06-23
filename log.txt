@@ -3418,3 +3418,4 @@
 0226. 🚀 perf: lazy-load components
 0732. ♻️ chore: add GitHub actions badge
 0743. 🎨 style: apply consistent indentation
+0646. ✅ test: test user registration edge cases
