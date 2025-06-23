@@ -6686,3 +6686,4 @@
 0895. ✨ feat: support email verification
 0488. ♻️ chore: add GitHub actions badge
 0720. ✨ feat: add export to CSV option
+0990. ♻️ chore: rename env.example
