@@ -3436,3 +3436,4 @@
 0267. 📚 docs: improve code comments in utils
 0178. ✨ feat: support email verification
 0584. 🚀 perf: lazy-load components
+0323. 📚 docs: clarify environment setup
