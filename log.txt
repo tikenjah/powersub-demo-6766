@@ -10670,3 +10670,4 @@
 0320. 📚 docs: update README with setup steps
 0438. ♻️ chore: bump dependencies
 0688. 🚀 perf: reduce image load time
+0923. ✨ feat: support email verification
