@@ -3431,3 +3431,4 @@
 0903. ✅ test: mock database connection in test suite
 0636. ✅ test: increase coverage on auth module
 0967. ♻️ chore: add GitHub actions badge
+0389. 📚 docs: improve code comments in utils
