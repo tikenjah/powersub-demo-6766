@@ -3435,3 +3435,4 @@
 0595. ✨ feat: enable dark mode toggle
 0267. 📚 docs: improve code comments in utils
 0178. ✨ feat: support email verification
+0584. 🚀 perf: lazy-load components
