@@ -10667,3 +10667,4 @@
 0529. 📚 docs: write FAQ section
 0446. 🎨 style: apply consistent indentation
 0408. ♻️ chore: add GitHub actions badge
+0320. 📚 docs: update README with setup steps
