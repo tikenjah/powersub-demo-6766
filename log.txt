@@ -3432,3 +3432,4 @@
 0636. ✅ test: increase coverage on auth module
 0967. ♻️ chore: add GitHub actions badge
 0389. 📚 docs: improve code comments in utils
+0595. ✨ feat: enable dark mode toggle
