@@ -6689,3 +6689,4 @@
 0990. ♻️ chore: rename env.example
 0016. 🎨 style: apply consistent indentation
 0323. 📚 docs: clarify environment setup
+0647. 🐛 fix: prevent crash on empty input
