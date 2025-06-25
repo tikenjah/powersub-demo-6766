@@ -3448,3 +3448,4 @@
 0585. 🚀 perf: lazy-load components
 0923. ✨ feat: support email verification
 0949. 📚 docs: write FAQ section
+0564. 📚 docs: clarify environment setup
