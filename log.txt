@@ -3445,3 +3445,4 @@
 0725. 🚀 perf: lazy-load components
 0048. 📚 docs: update README with setup steps
 1000. ✅ test: increase coverage on auth module
+0585. 🚀 perf: lazy-load components
