@@ -3452,3 +3452,4 @@
 0407. 🚀 perf: cache repeated calculations
 0325. 🎨 style: rename variables for clarity
 0622. 🎨 style: apply consistent indentation
+0820. 📚 docs: add API usage examples
