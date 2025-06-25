@@ -3449,3 +3449,4 @@
 0923. ✨ feat: support email verification
 0949. 📚 docs: write FAQ section
 0564. 📚 docs: clarify environment setup
+0407. 🚀 perf: cache repeated calculations
