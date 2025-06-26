@@ -10677,3 +10677,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0702. ✨ feat: add user authentication
 0256. ✅ test: mock database connection in test suite
+0738. 🐛 fix: prevent crash on empty input
