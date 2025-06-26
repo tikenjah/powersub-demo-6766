@@ -10680,3 +10680,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0265. 🎨 style: reformat files with black
 0734. ✨ feat: add export to CSV option
+0104. 🎨 style: apply consistent indentation
