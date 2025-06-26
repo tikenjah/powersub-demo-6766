@@ -3461,3 +3461,4 @@
 0194. 🎨 style: standardize quote style
 0297. 🎨 style: remove trailing whitespace
 0199. ✨ feat: create admin dashboard
+0415. 🐛 fix: handle 500 error in quiz API
