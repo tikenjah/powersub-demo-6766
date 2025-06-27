@@ -3477,3 +3477,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0476. 🚀 perf: reduce image load time
 0908. ♻️ chore: bump dependencies
+0971. 🎨 style: standardize quote style
