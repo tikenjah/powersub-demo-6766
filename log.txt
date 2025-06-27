@@ -7680,3 +7680,4 @@
 0499. 🎨 style: reformat files with black
 0741. 🎨 style: apply consistent indentation
 0098. 🎨 style: rename variables for clarity
+0484. 🐛 fix: handle 500 error in quiz API
