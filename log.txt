@@ -3475,3 +3475,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0902. ✨ feat: enable dark mode toggle
 0400. 🐛 fix: fix null pointer exception on login
+0476. 🚀 perf: reduce image load time
