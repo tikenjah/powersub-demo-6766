@@ -5709,3 +5709,4 @@
 0501. ✨ feat: add export to CSV option
 0953. 🎨 style: remove trailing whitespace
 0410. 🎨 style: reformat files with black
+0565. ♻️ chore: add GitHub actions badge
