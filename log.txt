@@ -5712,3 +5712,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0211. 🔧 refactor: remove redundant code blocks
 0994. 🚀 perf: reduce image load time
+0860. 🔧 refactor: organize models into subfolders
