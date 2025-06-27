@@ -5711,3 +5711,4 @@
 0410. 🎨 style: reformat files with black
 0565. ♻️ chore: add GitHub actions badge
 0211. 🔧 refactor: remove redundant code blocks
+0994. 🚀 perf: reduce image load time
