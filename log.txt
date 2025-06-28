@@ -3487,3 +3487,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0807. 🔧 refactor: remove redundant code blocks
 0611. ✅ test: test user registration edge cases
+0528. ♻️ chore: clean up unused files
