@@ -9688,3 +9688,4 @@
 0115. 🚀 perf: reduce image load time
 0807. 🔧 refactor: remove redundant code blocks
 0682. ♻️ chore: rename env.example
+0083. 🎨 style: reformat files with black
