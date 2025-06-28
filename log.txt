@@ -6699,3 +6699,4 @@
 0078. ♻️ chore: update .gitignore
 0181. ♻️ chore: add GitHub actions badge
 0705. 🔧 refactor: refactor quiz grading logic
+0722. 📚 docs: add API usage examples
