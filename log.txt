@@ -8736,3 +8736,4 @@
 0462. ♻️ chore: update .gitignore
 0670. ✨ feat: add export to CSV option
 0418. ✅ test: mock database connection in test suite
+0245. 🐛 fix: resolve issue with date parsing
