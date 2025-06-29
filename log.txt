@@ -5714,3 +5714,4 @@
 0994. 🚀 perf: reduce image load time
 0860. 🔧 refactor: organize models into subfolders
 0411. ✅ test: add unit test for quiz service
+0330. ✅ test: test user registration edge cases
