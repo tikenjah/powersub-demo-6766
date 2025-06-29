@@ -3509,3 +3509,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0553. 🐛 fix: correct typo in registration form
 0016. 🎨 style: apply consistent indentation
+0998. 🐛 fix: fix null pointer exception on login
