@@ -7685,3 +7685,4 @@
 0196. ♻️ chore: bump dependencies
 0910. 🎨 style: remove trailing whitespace
 0633. ✨ feat: add user authentication
+0105. 🐛 fix: correct typo in registration form
