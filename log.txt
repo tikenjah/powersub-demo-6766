@@ -3500,3 +3500,4 @@
 0848. 📚 docs: update README with setup steps
 0358. 🚀 perf: reduce image load time
 0700. 🎨 style: rename variables for clarity
+0141. 📚 docs: document token refresh logic
