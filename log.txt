@@ -3522,3 +3522,4 @@
 0659. 📚 docs: add API usage examples
 0740. 🐛 fix: resolve issue with date parsing
 0784. ♻️ chore: clean up unused files
+0219. ✅ test: increase coverage on auth module
