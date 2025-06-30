@@ -8741,3 +8741,4 @@
 0346. ✅ test: mock database connection in test suite
 0208. 🔧 refactor: clean up auth middleware
 0404. 📚 docs: improve code comments in utils
+0990. ♻️ chore: rename env.example
