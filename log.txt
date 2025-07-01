@@ -3533,3 +3533,4 @@
 0195. 📚 docs: clarify environment setup
 0652. 🔧 refactor: organize models into subfolders
 0948. 🐛 fix: fix broken CSS in mobile view
+0121. ✨ feat: support email verification
