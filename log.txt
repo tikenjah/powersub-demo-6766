@@ -9704,3 +9704,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0331. 🐛 fix: fix broken CSS in mobile view
 0372. ✨ feat: add user authentication
+0051. ✨ feat: enable dark mode toggle
