@@ -3531,3 +3531,4 @@
 0847. ♻️ chore: clean up unused files
 0962. ✨ feat: create admin dashboard
 0195. 📚 docs: clarify environment setup
+0652. 🔧 refactor: organize models into subfolders
