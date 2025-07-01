@@ -3535,3 +3535,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0121. ✨ feat: support email verification
 0747. 🔧 refactor: clean up auth middleware
+0341. 🚀 perf: lazy-load components
