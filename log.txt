@@ -6708,3 +6708,4 @@
 0651. ✨ feat: enable dark mode toggle
 0344. ♻️ chore: add GitHub actions badge
 0130. 🔧 refactor: split large controller into smaller functions
+0080. ✨ feat: support email verification
