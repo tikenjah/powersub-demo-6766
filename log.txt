@@ -3550,3 +3550,4 @@
 0169. 📚 docs: add API usage examples
 0863. 🐛 fix: correct typo in registration form
 0222. 🐛 fix: handle 500 error in quiz API
+0508. ✅ test: add unit test for quiz service
