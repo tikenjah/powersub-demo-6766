@@ -7694,3 +7694,4 @@
 0172. 📚 docs: add API usage examples
 0937. 🐛 fix: handle 500 error in quiz API
 0753. 🔧 refactor: remove redundant code blocks
+0682. ♻️ chore: rename env.example
