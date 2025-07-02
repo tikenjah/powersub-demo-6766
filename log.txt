@@ -7691,3 +7691,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0290. ✅ test: test user registration edge cases
 0267. 📚 docs: improve code comments in utils
+0172. 📚 docs: add API usage examples
