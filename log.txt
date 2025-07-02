@@ -9705,3 +9705,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0372. ✨ feat: add user authentication
 0051. ✨ feat: enable dark mode toggle
+0958. 🐛 fix: prevent crash on empty input
