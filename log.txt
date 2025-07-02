@@ -10696,3 +10696,4 @@
 0749. ✨ feat: support email verification
 0781. 🚀 perf: reduce image load time
 0319. 🐛 fix: handle 500 error in quiz API
+0505. ♻️ chore: add GitHub actions badge
