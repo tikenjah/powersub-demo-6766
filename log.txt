@@ -5717,3 +5717,4 @@
 0330. ✅ test: test user registration edge cases
 0643. 🎨 style: apply consistent indentation
 0296. 🔧 refactor: organize models into subfolders
+0623. 🎨 style: standardize quote style
