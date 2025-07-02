@@ -7692,3 +7692,4 @@
 0290. ✅ test: test user registration edge cases
 0267. 📚 docs: improve code comments in utils
 0172. 📚 docs: add API usage examples
+0937. 🐛 fix: handle 500 error in quiz API
