@@ -3544,3 +3544,4 @@
 0781. 🚀 perf: reduce image load time
 0952. 🔧 refactor: split large controller into smaller functions
 0639. 🐛 fix: correct typo in registration form
+0078. ♻️ chore: update .gitignore
