@@ -5720,3 +5720,4 @@
 0623. 🎨 style: standardize quote style
 0065. ✅ test: add integration test for /submit endpoint
 0866. 📚 docs: add API usage examples
+0763. 🔧 refactor: organize models into subfolders
