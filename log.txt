@@ -10699,3 +10699,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0034. 📚 docs: improve code comments in utils
 0046. 🎨 style: rename variables for clarity
+0556. ✨ feat: support email verification
