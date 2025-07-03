@@ -9706,3 +9706,4 @@
 0372. ✨ feat: add user authentication
 0051. ✨ feat: enable dark mode toggle
 0958. 🐛 fix: prevent crash on empty input
+0775. 🐛 fix: fix null pointer exception on login
