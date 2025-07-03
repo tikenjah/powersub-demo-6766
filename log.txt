@@ -3563,3 +3563,4 @@
 0031. 📚 docs: document token refresh logic
 0026. 🔧 refactor: clean up auth middleware
 0970. ♻️ chore: update .gitignore
+0849. 🐛 fix: correct typo in registration form
