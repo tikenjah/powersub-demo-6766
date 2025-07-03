@@ -3561,3 +3561,4 @@
 0984. ♻️ chore: clean up unused files
 0634. 🎨 style: reformat files with black
 0031. 📚 docs: document token refresh logic
+0026. 🔧 refactor: clean up auth middleware
