@@ -3568,3 +3568,4 @@
 0373. 📚 docs: document token refresh logic
 0054. ♻️ chore: update .gitignore
 0960. ✅ test: increase coverage on auth module
+0817. 🔧 refactor: remove redundant code blocks
