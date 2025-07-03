@@ -6712,3 +6712,4 @@
 0029. 🚀 perf: lazy-load components
 0951. 🎨 style: rename variables for clarity
 0578. ✅ test: add integration test for /submit endpoint
+0531. 🐛 fix: prevent crash on empty input
