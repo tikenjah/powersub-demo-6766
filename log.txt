@@ -6714,3 +6714,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0531. 🐛 fix: prevent crash on empty input
 0875. ✅ test: increase coverage on auth module
+0392. 🎨 style: remove trailing whitespace
