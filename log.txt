@@ -8750,3 +8750,4 @@
 0156. 🎨 style: rename variables for clarity
 0294. 🐛 fix: prevent crash on empty input
 0676. 🐛 fix: prevent crash on empty input
+0178. ✨ feat: support email verification
