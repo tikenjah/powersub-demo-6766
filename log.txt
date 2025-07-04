@@ -8751,3 +8751,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0676. 🐛 fix: prevent crash on empty input
 0178. ✨ feat: support email verification
+0467. ✅ test: add integration test for /submit endpoint
