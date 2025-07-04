@@ -3589,3 +3589,4 @@
 0490. ✨ feat: create admin dashboard
 0700. 🎨 style: rename variables for clarity
 0267. 📚 docs: improve code comments in utils
+0542. 🔧 refactor: organize models into subfolders
