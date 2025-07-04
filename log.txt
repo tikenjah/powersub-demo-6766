@@ -3582,3 +3582,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0826. 📚 docs: clarify environment setup
 0093. ✅ test: add unit test for quiz service
+0192. ✨ feat: enable dark mode toggle
