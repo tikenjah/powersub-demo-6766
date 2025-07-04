@@ -7704,3 +7704,4 @@
 0768. 🎨 style: remove trailing whitespace
 0103. 🔧 refactor: remove redundant code blocks
 0105. 🐛 fix: correct typo in registration form
+0220. 🐛 fix: fix null pointer exception on login
