@@ -3580,3 +3580,4 @@
 0809. ♻️ chore: rename env.example
 0534. 🔧 refactor: split large controller into smaller functions
 0878. 🔧 refactor: split large controller into smaller functions
+0826. 📚 docs: clarify environment setup
