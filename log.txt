@@ -3583,3 +3583,4 @@
 0826. 📚 docs: clarify environment setup
 0093. ✅ test: add unit test for quiz service
 0192. ✨ feat: enable dark mode toggle
+0671. 🐛 fix: fix null pointer exception on login
