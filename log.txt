@@ -5723,3 +5723,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0991. ♻️ chore: clean up unused files
 0714. 📚 docs: improve code comments in utils
+0081. 🐛 fix: fix null pointer exception on login
