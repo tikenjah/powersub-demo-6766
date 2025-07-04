@@ -10702,3 +10702,4 @@
 0556. ✨ feat: support email verification
 0706. ✨ feat: support email verification
 0218. 🔧 refactor: clean up auth middleware
+0731. 🎨 style: standardize quote style
