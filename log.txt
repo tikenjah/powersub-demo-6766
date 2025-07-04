@@ -8748,3 +8748,4 @@
 0337. 📚 docs: document token refresh logic
 0601. ✨ feat: implement quiz timer feature
 0156. 🎨 style: rename variables for clarity
+0294. 🐛 fix: prevent crash on empty input
