@@ -10701,3 +10701,4 @@
 0046. 🎨 style: rename variables for clarity
 0556. ✨ feat: support email verification
 0706. ✨ feat: support email verification
+0218. 🔧 refactor: clean up auth middleware
