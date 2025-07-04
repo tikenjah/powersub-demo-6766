@@ -6716,3 +6716,4 @@
 0875. ✅ test: increase coverage on auth module
 0392. 🎨 style: remove trailing whitespace
 0082. 🔧 refactor: refactor quiz grading logic
+0489. 🔧 refactor: organize models into subfolders
