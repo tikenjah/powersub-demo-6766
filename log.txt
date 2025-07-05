@@ -3607,3 +3607,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0413. ✅ test: add integration test for /submit endpoint
 0083. 🎨 style: reformat files with black
+0945. ♻️ chore: add GitHub actions badge
