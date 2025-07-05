@@ -7707,3 +7707,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0551. 📚 docs: write FAQ section
 0187. ✨ feat: support email verification
+0636. ✅ test: increase coverage on auth module
