@@ -7708,3 +7708,4 @@
 0551. 📚 docs: write FAQ section
 0187. ✨ feat: support email verification
 0636. ✅ test: increase coverage on auth module
+0006. 🐛 fix: prevent crash on empty input
