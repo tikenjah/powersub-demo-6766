@@ -3591,3 +3591,4 @@
 0267. 📚 docs: improve code comments in utils
 0542. 🔧 refactor: organize models into subfolders
 0793. 📚 docs: clarify environment setup
+0696. 🔧 refactor: clean up auth middleware
