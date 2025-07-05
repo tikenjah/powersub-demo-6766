@@ -3599,3 +3599,4 @@
 0358. 🚀 perf: reduce image load time
 0062. ♻️ chore: update .gitignore
 0067. 🔧 refactor: remove redundant code blocks
+0379. ✨ feat: support email verification
