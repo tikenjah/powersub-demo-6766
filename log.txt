@@ -6725,3 +6725,4 @@
 0706. ✨ feat: support email verification
 0918. ✨ feat: enable dark mode toggle
 0567. 📚 docs: add API usage examples
+0676. 🐛 fix: prevent crash on empty input
