@@ -3614,3 +3614,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0041. 🐛 fix: fix broken CSS in mobile view
 0883. 📚 docs: improve code comments in utils
+0384. 📚 docs: clarify environment setup
