@@ -3619,3 +3619,4 @@
 0111. 📚 docs: update README with setup steps
 0908. ♻️ chore: bump dependencies
 0464. 🎨 style: remove trailing whitespace
+0995. ✅ test: mock database connection in test suite
