@@ -8756,3 +8756,4 @@
 0439. 🐛 fix: correct typo in registration form
 0528. ♻️ chore: clean up unused files
 0895. ✨ feat: support email verification
+0884. 📚 docs: clarify environment setup
