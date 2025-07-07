@@ -7709,3 +7709,4 @@
 0187. ✨ feat: support email verification
 0636. ✅ test: increase coverage on auth module
 0006. 🐛 fix: prevent crash on empty input
+0074. ♻️ chore: add GitHub actions badge
