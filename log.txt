@@ -10709,3 +10709,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0637. 🎨 style: apply consistent indentation
 0784. ♻️ chore: clean up unused files
+0988. 🐛 fix: fix broken CSS in mobile view
