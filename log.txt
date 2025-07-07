@@ -3633,3 +3633,4 @@
 0474. ✅ test: add unit test for quiz service
 0655. 🚀 perf: cache repeated calculations
 0708. ✅ test: add integration test for /submit endpoint
+0120. ✅ test: add integration test for /submit endpoint
