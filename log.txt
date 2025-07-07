@@ -3630,3 +3630,4 @@
 0536. ✨ feat: add user authentication
 0548. 📚 docs: write FAQ section
 0487. 🎨 style: reformat files with black
+0474. ✅ test: add unit test for quiz service
