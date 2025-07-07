@@ -7710,3 +7710,4 @@
 0636. ✅ test: increase coverage on auth module
 0006. 🐛 fix: prevent crash on empty input
 0074. ♻️ chore: add GitHub actions badge
+0197. 📚 docs: update README with setup steps
