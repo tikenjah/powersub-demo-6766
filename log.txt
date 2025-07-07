@@ -5734,3 +5734,4 @@
 0611. ✅ test: test user registration edge cases
 0433. 🐛 fix: prevent crash on empty input
 0869. ♻️ chore: bump dependencies
+0850. ♻️ chore: rename env.example
