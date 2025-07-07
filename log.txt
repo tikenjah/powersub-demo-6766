@@ -10708,3 +10708,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0328. 🐛 fix: resolve issue with date parsing
 0637. 🎨 style: apply consistent indentation
+0784. ♻️ chore: clean up unused files
