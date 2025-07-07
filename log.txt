@@ -3627,3 +3627,4 @@
 0673. 🐛 fix: correct typo in registration form
 0153. ♻️ chore: rename env.example
 0460. 📚 docs: write FAQ section
+0536. ✨ feat: add user authentication
