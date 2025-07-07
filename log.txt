@@ -8758,3 +8758,4 @@
 0895. ✨ feat: support email verification
 0884. 📚 docs: clarify environment setup
 0898. 🐛 fix: fix broken CSS in mobile view
+0554. 📚 docs: improve code comments in utils
