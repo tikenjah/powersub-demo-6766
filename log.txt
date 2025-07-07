@@ -6728,3 +6728,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0870. ♻️ chore: clean up unused files
 0605. ✨ feat: support email verification
+0585. 🚀 perf: lazy-load components
