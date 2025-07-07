@@ -10711,3 +10711,4 @@
 0784. ♻️ chore: clean up unused files
 0988. 🐛 fix: fix broken CSS in mobile view
 0169. 📚 docs: add API usage examples
+0393. 🚀 perf: lazy-load components
