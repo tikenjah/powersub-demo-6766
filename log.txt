@@ -7711,3 +7711,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0074. ♻️ chore: add GitHub actions badge
 0197. 📚 docs: update README with setup steps
+0218. 🔧 refactor: clean up auth middleware
