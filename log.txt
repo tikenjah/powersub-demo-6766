@@ -3652,3 +3652,4 @@
 0706. ✨ feat: support email verification
 0923. ✨ feat: support email verification
 0768. 🎨 style: remove trailing whitespace
+0367. 🐛 fix: fix null pointer exception on login
