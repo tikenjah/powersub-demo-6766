@@ -3648,3 +3648,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0255. 🔧 refactor: refactor quiz grading logic
 1000. ✅ test: increase coverage on auth module
+0912. 📚 docs: document token refresh logic
