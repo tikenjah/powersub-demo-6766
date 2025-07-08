@@ -10715,3 +10715,4 @@
 0912. 📚 docs: document token refresh logic
 0044. ✅ test: add unit test for quiz service
 0756. ✨ feat: support email verification
+0824. 🚀 perf: lazy-load components
