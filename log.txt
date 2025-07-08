@@ -3651,3 +3651,4 @@
 0912. 📚 docs: document token refresh logic
 0706. ✨ feat: support email verification
 0923. ✨ feat: support email verification
+0768. 🎨 style: remove trailing whitespace
