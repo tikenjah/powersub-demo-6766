@@ -7714,3 +7714,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0412. ✅ test: increase coverage on auth module
 0490. ✨ feat: create admin dashboard
+0866. 📚 docs: add API usage examples
