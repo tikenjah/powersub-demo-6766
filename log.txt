@@ -7716,3 +7716,4 @@
 0490. ✨ feat: create admin dashboard
 0866. 📚 docs: add API usage examples
 0379. ✨ feat: support email verification
+0960. ✅ test: increase coverage on auth module
