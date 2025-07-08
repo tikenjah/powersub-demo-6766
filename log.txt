@@ -3640,3 +3640,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0035. ✅ test: increase coverage on auth module
 0719. 🎨 style: apply consistent indentation
+0759. 🔧 refactor: organize models into subfolders
