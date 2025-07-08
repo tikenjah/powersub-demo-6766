@@ -9715,3 +9715,4 @@
 0925. ✨ feat: add export to CSV option
 0548. 📚 docs: write FAQ section
 0603. 🐛 fix: fix broken CSS in mobile view
+0797. 📚 docs: add API usage examples
