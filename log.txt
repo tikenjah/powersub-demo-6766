@@ -7720,3 +7720,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0686. 🎨 style: standardize quote style
 0344. ♻️ chore: add GitHub actions badge
+0275. 🎨 style: standardize quote style
