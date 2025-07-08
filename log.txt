@@ -8760,3 +8760,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0554. 📚 docs: improve code comments in utils
 0677. 📚 docs: add API usage examples
+0400. 🐛 fix: fix null pointer exception on login
