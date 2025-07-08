@@ -3649,3 +3649,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 1000. ✅ test: increase coverage on auth module
 0912. 📚 docs: document token refresh logic
+0706. ✨ feat: support email verification
