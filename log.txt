@@ -3638,3 +3638,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0775. 🐛 fix: fix null pointer exception on login
 0825. 🔧 refactor: split large controller into smaller functions
+0035. ✅ test: increase coverage on auth module
