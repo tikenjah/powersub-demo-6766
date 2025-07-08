@@ -6729,3 +6729,4 @@
 0870. ♻️ chore: clean up unused files
 0605. ✨ feat: support email verification
 0585. 🚀 perf: lazy-load components
+0131. 📚 docs: write FAQ section
