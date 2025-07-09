@@ -3656,3 +3656,4 @@
 0010. ✨ feat: add user authentication
 0484. 🐛 fix: handle 500 error in quiz API
 0335. ♻️ chore: update .gitignore
+0976. ✨ feat: implement quiz timer feature
