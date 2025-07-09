@@ -3654,3 +3654,4 @@
 0768. 🎨 style: remove trailing whitespace
 0367. 🐛 fix: fix null pointer exception on login
 0010. ✨ feat: add user authentication
+0484. 🐛 fix: handle 500 error in quiz API
