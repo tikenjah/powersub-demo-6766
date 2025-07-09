@@ -5736,3 +5736,4 @@
 0869. ♻️ chore: bump dependencies
 0850. ♻️ chore: rename env.example
 0640. ♻️ chore: bump dependencies
+0006. 🐛 fix: prevent crash on empty input
