@@ -3662,3 +3662,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0449. ✅ test: add unit test for quiz service
 0699. 🎨 style: standardize quote style
+0484. 🐛 fix: handle 500 error in quiz API
