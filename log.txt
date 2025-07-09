@@ -3667,3 +3667,4 @@
 0944. ✨ feat: add user authentication
 0173. 🚀 perf: cache repeated calculations
 0358. 🚀 perf: reduce image load time
+0929. ✨ feat: support email verification
