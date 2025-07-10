@@ -3687,3 +3687,4 @@
 0905. ♻️ chore: bump dependencies
 0949. 📚 docs: write FAQ section
 0904. ✨ feat: implement quiz timer feature
+0231. 🔧 refactor: clean up auth middleware
