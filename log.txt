@@ -6732,3 +6732,4 @@
 0131. 📚 docs: write FAQ section
 0506. 🐛 fix: handle 500 error in quiz API
 0422. 🔧 refactor: organize models into subfolders
+0888. 🚀 perf: lazy-load components
