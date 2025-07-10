@@ -10723,3 +10723,4 @@
 0412. ✅ test: increase coverage on auth module
 0908. ♻️ chore: bump dependencies
 0213. ✅ test: add integration test for /submit endpoint
+0777. 📚 docs: document token refresh logic
