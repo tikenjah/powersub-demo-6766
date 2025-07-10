@@ -10720,3 +10720,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0676. 🐛 fix: prevent crash on empty input
 0433. 🐛 fix: prevent crash on empty input
+0412. ✅ test: increase coverage on auth module
