@@ -5740,3 +5740,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0958. 🐛 fix: prevent crash on empty input
 0389. 📚 docs: improve code comments in utils
+0514. 🐛 fix: fix broken CSS in mobile view
