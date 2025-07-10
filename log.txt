@@ -3679,3 +3679,4 @@
 0138. 🎨 style: rename variables for clarity
 0707. 🎨 style: apply consistent indentation
 0674. 🔧 refactor: split large controller into smaller functions
+0789. ✨ feat: create admin dashboard
