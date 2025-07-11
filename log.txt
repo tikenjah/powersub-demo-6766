@@ -3696,3 +3696,4 @@
 0225. 🚀 perf: reduce image load time
 0415. 🐛 fix: handle 500 error in quiz API
 0504. 📚 docs: document token refresh logic
+1000. ✅ test: increase coverage on auth module
