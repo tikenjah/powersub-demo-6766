@@ -3691,3 +3691,4 @@
 0051. ✨ feat: enable dark mode toggle
 0348. ✅ test: test user registration edge cases
 0322. 🔧 refactor: split large controller into smaller functions
+0331. 🐛 fix: fix broken CSS in mobile view
