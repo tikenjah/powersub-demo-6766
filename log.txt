@@ -3688,3 +3688,4 @@
 0949. 📚 docs: write FAQ section
 0904. ✨ feat: implement quiz timer feature
 0231. 🔧 refactor: clean up auth middleware
+0051. ✨ feat: enable dark mode toggle
