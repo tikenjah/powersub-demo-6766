@@ -3693,3 +3693,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0331. 🐛 fix: fix broken CSS in mobile view
 0576. ♻️ chore: update .gitignore
+0225. 🚀 perf: reduce image load time
