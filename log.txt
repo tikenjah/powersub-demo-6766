@@ -3692,3 +3692,4 @@
 0348. ✅ test: test user registration edge cases
 0322. 🔧 refactor: split large controller into smaller functions
 0331. 🐛 fix: fix broken CSS in mobile view
+0576. ♻️ chore: update .gitignore
