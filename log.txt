@@ -3699,3 +3699,4 @@
 1000. ✅ test: increase coverage on auth module
 0166. 🚀 perf: cache repeated calculations
 0673. 🐛 fix: correct typo in registration form
+0400. 🐛 fix: fix null pointer exception on login
