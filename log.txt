@@ -10724,3 +10724,4 @@
 0908. ♻️ chore: bump dependencies
 0213. ✅ test: add integration test for /submit endpoint
 0777. 📚 docs: document token refresh logic
+0378. 🐛 fix: prevent crash on empty input
