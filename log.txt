@@ -3695,3 +3695,4 @@
 0576. ♻️ chore: update .gitignore
 0225. 🚀 perf: reduce image load time
 0415. 🐛 fix: handle 500 error in quiz API
+0504. 📚 docs: document token refresh logic
