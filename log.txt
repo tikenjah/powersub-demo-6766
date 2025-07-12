@@ -3710,3 +3710,4 @@
 0792. 🎨 style: standardize quote style
 0524. ♻️ chore: rename env.example
 0904. ✨ feat: implement quiz timer feature
+0947. 📚 docs: write FAQ section
