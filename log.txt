@@ -8774,3 +8774,4 @@
 0419. 🎨 style: remove trailing whitespace
 0697. ♻️ chore: bump dependencies
 0125. ✅ test: add integration test for /submit endpoint
+0762. 🚀 perf: lazy-load components
