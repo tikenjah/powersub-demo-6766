@@ -3708,3 +3708,4 @@
 0572. ✨ feat: add user authentication
 0595. ✨ feat: enable dark mode toggle
 0792. 🎨 style: standardize quote style
+0524. ♻️ chore: rename env.example
