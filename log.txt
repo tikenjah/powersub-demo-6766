@@ -6741,3 +6741,4 @@
 0394. 🚀 perf: lazy-load components
 0158. 📚 docs: clarify environment setup
 0545. 🎨 style: standardize quote style
+0754. 🐛 fix: handle 500 error in quiz API
