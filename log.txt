@@ -3713,3 +3713,4 @@
 0947. 📚 docs: write FAQ section
 0221. ✨ feat: add user authentication
 0741. 🎨 style: apply consistent indentation
+0437. 📚 docs: clarify environment setup
