@@ -3711,3 +3711,4 @@
 0524. ♻️ chore: rename env.example
 0904. ✨ feat: implement quiz timer feature
 0947. 📚 docs: write FAQ section
+0221. ✨ feat: add user authentication
