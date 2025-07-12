@@ -9724,3 +9724,4 @@
 0186. ✅ test: test user registration edge cases
 0897. 🐛 fix: prevent crash on empty input
 0009. ✨ feat: enable dark mode toggle
+0497. 🔧 refactor: refactor quiz grading logic
