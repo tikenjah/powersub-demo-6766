@@ -5748,3 +5748,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0143. ✨ feat: implement quiz timer feature
 0373. 📚 docs: document token refresh logic
+0824. 🚀 perf: lazy-load components
