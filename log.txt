@@ -10730,3 +10730,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0827. 🚀 perf: optimize database query for quiz results
 0007. 🎨 style: rename variables for clarity
+0600. 🐛 fix: prevent crash on empty input
