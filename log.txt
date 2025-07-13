@@ -3718,3 +3718,4 @@
 0406. ✨ feat: add export to CSV option
 0495. 🔧 refactor: remove redundant code blocks
 0382. 📚 docs: improve code comments in utils
+0032. 🎨 style: apply consistent indentation
