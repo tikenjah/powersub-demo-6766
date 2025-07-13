@@ -3723,3 +3723,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0984. ♻️ chore: clean up unused files
 0569. 📚 docs: document token refresh logic
+0338. ♻️ chore: add GitHub actions badge
