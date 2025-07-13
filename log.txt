@@ -3725,3 +3725,4 @@
 0569. 📚 docs: document token refresh logic
 0338. ♻️ chore: add GitHub actions badge
 0474. ✅ test: add unit test for quiz service
+0347. ♻️ chore: update .gitignore
