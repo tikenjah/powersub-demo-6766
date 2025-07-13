@@ -3726,3 +3726,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0474. ✅ test: add unit test for quiz service
 0347. ♻️ chore: update .gitignore
+0135. ✅ test: test user registration edge cases
