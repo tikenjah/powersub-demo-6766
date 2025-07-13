@@ -5751,3 +5751,4 @@
 0824. 🚀 perf: lazy-load components
 0606. 📚 docs: improve code comments in utils
 0474. ✅ test: add unit test for quiz service
+0136. 🚀 perf: lazy-load components
