@@ -9732,3 +9732,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0045. 🎨 style: apply consistent indentation
 0599. ✅ test: test user registration edge cases
+0175. 📚 docs: add API usage examples
