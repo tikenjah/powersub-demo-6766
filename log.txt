@@ -9731,3 +9731,4 @@
 0761. ✅ test: add unit test for quiz service
 0598. 🔧 refactor: remove redundant code blocks
 0045. 🎨 style: apply consistent indentation
+0599. ✅ test: test user registration edge cases
