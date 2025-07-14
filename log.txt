@@ -7731,3 +7731,4 @@
 0799. ♻️ chore: clean up unused files
 0391. 🐛 fix: fix null pointer exception on login
 0793. 📚 docs: clarify environment setup
+0997. ✅ test: increase coverage on auth module
