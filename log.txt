@@ -3745,3 +3745,4 @@
 0108. 🎨 style: remove trailing whitespace
 0658. 🎨 style: rename variables for clarity
 0753. 🔧 refactor: remove redundant code blocks
+0894. ✅ test: add integration test for /submit endpoint
