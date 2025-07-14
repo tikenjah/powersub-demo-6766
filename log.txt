@@ -3733,3 +3733,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0397. 🐛 fix: handle 500 error in quiz API
 0170. ✅ test: increase coverage on auth module
+0565. ♻️ chore: add GitHub actions badge
