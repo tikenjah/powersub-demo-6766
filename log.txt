@@ -7730,3 +7730,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0799. ♻️ chore: clean up unused files
 0391. 🐛 fix: fix null pointer exception on login
+0793. 📚 docs: clarify environment setup
