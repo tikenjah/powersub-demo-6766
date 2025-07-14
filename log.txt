@@ -3739,3 +3739,4 @@
 0502. 📚 docs: update README with setup steps
 0987. ✨ feat: create admin dashboard
 0704. 🚀 perf: cache repeated calculations
+0847. ♻️ chore: clean up unused files
