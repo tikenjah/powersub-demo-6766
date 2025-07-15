@@ -6751,3 +6751,4 @@
 0605. ✨ feat: support email verification
 0543. ✨ feat: support email verification
 0476. 🚀 perf: reduce image load time
+0204. 🎨 style: standardize quote style
