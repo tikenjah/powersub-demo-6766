@@ -3758,3 +3758,4 @@
 0845. 🚀 perf: cache repeated calculations
 0665. ♻️ chore: update .gitignore
 0619. ✨ feat: create admin dashboard
+0439. 🐛 fix: correct typo in registration form
