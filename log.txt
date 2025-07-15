@@ -3755,3 +3755,4 @@
 0501. ✨ feat: add export to CSV option
 0461. ✨ feat: add user authentication
 0316. 🐛 fix: fix broken CSS in mobile view
+0845. 🚀 perf: cache repeated calculations
