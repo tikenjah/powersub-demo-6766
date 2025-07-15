@@ -5757,3 +5757,4 @@
 0317. ✅ test: test user registration edge cases
 0353. ♻️ chore: rename env.example
 0832. 🔧 refactor: remove redundant code blocks
+0693. 📚 docs: add API usage examples
