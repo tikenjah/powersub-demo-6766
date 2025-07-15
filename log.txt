@@ -3751,3 +3751,4 @@
 0034. 📚 docs: improve code comments in utils
 0939. 📚 docs: update README with setup steps
 0565. ♻️ chore: add GitHub actions badge
+0659. 📚 docs: add API usage examples
