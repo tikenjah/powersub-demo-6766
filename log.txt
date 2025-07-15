@@ -8779,3 +8779,4 @@
 0888. 🚀 perf: lazy-load components
 0635. 🎨 style: apply consistent indentation
 0816. 🔧 refactor: organize models into subfolders
+0893. 🐛 fix: handle 500 error in quiz API
