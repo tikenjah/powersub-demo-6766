@@ -3749,3 +3749,4 @@
 0392. 🎨 style: remove trailing whitespace
 0618. ✨ feat: support email verification
 0034. 📚 docs: improve code comments in utils
+0939. 📚 docs: update README with setup steps
