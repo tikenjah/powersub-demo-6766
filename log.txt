@@ -6749,3 +6749,4 @@
 0961. 📚 docs: add API usage examples
 0306. 🎨 style: apply consistent indentation
 0605. ✨ feat: support email verification
+0543. ✨ feat: support email verification
