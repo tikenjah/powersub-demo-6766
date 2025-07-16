@@ -3760,3 +3760,4 @@
 0619. ✨ feat: create admin dashboard
 0439. 🐛 fix: correct typo in registration form
 0902. ✨ feat: enable dark mode toggle
+0422. 🔧 refactor: organize models into subfolders
