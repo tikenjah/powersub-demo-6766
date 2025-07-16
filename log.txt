@@ -3762,3 +3762,4 @@
 0902. ✨ feat: enable dark mode toggle
 0422. 🔧 refactor: organize models into subfolders
 0029. 🚀 perf: lazy-load components
+0529. 📚 docs: write FAQ section
