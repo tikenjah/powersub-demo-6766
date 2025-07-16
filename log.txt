@@ -3770,3 +3770,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0933. 📚 docs: clarify environment setup
 0350. 🚀 perf: cache repeated calculations
+0826. 📚 docs: clarify environment setup
