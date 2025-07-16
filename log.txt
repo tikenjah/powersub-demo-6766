@@ -10737,3 +10737,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0802. 🔧 refactor: remove redundant code blocks
 0064. 📚 docs: clarify environment setup
+0175. 📚 docs: add API usage examples
