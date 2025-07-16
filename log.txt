@@ -3764,3 +3764,4 @@
 0029. 🚀 perf: lazy-load components
 0529. 📚 docs: write FAQ section
 0601. ✨ feat: implement quiz timer feature
+0121. ✨ feat: support email verification
