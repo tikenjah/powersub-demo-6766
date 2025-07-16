@@ -3765,3 +3765,4 @@
 0529. 📚 docs: write FAQ section
 0601. ✨ feat: implement quiz timer feature
 0121. ✨ feat: support email verification
+0337. 📚 docs: document token refresh logic
