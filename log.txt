@@ -3771,3 +3771,4 @@
 0933. 📚 docs: clarify environment setup
 0350. 🚀 perf: cache repeated calculations
 0826. 📚 docs: clarify environment setup
+0546. 🐛 fix: fix null pointer exception on login
