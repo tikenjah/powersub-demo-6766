@@ -7744,3 +7744,4 @@
 0875. ✅ test: increase coverage on auth module
 0947. 📚 docs: write FAQ section
 0492. 🎨 style: remove trailing whitespace
+0909. 🔧 refactor: organize models into subfolders
