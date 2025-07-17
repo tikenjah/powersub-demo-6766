@@ -10740,3 +10740,4 @@
 0175. 📚 docs: add API usage examples
 0743. 🎨 style: apply consistent indentation
 0682. ♻️ chore: rename env.example
+0374. 🎨 style: standardize quote style
