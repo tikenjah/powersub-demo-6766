@@ -3781,3 +3781,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0310. 🔧 refactor: refactor quiz grading logic
 0469. 🚀 perf: lazy-load components
+0359. 🔧 refactor: clean up auth middleware
