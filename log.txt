@@ -9738,3 +9738,4 @@
 0899. 🚀 perf: cache repeated calculations
 0529. 📚 docs: write FAQ section
 0376. 🎨 style: apply consistent indentation
+0489. 🔧 refactor: organize models into subfolders
