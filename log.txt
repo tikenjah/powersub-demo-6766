@@ -6759,3 +6759,4 @@
 0300. ✨ feat: add export to CSV option
 0080. ✨ feat: support email verification
 0253. 📚 docs: update README with setup steps
+0962. ✨ feat: create admin dashboard
