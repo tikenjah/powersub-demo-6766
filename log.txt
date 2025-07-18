@@ -3788,3 +3788,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0458. ✨ feat: create admin dashboard
 0555. ✨ feat: create admin dashboard
+0485. 📚 docs: update README with setup steps
