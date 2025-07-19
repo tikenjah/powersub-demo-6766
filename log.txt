@@ -9743,3 +9743,4 @@
 0215. 🎨 style: reformat files with black
 0973. 🔧 refactor: organize models into subfolders
 0378. 🐛 fix: prevent crash on empty input
+0457. 🐛 fix: handle 500 error in quiz API
