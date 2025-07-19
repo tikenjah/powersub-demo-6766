@@ -3801,3 +3801,4 @@
 0177. 📚 docs: add API usage examples
 0968. 🎨 style: standardize quote style
 0097. 🐛 fix: handle 500 error in quiz API
+0268. 🐛 fix: prevent crash on empty input
