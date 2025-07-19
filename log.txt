@@ -6761,3 +6761,4 @@
 0253. 📚 docs: update README with setup steps
 0962. ✨ feat: create admin dashboard
 0415. 🐛 fix: handle 500 error in quiz API
+0124. 🎨 style: reformat files with black
