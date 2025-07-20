@@ -6764,3 +6764,4 @@
 0124. 🎨 style: reformat files with black
 0186. ✅ test: test user registration edge cases
 0969. ✨ feat: create admin dashboard
+0063. 🐛 fix: handle 500 error in quiz API
