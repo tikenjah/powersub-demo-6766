@@ -9746,3 +9746,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0563. 📚 docs: clarify environment setup
 0209. ✨ feat: implement quiz timer feature
+0893. 🐛 fix: handle 500 error in quiz API
