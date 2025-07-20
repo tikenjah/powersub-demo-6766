@@ -7753,3 +7753,4 @@
 0989. 📚 docs: write FAQ section
 0982. 🚀 perf: lazy-load components
 0701. 🔧 refactor: clean up auth middleware
+0099. 🚀 perf: reduce image load time
