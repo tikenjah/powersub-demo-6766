@@ -3821,3 +3821,4 @@
 0844. 📚 docs: update README with setup steps
 0284. ✨ feat: implement quiz timer feature
 0834. ✅ test: increase coverage on auth module
+0246. ✅ test: add integration test for /submit endpoint
