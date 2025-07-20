@@ -3811,3 +3811,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0835. 🐛 fix: prevent crash on empty input
 0809. ♻️ chore: rename env.example
+0437. 📚 docs: clarify environment setup
