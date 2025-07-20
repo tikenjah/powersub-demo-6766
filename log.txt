@@ -7752,3 +7752,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0989. 📚 docs: write FAQ section
 0982. 🚀 perf: lazy-load components
+0701. 🔧 refactor: clean up auth middleware
