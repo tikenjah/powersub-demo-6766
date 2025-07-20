@@ -3822,3 +3822,4 @@
 0284. ✨ feat: implement quiz timer feature
 0834. ✅ test: increase coverage on auth module
 0246. ✅ test: add integration test for /submit endpoint
+0401. 🚀 perf: reduce image load time
