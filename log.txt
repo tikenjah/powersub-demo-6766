@@ -3835,3 +3835,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0983. 🔧 refactor: split large controller into smaller functions
 0787. ♻️ chore: rename env.example
+0586. 🎨 style: remove trailing whitespace
