@@ -5770,3 +5770,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0572. ✨ feat: add user authentication
 0473. 📚 docs: write FAQ section
+0725. 🚀 perf: lazy-load components
