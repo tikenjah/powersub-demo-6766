@@ -6767,3 +6767,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0001. 🚀 perf: cache repeated calculations
 0830. 🎨 style: apply consistent indentation
+0934. ✨ feat: support email verification
