@@ -3838,3 +3838,4 @@
 0586. 🎨 style: remove trailing whitespace
 0191. 🔧 refactor: refactor quiz grading logic
 0080. ✨ feat: support email verification
+0345. 📚 docs: document token refresh logic
