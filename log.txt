@@ -3843,3 +3843,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0738. 🐛 fix: prevent crash on empty input
 0435. ✅ test: add unit test for quiz service
+0087. ✨ feat: add export to CSV option
