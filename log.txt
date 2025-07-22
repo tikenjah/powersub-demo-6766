@@ -3849,3 +3849,4 @@
 0773. 📚 docs: document token refresh logic
 0824. 🚀 perf: lazy-load components
 0580. ♻️ chore: bump dependencies
+0331. 🐛 fix: fix broken CSS in mobile view
