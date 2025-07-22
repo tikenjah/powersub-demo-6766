@@ -3850,3 +3850,4 @@
 0824. 🚀 perf: lazy-load components
 0580. ♻️ chore: bump dependencies
 0331. 🐛 fix: fix broken CSS in mobile view
+0507. 🔧 refactor: clean up auth middleware
