@@ -5772,3 +5772,4 @@
 0473. 📚 docs: write FAQ section
 0725. 🚀 perf: lazy-load components
 0899. 🚀 perf: cache repeated calculations
+0463. 🚀 perf: reduce image load time
