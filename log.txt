@@ -6770,3 +6770,4 @@
 0934. ✨ feat: support email verification
 0218. 🔧 refactor: clean up auth middleware
 0131. 📚 docs: write FAQ section
+0770. ♻️ chore: rename env.example
