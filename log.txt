@@ -3854,3 +3854,4 @@
 0210. 🎨 style: apply consistent indentation
 0750. 🎨 style: apply consistent indentation
 0903. ✅ test: mock database connection in test suite
+0336. ✨ feat: add export to CSV option
