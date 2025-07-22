@@ -6768,3 +6768,4 @@
 0001. 🚀 perf: cache repeated calculations
 0830. 🎨 style: apply consistent indentation
 0934. ✨ feat: support email verification
+0218. 🔧 refactor: clean up auth middleware
