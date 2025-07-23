@@ -3860,3 +3860,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0265. 🎨 style: reformat files with black
 0011. ✅ test: add unit test for quiz service
+0256. ✅ test: mock database connection in test suite
