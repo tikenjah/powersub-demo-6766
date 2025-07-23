@@ -3874,3 +3874,4 @@
 0872. 🎨 style: rename variables for clarity
 0374. 🎨 style: standardize quote style
 0658. 🎨 style: rename variables for clarity
+0040. 🔧 refactor: clean up auth middleware
