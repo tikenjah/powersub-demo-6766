@@ -10753,3 +10753,4 @@
 0969. ✨ feat: create admin dashboard
 0179. 🔧 refactor: split large controller into smaller functions
 0671. 🐛 fix: fix null pointer exception on login
+0231. 🔧 refactor: clean up auth middleware
