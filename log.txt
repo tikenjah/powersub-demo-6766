@@ -3857,3 +3857,4 @@
 0336. ✨ feat: add export to CSV option
 0089. 🔧 refactor: remove redundant code blocks
 0082. 🔧 refactor: refactor quiz grading logic
+0511. 🐛 fix: fix broken CSS in mobile view
