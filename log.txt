@@ -8803,3 +8803,4 @@
 0870. ♻️ chore: clean up unused files
 0730. ✅ test: test user registration edge cases
 0481. ✅ test: add unit test for quiz service
+0693. 📚 docs: add API usage examples
