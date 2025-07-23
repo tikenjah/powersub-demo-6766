@@ -3870,3 +3870,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0167. 🚀 perf: reduce image load time
 0197. 📚 docs: update README with setup steps
+0885. ♻️ chore: update .gitignore
