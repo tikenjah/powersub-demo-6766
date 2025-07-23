@@ -3865,3 +3865,4 @@
 0441. 📚 docs: add API usage examples
 0481. ✅ test: add unit test for quiz service
 0625. 🐛 fix: handle 500 error in quiz API
+0957. 🐛 fix: fix null pointer exception on login
