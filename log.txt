@@ -3878,3 +3878,4 @@
 0284. ✨ feat: implement quiz timer feature
 0769. ✨ feat: create admin dashboard
 0584. 🚀 perf: lazy-load components
+0147. ♻️ chore: bump dependencies
