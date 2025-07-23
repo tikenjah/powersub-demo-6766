@@ -3872,3 +3872,4 @@
 0197. 📚 docs: update README with setup steps
 0885. ♻️ chore: update .gitignore
 0872. 🎨 style: rename variables for clarity
+0374. 🎨 style: standardize quote style
