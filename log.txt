@@ -6776,3 +6776,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0950. 🎨 style: reformat files with black
 0357. ✅ test: add unit test for quiz service
+0666. 🐛 fix: fix broken CSS in mobile view
