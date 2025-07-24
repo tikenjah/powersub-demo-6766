@@ -9756,3 +9756,4 @@
 0528. ♻️ chore: clean up unused files
 0599. ✅ test: test user registration edge cases
 0544. 🔧 refactor: organize models into subfolders
+0080. ✨ feat: support email verification
