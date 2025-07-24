@@ -3889,3 +3889,4 @@
 0046. 🎨 style: rename variables for clarity
 0210. 🎨 style: apply consistent indentation
 0960. ✅ test: increase coverage on auth module
+0698. 🐛 fix: handle 500 error in quiz API
