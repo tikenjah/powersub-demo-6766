@@ -8808,3 +8808,4 @@
 0009. ✨ feat: enable dark mode toggle
 0167. 🚀 perf: reduce image load time
 0313. 🎨 style: apply consistent indentation
+0300. ✨ feat: add export to CSV option
