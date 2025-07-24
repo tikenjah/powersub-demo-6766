@@ -6774,3 +6774,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0693. 📚 docs: add API usage examples
 0856. 🐛 fix: fix null pointer exception on login
+0950. 🎨 style: reformat files with black
