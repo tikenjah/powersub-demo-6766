@@ -6779,3 +6779,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0814. 🔧 refactor: remove redundant code blocks
 0862. ♻️ chore: bump dependencies
+0996. ✅ test: test user registration edge cases
