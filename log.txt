@@ -3911,3 +3911,4 @@
 0551. 📚 docs: write FAQ section
 0192. ✨ feat: enable dark mode toggle
 0699. 🎨 style: standardize quote style
+0100. ♻️ chore: update .gitignore
