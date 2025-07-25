@@ -3901,3 +3901,4 @@
 0382. 📚 docs: improve code comments in utils
 0307. ✨ feat: support email verification
 0936. 🔧 refactor: organize models into subfolders
+0113. ✨ feat: add user authentication
