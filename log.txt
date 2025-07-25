@@ -3897,3 +3897,4 @@
 0722. 📚 docs: add API usage examples
 0703. 🔧 refactor: clean up auth middleware
 0189. 📚 docs: clarify environment setup
+0725. 🚀 perf: lazy-load components
