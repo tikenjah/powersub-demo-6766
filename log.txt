@@ -10757,3 +10757,4 @@
 0516. ✅ test: add unit test for quiz service
 0274. 🔧 refactor: refactor quiz grading logic
 0547. 📚 docs: write FAQ section
+0041. 🐛 fix: fix broken CSS in mobile view
