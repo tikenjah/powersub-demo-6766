@@ -9758,3 +9758,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0080. ✨ feat: support email verification
 0344. ♻️ chore: add GitHub actions badge
+0575. ✅ test: add unit test for quiz service
