@@ -3905,3 +3905,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0938. 🎨 style: rename variables for clarity
 0326. 🚀 perf: cache repeated calculations
+0940. 📚 docs: document token refresh logic
