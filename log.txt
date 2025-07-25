@@ -3896,3 +3896,4 @@
 0512. 🚀 perf: reduce image load time
 0722. 📚 docs: add API usage examples
 0703. 🔧 refactor: clean up auth middleware
+0189. 📚 docs: clarify environment setup
