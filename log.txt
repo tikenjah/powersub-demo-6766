@@ -3922,3 +3922,4 @@
 0194. 🎨 style: standardize quote style
 0160. ♻️ chore: bump dependencies
 0083. 🎨 style: reformat files with black
+0181. ♻️ chore: add GitHub actions badge
