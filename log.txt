@@ -6781,3 +6781,4 @@
 0862. ♻️ chore: bump dependencies
 0996. ✅ test: test user registration edge cases
 0837. 🚀 perf: cache repeated calculations
+0356. 📚 docs: write FAQ section
