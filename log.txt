@@ -10761,3 +10761,4 @@
 0034. 📚 docs: improve code comments in utils
 0877. 🚀 perf: optimize database query for quiz results
 0244. ✨ feat: add export to CSV option
+0029. 🚀 perf: lazy-load components
