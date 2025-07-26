@@ -10759,3 +10759,4 @@
 0547. 📚 docs: write FAQ section
 0041. 🐛 fix: fix broken CSS in mobile view
 0034. 📚 docs: improve code comments in utils
+0877. 🚀 perf: optimize database query for quiz results
