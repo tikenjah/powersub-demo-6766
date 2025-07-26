@@ -3923,3 +3923,4 @@
 0160. ♻️ chore: bump dependencies
 0083. 🎨 style: reformat files with black
 0181. ♻️ chore: add GitHub actions badge
+0208. 🔧 refactor: clean up auth middleware
