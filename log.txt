@@ -3918,3 +3918,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0344. ♻️ chore: add GitHub actions badge
 0662. ♻️ chore: clean up unused files
+0785. ✨ feat: enable dark mode toggle
