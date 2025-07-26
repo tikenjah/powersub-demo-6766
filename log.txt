@@ -7770,3 +7770,4 @@
 0846. ✨ feat: implement quiz timer feature
 0986. 📚 docs: document token refresh logic
 0939. 📚 docs: update README with setup steps
+0669. ✨ feat: enable dark mode toggle
