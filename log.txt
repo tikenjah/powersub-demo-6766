@@ -3930,3 +3930,4 @@
 0989. 📚 docs: write FAQ section
 0745. ✅ test: add unit test for quiz service
 0990. ♻️ chore: rename env.example
+0349. ✅ test: increase coverage on auth module
