@@ -9762,3 +9762,4 @@
 0667. ✨ feat: add export to CSV option
 0139. 📚 docs: document token refresh logic
 0188. 🎨 style: apply consistent indentation
+0358. 🚀 perf: reduce image load time
