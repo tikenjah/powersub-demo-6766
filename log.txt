@@ -3931,3 +3931,4 @@
 0745. ✅ test: add unit test for quiz service
 0990. ♻️ chore: rename env.example
 0349. ✅ test: increase coverage on auth module
+0871. ✅ test: add integration test for /submit endpoint
