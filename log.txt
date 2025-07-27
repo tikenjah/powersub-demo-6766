@@ -6782,3 +6782,4 @@
 0996. ✅ test: test user registration edge cases
 0837. 🚀 perf: cache repeated calculations
 0356. 📚 docs: write FAQ section
+0353. ♻️ chore: rename env.example
