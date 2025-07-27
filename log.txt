@@ -3926,3 +3926,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0700. 🎨 style: rename variables for clarity
 0852. ✨ feat: enable dark mode toggle
+0701. 🔧 refactor: clean up auth middleware
