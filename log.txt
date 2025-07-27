@@ -7773,3 +7773,4 @@
 0669. ✨ feat: enable dark mode toggle
 0867. 🔧 refactor: refactor quiz grading logic
 0667. ✨ feat: add export to CSV option
+0738. 🐛 fix: prevent crash on empty input
