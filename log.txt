@@ -10768,3 +10768,4 @@
 0649. 📚 docs: update README with setup steps
 0169. 📚 docs: add API usage examples
 0003. ✅ test: increase coverage on auth module
+0201. 🔧 refactor: clean up auth middleware
