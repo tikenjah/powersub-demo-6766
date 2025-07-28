@@ -3951,3 +3951,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0878. 🔧 refactor: split large controller into smaller functions
 0906. 📚 docs: add API usage examples
+0600. 🐛 fix: prevent crash on empty input
