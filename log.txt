@@ -3953,3 +3953,4 @@
 0906. 📚 docs: add API usage examples
 0600. 🐛 fix: prevent crash on empty input
 0241. 📚 docs: add API usage examples
+0855. 🎨 style: reformat files with black
