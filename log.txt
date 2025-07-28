@@ -5787,3 +5787,4 @@
 0292. 📚 docs: clarify environment setup
 0404. 📚 docs: improve code comments in utils
 0148. 🔧 refactor: organize models into subfolders
+0259. 🚀 perf: lazy-load components
