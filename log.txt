@@ -6786,3 +6786,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0035. ✅ test: increase coverage on auth module
 0555. ✨ feat: create admin dashboard
+0934. ✨ feat: support email verification
