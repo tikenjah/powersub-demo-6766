@@ -6787,3 +6787,4 @@
 0035. ✅ test: increase coverage on auth module
 0555. ✨ feat: create admin dashboard
 0934. ✨ feat: support email verification
+0673. 🐛 fix: correct typo in registration form
