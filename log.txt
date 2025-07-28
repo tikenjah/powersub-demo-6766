@@ -3939,3 +3939,4 @@
 0491. 🚀 perf: lazy-load components
 0649. 📚 docs: update README with setup steps
 0986. 📚 docs: document token refresh logic
+0896. 🚀 perf: reduce image load time
