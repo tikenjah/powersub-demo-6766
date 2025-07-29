@@ -3961,3 +3961,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0344. ♻️ chore: add GitHub actions badge
 0550. 🔧 refactor: split large controller into smaller functions
+0157. ✅ test: mock database connection in test suite
