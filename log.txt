@@ -3957,3 +3957,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0239. 🎨 style: standardize quote style
 0163. ✨ feat: implement quiz timer feature
+0387. ✨ feat: enable dark mode toggle
