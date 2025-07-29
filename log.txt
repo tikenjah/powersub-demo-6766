@@ -6790,3 +6790,4 @@
 0673. 🐛 fix: correct typo in registration form
 0578. ✅ test: add integration test for /submit endpoint
 0166. 🚀 perf: cache repeated calculations
+0865. ♻️ chore: add GitHub actions badge
