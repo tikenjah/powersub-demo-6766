@@ -3959,3 +3959,4 @@
 0163. ✨ feat: implement quiz timer feature
 0387. ✨ feat: enable dark mode toggle
 0898. 🐛 fix: fix broken CSS in mobile view
+0344. ♻️ chore: add GitHub actions badge
