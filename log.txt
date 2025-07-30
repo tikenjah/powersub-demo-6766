@@ -3970,3 +3970,4 @@
 0015. ✨ feat: implement quiz timer feature
 0547. 📚 docs: write FAQ section
 0953. 🎨 style: remove trailing whitespace
+0747. 🔧 refactor: clean up auth middleware
