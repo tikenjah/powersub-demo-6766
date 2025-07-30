@@ -9775,3 +9775,4 @@
 0016. 🎨 style: apply consistent indentation
 0876. ♻️ chore: rename env.example
 0317. ✅ test: test user registration edge cases
+0042. 📚 docs: document token refresh logic
