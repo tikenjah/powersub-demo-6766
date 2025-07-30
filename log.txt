@@ -9774,3 +9774,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0016. 🎨 style: apply consistent indentation
 0876. ♻️ chore: rename env.example
+0317. ✅ test: test user registration edge cases
