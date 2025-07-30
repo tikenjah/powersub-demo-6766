@@ -6793,3 +6793,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0938. 🎨 style: rename variables for clarity
 0454. ♻️ chore: bump dependencies
+0108. 🎨 style: remove trailing whitespace
