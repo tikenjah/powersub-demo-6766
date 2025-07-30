@@ -3969,3 +3969,4 @@
 0281. ✨ feat: support email verification
 0015. ✨ feat: implement quiz timer feature
 0547. 📚 docs: write FAQ section
+0953. 🎨 style: remove trailing whitespace
