@@ -5795,3 +5795,4 @@
 0684. 🚀 perf: reduce image load time
 0049. 🐛 fix: handle 500 error in quiz API
 0349. ✅ test: increase coverage on auth module
+0768. 🎨 style: remove trailing whitespace
