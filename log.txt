@@ -7783,3 +7783,4 @@
 0195. 📚 docs: clarify environment setup
 0381. ♻️ chore: clean up unused files
 0959. 🐛 fix: fix null pointer exception on login
+0504. 📚 docs: document token refresh logic
