@@ -3983,3 +3983,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0415. 🐛 fix: handle 500 error in quiz API
 0756. ✨ feat: support email verification
+0389. 📚 docs: improve code comments in utils
