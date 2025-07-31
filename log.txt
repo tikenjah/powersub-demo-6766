@@ -3982,3 +3982,4 @@
 0631. ✨ feat: create admin dashboard
 0068. 🐛 fix: fix null pointer exception on login
 0415. 🐛 fix: handle 500 error in quiz API
+0756. ✨ feat: support email verification
