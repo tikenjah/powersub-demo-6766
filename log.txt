@@ -7781,3 +7781,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0346. ✅ test: mock database connection in test suite
 0195. 📚 docs: clarify environment setup
+0381. ♻️ chore: clean up unused files
