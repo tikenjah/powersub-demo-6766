@@ -10776,3 +10776,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0863. 🐛 fix: correct typo in registration form
 0610. 🚀 perf: lazy-load components
+0871. ✅ test: add integration test for /submit endpoint
