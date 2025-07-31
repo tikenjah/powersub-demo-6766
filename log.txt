@@ -6795,3 +6795,4 @@
 0454. ♻️ chore: bump dependencies
 0108. 🎨 style: remove trailing whitespace
 0033. 🎨 style: apply consistent indentation
+0617. ✨ feat: support email verification
