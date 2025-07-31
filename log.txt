@@ -5799,3 +5799,4 @@
 0329. 📚 docs: update README with setup steps
 0211. 🔧 refactor: remove redundant code blocks
 0023. 📚 docs: clarify environment setup
+0921. 🐛 fix: correct typo in registration form
