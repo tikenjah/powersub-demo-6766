@@ -5803,3 +5803,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0854. ♻️ chore: rename env.example
 0395. 📚 docs: write FAQ section
+0803. ✅ test: mock database connection in test suite
