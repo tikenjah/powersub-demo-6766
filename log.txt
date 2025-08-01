@@ -9777,3 +9777,4 @@
 0317. ✅ test: test user registration edge cases
 0042. 📚 docs: document token refresh logic
 0985. 📚 docs: document token refresh logic
+0572. ✨ feat: add user authentication
