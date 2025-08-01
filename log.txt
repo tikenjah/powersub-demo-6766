@@ -3998,3 +3998,4 @@
 0688. 🚀 perf: reduce image load time
 0922. 📚 docs: write FAQ section
 0071. 🔧 refactor: refactor quiz grading logic
+0562. 🔧 refactor: clean up auth middleware
