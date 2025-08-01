@@ -8821,3 +8821,4 @@
 0212. 🎨 style: standardize quote style
 0198. 📚 docs: clarify environment setup
 0684. 🚀 perf: reduce image load time
+0824. 🚀 perf: lazy-load components
