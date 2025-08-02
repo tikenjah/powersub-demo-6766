@@ -4007,3 +4007,4 @@
 0778. 📚 docs: write FAQ section
 0454. ♻️ chore: bump dependencies
 0678. ✨ feat: add user authentication
+0713. 🐛 fix: handle 500 error in quiz API
