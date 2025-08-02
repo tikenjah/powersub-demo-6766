@@ -5804,3 +5804,4 @@
 0854. ♻️ chore: rename env.example
 0395. 📚 docs: write FAQ section
 0803. ✅ test: mock database connection in test suite
+0787. ♻️ chore: rename env.example
