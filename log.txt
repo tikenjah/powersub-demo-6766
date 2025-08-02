@@ -7787,3 +7787,4 @@
 0879. 🎨 style: standardize quote style
 0245. 🐛 fix: resolve issue with date parsing
 0717. 🔧 refactor: refactor quiz grading logic
+0690. 🚀 perf: lazy-load components
