@@ -3999,3 +3999,4 @@
 0922. 📚 docs: write FAQ section
 0071. 🔧 refactor: refactor quiz grading logic
 0562. 🔧 refactor: clean up auth middleware
+0597. 🚀 perf: cache repeated calculations
