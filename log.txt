@@ -9782,3 +9782,4 @@
 0174. 📚 docs: clarify environment setup
 0371. ✅ test: add integration test for /submit endpoint
 0121. ✨ feat: support email verification
+0733. 🐛 fix: fix null pointer exception on login
