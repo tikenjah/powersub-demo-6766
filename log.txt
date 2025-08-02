@@ -4004,3 +4004,4 @@
 0906. 📚 docs: add API usage examples
 0936. 🔧 refactor: organize models into subfolders
 0103. 🔧 refactor: remove redundant code blocks
+0778. 📚 docs: write FAQ section
