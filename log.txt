@@ -4001,3 +4001,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0597. 🚀 perf: cache repeated calculations
 0392. 🎨 style: remove trailing whitespace
+0906. 📚 docs: add API usage examples
