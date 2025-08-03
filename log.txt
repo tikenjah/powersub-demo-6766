@@ -5806,3 +5806,4 @@
 0803. ✅ test: mock database connection in test suite
 0787. ♻️ chore: rename env.example
 0096. 🐛 fix: prevent crash on empty input
+0748. 🚀 perf: optimize database query for quiz results
