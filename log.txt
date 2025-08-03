@@ -6807,3 +6807,4 @@
 0928. 🎨 style: apply consistent indentation
 0196. ♻️ chore: bump dependencies
 0966. 📚 docs: improve code comments in utils
+0330. ✅ test: test user registration edge cases
