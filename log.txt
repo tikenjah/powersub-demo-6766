@@ -7789,3 +7789,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0690. 🚀 perf: lazy-load components
 0735. ♻️ chore: add GitHub actions badge
+0371. ✅ test: add integration test for /submit endpoint
