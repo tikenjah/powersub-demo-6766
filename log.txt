@@ -7794,3 +7794,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0685. ✅ test: test user registration edge cases
 0445. 📚 docs: improve code comments in utils
+0979. 🎨 style: standardize quote style
