@@ -4027,3 +4027,4 @@
 0558. ✨ feat: enable dark mode toggle
 0005. ✅ test: add unit test for quiz service
 0171. 🐛 fix: fix broken CSS in mobile view
+0647. 🐛 fix: prevent crash on empty input
