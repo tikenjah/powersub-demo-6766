@@ -4040,3 +4040,4 @@
 0929. ✨ feat: support email verification
 0319. 🐛 fix: handle 500 error in quiz API
 0410. 🎨 style: reformat files with black
+0896. 🚀 perf: reduce image load time
