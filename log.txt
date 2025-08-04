@@ -4037,3 +4037,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0991. ♻️ chore: clean up unused files
 0503. ♻️ chore: rename env.example
+0929. ✨ feat: support email verification
