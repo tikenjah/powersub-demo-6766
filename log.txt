@@ -4044,3 +4044,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0532. 🔧 refactor: split large controller into smaller functions
 0434. 📚 docs: document token refresh logic
+0110. 🐛 fix: prevent crash on empty input
