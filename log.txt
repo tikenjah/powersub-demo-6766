@@ -4029,3 +4029,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0647. 🐛 fix: prevent crash on empty input
 0123. ✨ feat: implement quiz timer feature
+0448. 🐛 fix: correct typo in registration form
