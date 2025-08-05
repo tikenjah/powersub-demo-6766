@@ -6811,3 +6811,4 @@
 0215. 🎨 style: reformat files with black
 0746. ♻️ chore: add GitHub actions badge
 0923. ✨ feat: support email verification
+0926. 🔧 refactor: organize models into subfolders
