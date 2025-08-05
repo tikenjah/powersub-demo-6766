@@ -4046,3 +4046,4 @@
 0434. 📚 docs: document token refresh logic
 0110. 🐛 fix: prevent crash on empty input
 0254. 🚀 perf: reduce image load time
+0604. 📚 docs: add API usage examples
