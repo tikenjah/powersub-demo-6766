@@ -8831,3 +8831,4 @@
 0001. 🚀 perf: cache repeated calculations
 0130. 🔧 refactor: split large controller into smaller functions
 0805. ♻️ chore: add GitHub actions badge
+0906. 📚 docs: add API usage examples
