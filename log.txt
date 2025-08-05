@@ -4049,3 +4049,4 @@
 0604. 📚 docs: add API usage examples
 0957. 🐛 fix: fix null pointer exception on login
 0780. 📚 docs: add API usage examples
+0127. 🐛 fix: fix null pointer exception on login
