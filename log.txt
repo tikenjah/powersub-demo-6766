@@ -10785,3 +10785,4 @@
 0098. 🎨 style: rename variables for clarity
 0441. 📚 docs: add API usage examples
 0213. ✅ test: add integration test for /submit endpoint
+0189. 📚 docs: clarify environment setup
