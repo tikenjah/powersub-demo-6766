@@ -4068,3 +4068,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0178. ✨ feat: support email verification
 0549. ✨ feat: enable dark mode toggle
+0195. 📚 docs: clarify environment setup
