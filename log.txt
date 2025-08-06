@@ -7801,3 +7801,4 @@
 0086. 🐛 fix: correct typo in registration form
 0593. 🐛 fix: correct typo in registration form
 0935. 📚 docs: update README with setup steps
+0286. ✅ test: mock database connection in test suite
