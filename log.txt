@@ -4069,3 +4069,4 @@
 0178. ✨ feat: support email verification
 0549. ✨ feat: enable dark mode toggle
 0195. 📚 docs: clarify environment setup
+0037. 🐛 fix: correct typo in registration form
