@@ -4063,3 +4063,4 @@
 0597. 🚀 perf: cache repeated calculations
 0192. ✨ feat: enable dark mode toggle
 0378. 🐛 fix: prevent crash on empty input
+0544. 🔧 refactor: organize models into subfolders
