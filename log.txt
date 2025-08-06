@@ -9790,3 +9790,4 @@
 0830. 🎨 style: apply consistent indentation
 0396. 🔧 refactor: split large controller into smaller functions
 0409. 🚀 perf: lazy-load components
+0449. ✅ test: add unit test for quiz service
