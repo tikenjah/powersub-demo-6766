@@ -10790,3 +10790,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0027. 📚 docs: clarify environment setup
 0278. 🔧 refactor: clean up auth middleware
+0625. 🐛 fix: handle 500 error in quiz API
