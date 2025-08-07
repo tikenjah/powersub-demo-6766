@@ -5809,3 +5809,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0966. 📚 docs: improve code comments in utils
 0054. ♻️ chore: update .gitignore
+0611. ✅ test: test user registration edge cases
