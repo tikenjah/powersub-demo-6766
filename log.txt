@@ -4079,3 +4079,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0240. 🔧 refactor: remove redundant code blocks
 0895. ✨ feat: support email verification
+0372. ✨ feat: add user authentication
