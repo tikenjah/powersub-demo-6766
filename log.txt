@@ -4087,3 +4087,4 @@
 0267. 📚 docs: improve code comments in utils
 0232. 🎨 style: apply consistent indentation
 0594. 🎨 style: reformat files with black
+0331. 🐛 fix: fix broken CSS in mobile view
