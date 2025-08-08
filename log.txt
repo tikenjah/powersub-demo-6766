@@ -9797,3 +9797,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0600. 🐛 fix: prevent crash on empty input
 0866. 📚 docs: add API usage examples
+0458. ✨ feat: create admin dashboard
