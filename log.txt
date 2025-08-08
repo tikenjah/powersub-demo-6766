@@ -9796,3 +9796,4 @@
 0931. 🚀 perf: reduce image load time
 0613. 🐛 fix: prevent crash on empty input
 0600. 🐛 fix: prevent crash on empty input
+0866. 📚 docs: add API usage examples
