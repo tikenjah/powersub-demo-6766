@@ -4095,3 +4095,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0354. 📚 docs: add API usage examples
 0778. 📚 docs: write FAQ section
+0390. 🎨 style: standardize quote style
