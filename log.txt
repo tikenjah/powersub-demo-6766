@@ -9799,3 +9799,4 @@
 0866. 📚 docs: add API usage examples
 0458. ✨ feat: create admin dashboard
 0086. 🐛 fix: correct typo in registration form
+0127. 🐛 fix: fix null pointer exception on login
