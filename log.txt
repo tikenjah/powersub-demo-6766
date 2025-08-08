@@ -4092,3 +4092,4 @@
 0377. ✨ feat: add user authentication
 0204. 🎨 style: standardize quote style
 0234. ♻️ chore: rename env.example
+0477. 🐛 fix: fix broken CSS in mobile view
