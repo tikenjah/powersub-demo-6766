@@ -7808,3 +7808,4 @@
 0528. ♻️ chore: clean up unused files
 0101. 📚 docs: clarify environment setup
 0723. 🔧 refactor: remove redundant code blocks
+0018. 🔧 refactor: organize models into subfolders
