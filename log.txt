@@ -4105,3 +4105,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0105. 🐛 fix: correct typo in registration form
 0150. 🎨 style: remove trailing whitespace
+0966. 📚 docs: improve code comments in utils
