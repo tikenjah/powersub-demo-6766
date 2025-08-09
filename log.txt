@@ -4098,3 +4098,4 @@
 0390. 🎨 style: standardize quote style
 0769. ✨ feat: create admin dashboard
 0470. 🎨 style: remove trailing whitespace
+0353. ♻️ chore: rename env.example
