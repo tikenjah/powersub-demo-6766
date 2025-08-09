@@ -10796,3 +10796,4 @@
 0164. 📚 docs: document token refresh logic
 0453. 🎨 style: standardize quote style
 0869. ♻️ chore: bump dependencies
+0510. 🎨 style: rename variables for clarity
