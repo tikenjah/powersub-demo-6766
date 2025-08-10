@@ -7815,3 +7815,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0785. ✨ feat: enable dark mode toggle
 0499. 🎨 style: reformat files with black
+0782. 📚 docs: improve code comments in utils
