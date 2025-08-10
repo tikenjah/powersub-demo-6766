@@ -5816,3 +5816,4 @@
 0904. ✨ feat: implement quiz timer feature
 0302. ✨ feat: implement quiz timer feature
 0979. 🎨 style: standardize quote style
+0253. 📚 docs: update README with setup steps
