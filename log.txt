@@ -4130,3 +4130,4 @@
 0419. 🎨 style: remove trailing whitespace
 0805. ♻️ chore: add GitHub actions badge
 0469. 🚀 perf: lazy-load components
+0564. 📚 docs: clarify environment setup
