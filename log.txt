@@ -6831,3 +6831,4 @@
 0022. 📚 docs: document token refresh logic
 0382. 📚 docs: improve code comments in utils
 0294. 🐛 fix: prevent crash on empty input
+0488. ♻️ chore: add GitHub actions badge
