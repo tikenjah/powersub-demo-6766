@@ -4135,3 +4135,4 @@
 0941. 🚀 perf: cache repeated calculations
 0764. ✨ feat: add user authentication
 0697. ♻️ chore: bump dependencies
+0670. ✨ feat: add export to CSV option
