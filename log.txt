@@ -9809,3 +9809,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0367. 🐛 fix: fix null pointer exception on login
 0992. ♻️ chore: clean up unused files
+0102. ✨ feat: support email verification
