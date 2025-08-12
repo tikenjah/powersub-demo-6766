@@ -6834,3 +6834,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0340. 🚀 perf: optimize database query for quiz results
 0398. 🚀 perf: cache repeated calculations
+0721. 🚀 perf: optimize database query for quiz results
