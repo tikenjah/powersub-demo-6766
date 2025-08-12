@@ -4149,3 +4149,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0160. ♻️ chore: bump dependencies
 0360. ✨ feat: add export to CSV option
+0850. ♻️ chore: rename env.example
