@@ -5826,3 +5826,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0509. ♻️ chore: bump dependencies
 0102. ✨ feat: support email verification
+0426. ✅ test: add integration test for /submit endpoint
