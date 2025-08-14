@@ -8853,3 +8853,4 @@
 0086. 🐛 fix: correct typo in registration form
 0756. ✨ feat: support email verification
 0979. 🎨 style: standardize quote style
+0585. 🚀 perf: lazy-load components
