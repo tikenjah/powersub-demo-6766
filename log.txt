@@ -6838,3 +6838,4 @@
 0054. ♻️ chore: update .gitignore
 0354. 📚 docs: add API usage examples
 0294. 🐛 fix: prevent crash on empty input
+0749. ✨ feat: support email verification
