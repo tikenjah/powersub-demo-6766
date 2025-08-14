@@ -10817,3 +10817,4 @@
 0769. ✨ feat: create admin dashboard
 0889. 🚀 perf: lazy-load components
 0247. 🎨 style: apply consistent indentation
+0489. 🔧 refactor: organize models into subfolders
