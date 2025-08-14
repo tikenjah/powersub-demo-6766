@@ -5830,3 +5830,4 @@
 0657. 🎨 style: standardize quote style
 0782. 📚 docs: improve code comments in utils
 0427. ✅ test: mock database connection in test suite
+0551. 📚 docs: write FAQ section
