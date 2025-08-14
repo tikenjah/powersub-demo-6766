@@ -9814,3 +9814,4 @@
 0790. 📚 docs: write FAQ section
 0119. 📚 docs: improve code comments in utils
 0598. 🔧 refactor: remove redundant code blocks
+0053. ✅ test: increase coverage on auth module
