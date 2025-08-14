@@ -4175,3 +4175,4 @@
 0858. ♻️ chore: clean up unused files
 0409. 🚀 perf: lazy-load components
 0187. ✨ feat: support email verification
+0912. 📚 docs: document token refresh logic
