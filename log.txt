@@ -4181,3 +4181,4 @@
 0868. ✅ test: add unit test for quiz service
 0054. ♻️ chore: update .gitignore
 0804. ♻️ chore: add GitHub actions badge
+0030. 🐛 fix: fix null pointer exception on login
