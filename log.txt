@@ -4171,3 +4171,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0758. 🚀 perf: optimize database query for quiz results
 0390. 🎨 style: standardize quote style
+0711. 🐛 fix: fix broken CSS in mobile view
