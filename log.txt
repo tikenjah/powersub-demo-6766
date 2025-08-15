@@ -5832,3 +5832,4 @@
 0427. ✅ test: mock database connection in test suite
 0551. 📚 docs: write FAQ section
 0416. 🎨 style: rename variables for clarity
+0154. 🐛 fix: prevent crash on empty input
