@@ -9821,3 +9821,4 @@
 0335. ♻️ chore: update .gitignore
 0825. 🔧 refactor: split large controller into smaller functions
 0459. 🔧 refactor: organize models into subfolders
+0800. 🚀 perf: optimize database query for quiz results
