@@ -9817,3 +9817,4 @@
 0053. ✅ test: increase coverage on auth module
 0788. 📚 docs: add API usage examples
 0100. ♻️ chore: update .gitignore
+0627. 📚 docs: document token refresh logic
