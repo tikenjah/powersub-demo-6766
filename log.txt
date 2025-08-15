@@ -4185,3 +4185,4 @@
 0156. 🎨 style: rename variables for clarity
 0062. ♻️ chore: update .gitignore
 0594. 🎨 style: reformat files with black
+0085. ✨ feat: support email verification
