@@ -4191,3 +4191,4 @@
 0648. ♻️ chore: bump dependencies
 0759. 🔧 refactor: organize models into subfolders
 0506. 🐛 fix: handle 500 error in quiz API
+0096. 🐛 fix: prevent crash on empty input
