@@ -10821,3 +10821,4 @@
 0062. ♻️ chore: update .gitignore
 0783. 🐛 fix: handle 500 error in quiz API
 0456. 🚀 perf: optimize database query for quiz results
+0524. ♻️ chore: rename env.example
