@@ -6848,3 +6848,4 @@
 0931. 🚀 perf: reduce image load time
 0162. ♻️ chore: add GitHub actions badge
 0102. ✨ feat: support email verification
+0393. 🚀 perf: lazy-load components
