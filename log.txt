@@ -4203,3 +4203,4 @@
 0699. 🎨 style: standardize quote style
 0792. 🎨 style: standardize quote style
 0121. ✨ feat: support email verification
+0439. 🐛 fix: correct typo in registration form
