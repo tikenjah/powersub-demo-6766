@@ -4205,3 +4205,4 @@
 0121. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
 0896. 🚀 perf: reduce image load time
+0976. ✨ feat: implement quiz timer feature
