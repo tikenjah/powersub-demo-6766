@@ -4195,3 +4195,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0538. 🐛 fix: fix broken CSS in mobile view
 0027. 📚 docs: clarify environment setup
+0545. 🎨 style: standardize quote style
