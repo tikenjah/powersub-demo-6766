@@ -5835,3 +5835,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0240. 🔧 refactor: remove redundant code blocks
 0487. 🎨 style: reformat files with black
+0471. ✨ feat: support email verification
