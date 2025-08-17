@@ -4217,3 +4217,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0933. 📚 docs: clarify environment setup
 0413. ✅ test: add integration test for /submit endpoint
+0624. ✅ test: add unit test for quiz service
