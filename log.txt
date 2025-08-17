@@ -4223,3 +4223,4 @@
 0833. ✨ feat: add user authentication
 0464. 🎨 style: remove trailing whitespace
 0021. ✨ feat: support email verification
+0219. ✅ test: increase coverage on auth module
