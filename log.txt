@@ -4210,3 +4210,4 @@
 0990. ♻️ chore: rename env.example
 0375. 🐛 fix: handle 500 error in quiz API
 0362. 📚 docs: add API usage examples
+0050. ✨ feat: enable dark mode toggle
