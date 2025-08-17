@@ -6850,3 +6850,4 @@
 0102. ✨ feat: support email verification
 0393. 🚀 perf: lazy-load components
 0350. 🚀 perf: cache repeated calculations
+0273. 🚀 perf: reduce image load time
