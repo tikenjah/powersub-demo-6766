@@ -4220,3 +4220,4 @@
 0624. ✅ test: add unit test for quiz service
 0333. 🚀 perf: cache repeated calculations
 0563. 📚 docs: clarify environment setup
+0833. ✨ feat: add user authentication
