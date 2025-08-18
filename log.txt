@@ -4239,3 +4239,4 @@
 0682. ♻️ chore: rename env.example
 0429. ✨ feat: add user authentication
 0643. 🎨 style: apply consistent indentation
+0479. 🐛 fix: fix null pointer exception on login
