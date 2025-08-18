@@ -8860,3 +8860,4 @@
 0008. 🚀 perf: reduce image load time
 0688. 🚀 perf: reduce image load time
 0553. 🐛 fix: correct typo in registration form
+0517. ✅ test: mock database connection in test suite
