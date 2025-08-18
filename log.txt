@@ -6852,3 +6852,4 @@
 0350. 🚀 perf: cache repeated calculations
 0273. 🚀 perf: reduce image load time
 0585. 🚀 perf: lazy-load components
+0798. 🚀 perf: reduce image load time
