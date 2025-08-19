@@ -4241,3 +4241,4 @@
 0643. 🎨 style: apply consistent indentation
 0479. 🐛 fix: fix null pointer exception on login
 0179. 🔧 refactor: split large controller into smaller functions
+0856. 🐛 fix: fix null pointer exception on login
