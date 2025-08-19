@@ -4247,3 +4247,4 @@
 0923. ✨ feat: support email verification
 0122. ✨ feat: support email verification
 0117. ✅ test: increase coverage on auth module
+0050. ✨ feat: enable dark mode toggle
