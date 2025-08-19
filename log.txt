@@ -10829,3 +10829,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0491. 🚀 perf: lazy-load components
 0941. 🚀 perf: cache repeated calculations
+0990. ♻️ chore: rename env.example
