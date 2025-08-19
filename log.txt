@@ -4244,3 +4244,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0184. 📚 docs: improve code comments in utils
 0160. ♻️ chore: bump dependencies
+0923. ✨ feat: support email verification
