@@ -9833,3 +9833,4 @@
 0643. 🎨 style: apply consistent indentation
 0541. 🐛 fix: correct typo in registration form
 0746. ♻️ chore: add GitHub actions badge
+0781. 🚀 perf: reduce image load time
