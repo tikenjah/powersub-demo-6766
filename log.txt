@@ -4252,3 +4252,4 @@
 0381. ♻️ chore: clean up unused files
 0045. 🎨 style: apply consistent indentation
 0462. ♻️ chore: update .gitignore
+0539. 🔧 refactor: organize models into subfolders
