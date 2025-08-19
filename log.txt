@@ -4249,3 +4249,4 @@
 0117. ✅ test: increase coverage on auth module
 0050. ✨ feat: enable dark mode toggle
 0610. 🚀 perf: lazy-load components
+0381. ♻️ chore: clean up unused files
