@@ -4246,3 +4246,4 @@
 0160. ♻️ chore: bump dependencies
 0923. ✨ feat: support email verification
 0122. ✨ feat: support email verification
+0117. ✅ test: increase coverage on auth module
