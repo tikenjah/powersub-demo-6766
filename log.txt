@@ -10831,3 +10831,4 @@
 0941. 🚀 perf: cache repeated calculations
 0990. ♻️ chore: rename env.example
 0424. ✨ feat: add user authentication
+0237. 🎨 style: standardize quote style
