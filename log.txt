@@ -10839,3 +10839,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0519. 📚 docs: document token refresh logic
 0813. 🔧 refactor: organize models into subfolders
+0593. 🐛 fix: correct typo in registration form
