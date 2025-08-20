@@ -4262,3 +4262,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0459. 🔧 refactor: organize models into subfolders
 0210. 🎨 style: apply consistent indentation
+0227. ✅ test: test user registration edge cases
