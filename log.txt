@@ -10837,3 +10837,4 @@
 0597. 🚀 perf: cache repeated calculations
 0378. 🐛 fix: prevent crash on empty input
 0978. 🐛 fix: prevent crash on empty input
+0519. 📚 docs: document token refresh logic
