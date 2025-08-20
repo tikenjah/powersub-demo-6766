@@ -10838,3 +10838,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0978. 🐛 fix: prevent crash on empty input
 0519. 📚 docs: document token refresh logic
+0813. 🔧 refactor: organize models into subfolders
