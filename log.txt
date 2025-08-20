@@ -6855,3 +6855,4 @@
 0798. 🚀 perf: reduce image load time
 0376. 🎨 style: apply consistent indentation
 0005. ✅ test: add unit test for quiz service
+0279. ✨ feat: support email verification
