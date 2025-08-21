@@ -4278,3 +4278,4 @@
 0615. 🐛 fix: correct typo in registration form
 0677. 📚 docs: add API usage examples
 0452. ✨ feat: implement quiz timer feature
+0835. 🐛 fix: prevent crash on empty input
