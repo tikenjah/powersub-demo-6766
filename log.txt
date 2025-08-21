@@ -7843,3 +7843,4 @@
 0872. 🎨 style: rename variables for clarity
 0122. ✨ feat: support email verification
 0185. 📚 docs: write FAQ section
+0036. 🔧 refactor: clean up auth middleware
