@@ -4282,3 +4282,4 @@
 0405. ✅ test: mock database connection in test suite
 0301. 🎨 style: apply consistent indentation
 0760. 🐛 fix: resolve issue with date parsing
+0575. ✅ test: add unit test for quiz service
