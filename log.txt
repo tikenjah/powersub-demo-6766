@@ -6861,3 +6861,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0379. ✨ feat: support email verification
 0873. 🚀 perf: cache repeated calculations
+0977. 🔧 refactor: organize models into subfolders
