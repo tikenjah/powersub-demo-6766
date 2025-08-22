@@ -4289,3 +4289,4 @@
 0778. 📚 docs: write FAQ section
 0844. 📚 docs: update README with setup steps
 0681. ✨ feat: create admin dashboard
+0557. 🔧 refactor: clean up auth middleware
