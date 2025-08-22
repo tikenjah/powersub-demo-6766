@@ -8865,3 +8865,4 @@
 0969. ✨ feat: create admin dashboard
 0022. 📚 docs: document token refresh logic
 0569. 📚 docs: document token refresh logic
+0562. 🔧 refactor: clean up auth middleware
