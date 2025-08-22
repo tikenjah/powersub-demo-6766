@@ -4293,3 +4293,4 @@
 0356. 📚 docs: write FAQ section
 0503. ♻️ chore: rename env.example
 0994. 🚀 perf: reduce image load time
+0659. 📚 docs: add API usage examples
