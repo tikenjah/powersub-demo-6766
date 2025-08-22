@@ -7845,3 +7845,4 @@
 0185. 📚 docs: write FAQ section
 0036. 🔧 refactor: clean up auth middleware
 0903. ✅ test: mock database connection in test suite
+0909. 🔧 refactor: organize models into subfolders
