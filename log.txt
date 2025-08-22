@@ -6860,3 +6860,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0532. 🔧 refactor: split large controller into smaller functions
 0379. ✨ feat: support email verification
+0873. 🚀 perf: cache repeated calculations
