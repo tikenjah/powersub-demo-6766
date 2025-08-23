@@ -9850,3 +9850,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0362. 📚 docs: add API usage examples
 0506. 🐛 fix: handle 500 error in quiz API
+0543. ✨ feat: support email verification
