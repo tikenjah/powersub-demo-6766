@@ -4312,3 +4312,4 @@
 0410. 🎨 style: reformat files with black
 0483. 📚 docs: update README with setup steps
 0796. 🔧 refactor: refactor quiz grading logic
+0836. 🚀 perf: optimize database query for quiz results
