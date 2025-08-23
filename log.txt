@@ -6865,3 +6865,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0636. ✅ test: increase coverage on auth module
 0825. 🔧 refactor: split large controller into smaller functions
+0665. ♻️ chore: update .gitignore
