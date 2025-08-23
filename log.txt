@@ -6866,3 +6866,4 @@
 0636. ✅ test: increase coverage on auth module
 0825. 🔧 refactor: split large controller into smaller functions
 0665. ♻️ chore: update .gitignore
+0091. ✨ feat: add user authentication
