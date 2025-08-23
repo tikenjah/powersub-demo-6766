@@ -4305,3 +4305,4 @@
 0591. ♻️ chore: clean up unused files
 0042. 📚 docs: document token refresh logic
 0605. ✨ feat: support email verification
+0841. 🚀 perf: optimize database query for quiz results
