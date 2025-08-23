@@ -4304,3 +4304,4 @@
 0161. ✨ feat: create admin dashboard
 0591. ♻️ chore: clean up unused files
 0042. 📚 docs: document token refresh logic
+0605. ✨ feat: support email verification
