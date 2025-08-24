@@ -4318,3 +4318,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0958. 🐛 fix: prevent crash on empty input
 0641. 📚 docs: write FAQ section
+0828. ♻️ chore: add GitHub actions badge
