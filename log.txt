@@ -4320,3 +4320,4 @@
 0641. 📚 docs: write FAQ section
 0828. ♻️ chore: add GitHub actions badge
 0130. 🔧 refactor: split large controller into smaller functions
+0286. ✅ test: mock database connection in test suite
