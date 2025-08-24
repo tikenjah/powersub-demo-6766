@@ -4322,3 +4322,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0286. ✅ test: mock database connection in test suite
 0706. ✨ feat: support email verification
+0607. 🐛 fix: prevent crash on empty input
