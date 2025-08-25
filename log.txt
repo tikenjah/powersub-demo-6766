@@ -5861,3 +5861,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0700. 🎨 style: rename variables for clarity
 0613. 🐛 fix: prevent crash on empty input
+0770. ♻️ chore: rename env.example
