@@ -9857,3 +9857,4 @@
 0949. 📚 docs: write FAQ section
 0843. 📚 docs: document token refresh logic
 0742. 📚 docs: clarify environment setup
+0035. ✅ test: increase coverage on auth module
