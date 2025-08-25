@@ -4334,3 +4334,4 @@
 0784. ♻️ chore: clean up unused files
 0640. ♻️ chore: bump dependencies
 0730. ✅ test: test user registration edge cases
+0424. ✨ feat: add user authentication
