@@ -5864,3 +5864,4 @@
 0770. ♻️ chore: rename env.example
 0155. ✨ feat: create admin dashboard
 0798. 🚀 perf: reduce image load time
+0464. 🎨 style: remove trailing whitespace
