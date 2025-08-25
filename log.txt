@@ -5863,3 +5863,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0770. ♻️ chore: rename env.example
 0155. ✨ feat: create admin dashboard
+0798. 🚀 perf: reduce image load time
