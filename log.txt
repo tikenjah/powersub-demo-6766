@@ -4328,3 +4328,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0874. 🔧 refactor: split large controller into smaller functions
 0490. ✨ feat: create admin dashboard
+0574. ✨ feat: enable dark mode toggle
