@@ -8872,3 +8872,4 @@
 0773. 📚 docs: document token refresh logic
 0323. 📚 docs: clarify environment setup
 0439. 🐛 fix: correct typo in registration form
+0589. 🐛 fix: fix broken CSS in mobile view
