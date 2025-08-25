@@ -8875,3 +8875,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0534. 🔧 refactor: split large controller into smaller functions
 0441. 📚 docs: add API usage examples
+0186. ✅ test: test user registration edge cases
