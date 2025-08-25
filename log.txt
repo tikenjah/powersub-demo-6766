@@ -4333,3 +4333,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0784. ♻️ chore: clean up unused files
 0640. ♻️ chore: bump dependencies
+0730. ✅ test: test user registration edge cases
