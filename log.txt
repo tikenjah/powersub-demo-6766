@@ -9856,3 +9856,4 @@
 0858. ♻️ chore: clean up unused files
 0949. 📚 docs: write FAQ section
 0843. 📚 docs: document token refresh logic
+0742. 📚 docs: clarify environment setup
