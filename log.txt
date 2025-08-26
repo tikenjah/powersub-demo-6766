@@ -5866,3 +5866,4 @@
 0798. 🚀 perf: reduce image load time
 0464. 🎨 style: remove trailing whitespace
 0727. ♻️ chore: add GitHub actions badge
+0520. 🐛 fix: fix null pointer exception on login
