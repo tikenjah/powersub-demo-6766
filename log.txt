@@ -4345,3 +4345,4 @@
 0901. ✨ feat: add user authentication
 0792. 🎨 style: standardize quote style
 0333. 🚀 perf: cache repeated calculations
+0981. 🚀 perf: lazy-load components
