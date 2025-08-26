@@ -6870,3 +6870,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0551. 📚 docs: write FAQ section
 0179. 🔧 refactor: split large controller into smaller functions
+0892. ✅ test: add unit test for quiz service
