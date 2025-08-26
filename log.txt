@@ -4351,3 +4351,4 @@
 0468. 📚 docs: update README with setup steps
 0076. 🎨 style: reformat files with black
 0185. 📚 docs: write FAQ section
+0533. ♻️ chore: add GitHub actions badge
