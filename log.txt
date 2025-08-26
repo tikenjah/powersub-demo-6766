@@ -7862,3 +7862,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0133. 🐛 fix: fix null pointer exception on login
 0266. 🔧 refactor: remove redundant code blocks
+0718. 🐛 fix: resolve issue with date parsing
