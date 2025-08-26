@@ -5869,3 +5869,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0060. ♻️ chore: clean up unused files
 0583. ✅ test: increase coverage on auth module
+0084. 🐛 fix: handle 500 error in quiz API
