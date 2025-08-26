@@ -4337,3 +4337,4 @@
 0424. ✨ feat: add user authentication
 0934. ✨ feat: support email verification
 0682. ♻️ chore: rename env.example
+0146. 🎨 style: apply consistent indentation
