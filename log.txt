@@ -10862,3 +10862,4 @@
 0601. ✨ feat: implement quiz timer feature
 0965. 🎨 style: reformat files with black
 0373. 📚 docs: document token refresh logic
+0760. 🐛 fix: resolve issue with date parsing
