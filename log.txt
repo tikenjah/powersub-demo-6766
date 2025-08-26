@@ -4335,3 +4335,4 @@
 0640. ♻️ chore: bump dependencies
 0730. ✅ test: test user registration edge cases
 0424. ✨ feat: add user authentication
+0934. ✨ feat: support email verification
