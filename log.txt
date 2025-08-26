@@ -4346,3 +4346,4 @@
 0792. 🎨 style: standardize quote style
 0333. 🚀 perf: cache repeated calculations
 0981. 🚀 perf: lazy-load components
+0747. 🔧 refactor: clean up auth middleware
