@@ -4364,3 +4364,4 @@
 0341. 🚀 perf: lazy-load components
 0511. 🐛 fix: fix broken CSS in mobile view
 0947. 📚 docs: write FAQ section
+0382. 📚 docs: improve code comments in utils
