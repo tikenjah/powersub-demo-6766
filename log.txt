@@ -8880,3 +8880,4 @@
 0976. ✨ feat: implement quiz timer feature
 0825. 🔧 refactor: split large controller into smaller functions
 0546. 🐛 fix: fix null pointer exception on login
+0499. 🎨 style: reformat files with black
