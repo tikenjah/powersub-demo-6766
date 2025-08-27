@@ -4355,3 +4355,4 @@
 0356. 📚 docs: write FAQ section
 0213. ✅ test: add integration test for /submit endpoint
 0574. ✨ feat: enable dark mode toggle
+0843. 📚 docs: document token refresh logic
