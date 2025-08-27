@@ -4369,3 +4369,4 @@
 0526. ✨ feat: add user authentication
 0471. ✨ feat: support email verification
 0442. 🎨 style: standardize quote style
+0777. 📚 docs: document token refresh logic
