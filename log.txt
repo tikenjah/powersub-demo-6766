@@ -6874,3 +6874,4 @@
 0908. ♻️ chore: bump dependencies
 0321. 🔧 refactor: organize models into subfolders
 0674. 🔧 refactor: split large controller into smaller functions
+0929. ✨ feat: support email verification
