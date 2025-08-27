@@ -4359,3 +4359,4 @@
 0326. 🚀 perf: cache repeated calculations
 0976. ✨ feat: implement quiz timer feature
 0297. 🎨 style: remove trailing whitespace
+0871. ✅ test: add integration test for /submit endpoint
