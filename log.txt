@@ -8881,3 +8881,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0546. 🐛 fix: fix null pointer exception on login
 0499. 🎨 style: reformat files with black
+0339. 📚 docs: update README with setup steps
