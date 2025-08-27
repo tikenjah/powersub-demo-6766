@@ -5875,3 +5875,4 @@
 0394. 🚀 perf: lazy-load components
 0804. ♻️ chore: add GitHub actions badge
 0147. ♻️ chore: bump dependencies
+0503. ♻️ chore: rename env.example
