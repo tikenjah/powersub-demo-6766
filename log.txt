@@ -5872,3 +5872,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0718. 🐛 fix: resolve issue with date parsing
 0302. ✨ feat: implement quiz timer feature
+0394. 🚀 perf: lazy-load components
