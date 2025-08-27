@@ -9859,3 +9859,4 @@
 0742. 📚 docs: clarify environment setup
 0035. ✅ test: increase coverage on auth module
 0353. ♻️ chore: rename env.example
+0040. 🔧 refactor: clean up auth middleware
