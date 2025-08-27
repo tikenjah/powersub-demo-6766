@@ -8883,3 +8883,4 @@
 0499. 🎨 style: reformat files with black
 0339. 📚 docs: update README with setup steps
 0121. ✨ feat: support email verification
+0434. 📚 docs: document token refresh logic
