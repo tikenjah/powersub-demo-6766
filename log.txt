@@ -4360,3 +4360,4 @@
 0976. ✨ feat: implement quiz timer feature
 0297. 🎨 style: remove trailing whitespace
 0871. ✅ test: add integration test for /submit endpoint
+0669. ✨ feat: enable dark mode toggle
