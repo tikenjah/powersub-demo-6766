@@ -10866,3 +10866,4 @@
 0239. 🎨 style: standardize quote style
 0401. 🚀 perf: reduce image load time
 0670. ✨ feat: add export to CSV option
+0487. 🎨 style: reformat files with black
