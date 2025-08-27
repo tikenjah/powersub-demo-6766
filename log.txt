@@ -7866,3 +7866,4 @@
 0527. 🎨 style: remove trailing whitespace
 0746. ♻️ chore: add GitHub actions badge
 0340. 🚀 perf: optimize database query for quiz results
+0221. ✨ feat: add user authentication
