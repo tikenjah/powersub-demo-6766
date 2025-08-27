@@ -4370,3 +4370,4 @@
 0471. ✨ feat: support email verification
 0442. 🎨 style: standardize quote style
 0777. 📚 docs: document token refresh logic
+0585. 🚀 perf: lazy-load components
