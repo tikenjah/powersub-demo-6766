@@ -4385,3 +4385,4 @@
 0685. ✅ test: test user registration edge cases
 0975. 🎨 style: apply consistent indentation
 0930. 🎨 style: apply consistent indentation
+0386. 🚀 perf: optimize database query for quiz results
