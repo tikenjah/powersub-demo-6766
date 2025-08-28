@@ -4382,3 +4382,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0974. ✨ feat: add export to CSV option
 0989. 📚 docs: write FAQ section
+0685. ✅ test: test user registration edge cases
