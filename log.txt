@@ -4376,3 +4376,4 @@
 0941. 🚀 perf: cache repeated calculations
 0596. ♻️ chore: update .gitignore
 0368. 🚀 perf: lazy-load components
+0263. 📚 docs: add API usage examples
