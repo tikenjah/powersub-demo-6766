@@ -10870,3 +10870,4 @@
 0556. ✨ feat: support email verification
 0477. 🐛 fix: fix broken CSS in mobile view
 0191. 🔧 refactor: refactor quiz grading logic
+0344. ♻️ chore: add GitHub actions badge
