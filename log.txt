@@ -7876,3 +7876,4 @@
 0684. 🚀 perf: reduce image load time
 0915. 🚀 perf: cache repeated calculations
 0933. 📚 docs: clarify environment setup
+0738. 🐛 fix: prevent crash on empty input
