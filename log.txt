@@ -4380,3 +4380,4 @@
 0462. ♻️ chore: update .gitignore
 0262. 🎨 style: remove trailing whitespace
 0629. 🔧 refactor: organize models into subfolders
+0974. ✨ feat: add export to CSV option
