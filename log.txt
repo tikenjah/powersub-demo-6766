@@ -5877,3 +5877,4 @@
 0147. ♻️ chore: bump dependencies
 0503. ♻️ chore: rename env.example
 0238. 🎨 style: apply consistent indentation
+0457. 🐛 fix: handle 500 error in quiz API
