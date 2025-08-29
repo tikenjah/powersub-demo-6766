@@ -4405,3 +4405,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0149. ✨ feat: add export to CSV option
 0409. 🚀 perf: lazy-load components
+0248. 🐛 fix: handle 500 error in quiz API
