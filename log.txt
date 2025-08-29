@@ -4398,3 +4398,4 @@
 0947. 📚 docs: write FAQ section
 0622. 🎨 style: apply consistent indentation
 0693. 📚 docs: add API usage examples
+0023. 📚 docs: clarify environment setup
