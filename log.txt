@@ -9867,3 +9867,4 @@
 0682. ♻️ chore: rename env.example
 0277. 🎨 style: standardize quote style
 0604. 📚 docs: add API usage examples
+0507. 🔧 refactor: clean up auth middleware
