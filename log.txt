@@ -5879,3 +5879,4 @@
 0238. 🎨 style: apply consistent indentation
 0457. 🐛 fix: handle 500 error in quiz API
 0232. 🎨 style: apply consistent indentation
+0945. ♻️ chore: add GitHub actions badge
