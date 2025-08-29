@@ -4397,3 +4397,4 @@
 0862. ♻️ chore: bump dependencies
 0947. 📚 docs: write FAQ section
 0622. 🎨 style: apply consistent indentation
+0693. 📚 docs: add API usage examples
