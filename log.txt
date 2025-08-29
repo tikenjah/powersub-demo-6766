@@ -9868,3 +9868,4 @@
 0277. 🎨 style: standardize quote style
 0604. 📚 docs: add API usage examples
 0507. 🔧 refactor: clean up auth middleware
+0843. 📚 docs: document token refresh logic
