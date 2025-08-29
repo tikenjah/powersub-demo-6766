@@ -4404,3 +4404,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0073. 🔧 refactor: split large controller into smaller functions
 0149. ✨ feat: add export to CSV option
+0409. 🚀 perf: lazy-load components
