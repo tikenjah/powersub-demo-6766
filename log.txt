@@ -10871,3 +10871,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0191. 🔧 refactor: refactor quiz grading logic
 0344. ♻️ chore: add GitHub actions badge
+0758. 🚀 perf: optimize database query for quiz results
