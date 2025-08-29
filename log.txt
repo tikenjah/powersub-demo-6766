@@ -4393,3 +4393,4 @@
 0521. 🎨 style: standardize quote style
 0302. ✨ feat: implement quiz timer feature
 0183. 🔧 refactor: split large controller into smaller functions
+0823. ✨ feat: add user authentication
