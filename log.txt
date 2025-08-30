@@ -8890,3 +8890,4 @@
 0795. 📚 docs: update README with setup steps
 0621. 🔧 refactor: clean up auth middleware
 0302. ✨ feat: implement quiz timer feature
+0473. 📚 docs: write FAQ section
