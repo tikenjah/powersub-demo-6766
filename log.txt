@@ -4409,3 +4409,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0094. 📚 docs: document token refresh logic
 0073. 🔧 refactor: split large controller into smaller functions
+0954. 🚀 perf: cache repeated calculations
