@@ -10876,3 +10876,4 @@
 0320. 📚 docs: update README with setup steps
 0312. ✨ feat: add user authentication
 0705. 🔧 refactor: refactor quiz grading logic
+0201. 🔧 refactor: clean up auth middleware
