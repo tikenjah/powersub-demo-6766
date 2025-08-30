@@ -6882,3 +6882,4 @@
 0035. ✅ test: increase coverage on auth module
 0037. 🐛 fix: correct typo in registration form
 0466. 🚀 perf: optimize database query for quiz results
+0307. ✨ feat: support email verification
