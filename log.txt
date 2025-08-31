@@ -4421,3 +4421,4 @@
 0992. ♻️ chore: clean up unused files
 0429. ✨ feat: add user authentication
 0520. 🐛 fix: fix null pointer exception on login
+0838. 🎨 style: standardize quote style
