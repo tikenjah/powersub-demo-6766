@@ -9875,3 +9875,4 @@
 0379. ✨ feat: support email verification
 0483. 📚 docs: update README with setup steps
 0361. ✨ feat: support email verification
+0437. 📚 docs: clarify environment setup
