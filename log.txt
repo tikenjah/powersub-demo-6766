@@ -4424,3 +4424,4 @@
 0838. 🎨 style: standardize quote style
 0280. ✅ test: add integration test for /submit endpoint
 0222. 🐛 fix: handle 500 error in quiz API
+0613. 🐛 fix: prevent crash on empty input
