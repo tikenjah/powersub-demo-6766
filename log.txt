@@ -9872,3 +9872,4 @@
 0614. 🚀 perf: reduce image load time
 0016. 🎨 style: apply consistent indentation
 0539. 🔧 refactor: organize models into subfolders
+0379. ✨ feat: support email verification
