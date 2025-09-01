@@ -10881,3 +10881,4 @@
 0726. ✨ feat: enable dark mode toggle
 0649. 📚 docs: update README with setup steps
 0142. ✨ feat: implement quiz timer feature
+0797. 📚 docs: add API usage examples
