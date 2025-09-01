@@ -5885,3 +5885,4 @@
 0903. ✅ test: mock database connection in test suite
 0845. 🚀 perf: cache repeated calculations
 0748. 🚀 perf: optimize database query for quiz results
+0788. 📚 docs: add API usage examples
