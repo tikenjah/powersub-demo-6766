@@ -8893,3 +8893,4 @@
 0473. 📚 docs: write FAQ section
 0288. 🔧 refactor: refactor quiz grading logic
 0349. ✅ test: increase coverage on auth module
+0409. 🚀 perf: lazy-load components
