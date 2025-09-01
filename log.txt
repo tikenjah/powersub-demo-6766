@@ -7883,3 +7883,4 @@
 0198. 📚 docs: clarify environment setup
 0550. 🔧 refactor: split large controller into smaller functions
 0539. 🔧 refactor: organize models into subfolders
+0777. 📚 docs: document token refresh logic
