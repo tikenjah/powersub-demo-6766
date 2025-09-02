@@ -4458,3 +4458,4 @@
 0592. 📚 docs: add API usage examples
 0902. ✨ feat: enable dark mode toggle
 0277. 🎨 style: standardize quote style
+0977. 🔧 refactor: organize models into subfolders
