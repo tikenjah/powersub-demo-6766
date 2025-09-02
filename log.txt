@@ -4469,3 +4469,4 @@
 0124. 🎨 style: reformat files with black
 0715. ✨ feat: create admin dashboard
 0150. 🎨 style: remove trailing whitespace
+0701. 🔧 refactor: clean up auth middleware
