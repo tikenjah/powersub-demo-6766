@@ -8897,3 +8897,4 @@
 0730. ✅ test: test user registration edge cases
 0837. 🚀 perf: cache repeated calculations
 0673. 🐛 fix: correct typo in registration form
+0203. 🚀 perf: lazy-load components
