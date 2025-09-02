@@ -5887,3 +5887,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0788. 📚 docs: add API usage examples
 0819. 🚀 perf: reduce image load time
+0799. ♻️ chore: clean up unused files
