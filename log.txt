@@ -5889,3 +5889,4 @@
 0819. 🚀 perf: reduce image load time
 0799. ♻️ chore: clean up unused files
 0166. 🚀 perf: cache repeated calculations
+0393. 🚀 perf: lazy-load components
