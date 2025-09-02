@@ -10889,3 +10889,4 @@
 0644. 🎨 style: apply consistent indentation
 0338. ♻️ chore: add GitHub actions badge
 0727. ♻️ chore: add GitHub actions badge
+0487. 🎨 style: reformat files with black
