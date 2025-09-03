@@ -10892,3 +10892,4 @@
 0487. 🎨 style: reformat files with black
 0059. ♻️ chore: bump dependencies
 0565. ♻️ chore: add GitHub actions badge
+0049. 🐛 fix: handle 500 error in quiz API
