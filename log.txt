@@ -10893,3 +10893,4 @@
 0059. ♻️ chore: bump dependencies
 0565. ♻️ chore: add GitHub actions badge
 0049. 🐛 fix: handle 500 error in quiz API
+0485. 📚 docs: update README with setup steps
