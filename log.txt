@@ -5899,3 +5899,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0959. 🐛 fix: fix null pointer exception on login
 0796. 🔧 refactor: refactor quiz grading logic
+0236. 🔧 refactor: remove redundant code blocks
