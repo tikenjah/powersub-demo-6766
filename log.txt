@@ -8907,3 +8907,4 @@
 0482. ✨ feat: add export to CSV option
 0743. 🎨 style: apply consistent indentation
 0601. ✨ feat: implement quiz timer feature
+0450. 🐛 fix: fix broken CSS in mobile view
