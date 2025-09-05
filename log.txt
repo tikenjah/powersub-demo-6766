@@ -10902,3 +10902,4 @@
 0334. 🚀 perf: cache repeated calculations
 0642. 🚀 perf: optimize database query for quiz results
 0662. ♻️ chore: clean up unused files
+0548. 📚 docs: write FAQ section
