@@ -6900,3 +6900,4 @@
 0702. ✨ feat: add user authentication
 0421. 🔧 refactor: split large controller into smaller functions
 0508. ✅ test: add unit test for quiz service
+0594. 🎨 style: reformat files with black
