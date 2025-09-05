@@ -8911,3 +8911,4 @@
 0545. 🎨 style: standardize quote style
 0014. 🔧 refactor: remove redundant code blocks
 0351. ✨ feat: add export to CSV option
+0605. ✨ feat: support email verification
