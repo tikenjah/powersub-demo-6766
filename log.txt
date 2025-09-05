@@ -4497,3 +4497,4 @@
 0974. ✨ feat: add export to CSV option
 0657. 🎨 style: standardize quote style
 0690. 🚀 perf: lazy-load components
+0922. 📚 docs: write FAQ section
