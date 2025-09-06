@@ -4503,3 +4503,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0384. 📚 docs: clarify environment setup
 0412. ✅ test: increase coverage on auth module
+0567. 📚 docs: add API usage examples
