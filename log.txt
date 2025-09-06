@@ -4499,3 +4499,4 @@
 0690. 🚀 perf: lazy-load components
 0922. 📚 docs: write FAQ section
 0756. ✨ feat: support email verification
+0779. 🔧 refactor: organize models into subfolders
