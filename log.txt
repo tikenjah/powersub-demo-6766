@@ -5909,3 +5909,4 @@
 0388. 🎨 style: reformat files with black
 0394. 🚀 perf: lazy-load components
 0918. ✨ feat: enable dark mode toggle
+0480. ♻️ chore: add GitHub actions badge
