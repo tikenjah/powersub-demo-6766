@@ -4498,3 +4498,4 @@
 0657. 🎨 style: standardize quote style
 0690. 🚀 perf: lazy-load components
 0922. 📚 docs: write FAQ section
+0756. ✨ feat: support email verification
