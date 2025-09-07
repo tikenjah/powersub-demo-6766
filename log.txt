@@ -4516,3 +4516,4 @@
 0384. 📚 docs: clarify environment setup
 0750. 🎨 style: apply consistent indentation
 0992. ♻️ chore: clean up unused files
+0751. 🐛 fix: handle 500 error in quiz API
