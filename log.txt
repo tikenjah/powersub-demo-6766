@@ -6901,3 +6901,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0508. ✅ test: add unit test for quiz service
 0594. 🎨 style: reformat files with black
+0865. ♻️ chore: add GitHub actions badge
