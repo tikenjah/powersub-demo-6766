@@ -10908,3 +10908,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0455. ♻️ chore: clean up unused files
 0741. 🎨 style: apply consistent indentation
+0855. 🎨 style: reformat files with black
