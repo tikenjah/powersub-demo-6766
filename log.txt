@@ -5915,3 +5915,4 @@
 0326. 🚀 perf: cache repeated calculations
 0418. ✅ test: mock database connection in test suite
 0712. 🎨 style: apply consistent indentation
+0627. 📚 docs: document token refresh logic
