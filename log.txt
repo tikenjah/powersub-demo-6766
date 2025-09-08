@@ -4526,3 +4526,4 @@
 0667. ✨ feat: add export to CSV option
 0345. 📚 docs: document token refresh logic
 0054. ♻️ chore: update .gitignore
+0547. 📚 docs: write FAQ section
