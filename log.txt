@@ -4522,3 +4522,4 @@
 0311. 🎨 style: apply consistent indentation
 0443. 🎨 style: standardize quote style
 0014. 🔧 refactor: remove redundant code blocks
+0970. ♻️ chore: update .gitignore
