@@ -4520,3 +4520,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0539. 🔧 refactor: organize models into subfolders
 0311. 🎨 style: apply consistent indentation
+0443. 🎨 style: standardize quote style
