@@ -4517,3 +4517,4 @@
 0750. 🎨 style: apply consistent indentation
 0992. ♻️ chore: clean up unused files
 0751. 🐛 fix: handle 500 error in quiz API
+0224. 🐛 fix: fix broken CSS in mobile view
