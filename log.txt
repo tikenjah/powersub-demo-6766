@@ -7906,3 +7906,4 @@
 0526. ✨ feat: add user authentication
 0142. ✨ feat: implement quiz timer feature
 0233. 🚀 perf: lazy-load components
+0041. 🐛 fix: fix broken CSS in mobile view
