@@ -5920,3 +5920,4 @@
 0361. ✨ feat: support email verification
 0259. 🚀 perf: lazy-load components
 0226. 🚀 perf: lazy-load components
+0579. 📚 docs: clarify environment setup
