@@ -10911,3 +10911,4 @@
 0855. 🎨 style: reformat files with black
 0646. ✅ test: test user registration edge cases
 0093. ✅ test: add unit test for quiz service
+0830. 🎨 style: apply consistent indentation
