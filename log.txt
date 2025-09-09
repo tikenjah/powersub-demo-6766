@@ -5918,3 +5918,4 @@
 0627. 📚 docs: document token refresh logic
 0973. 🔧 refactor: organize models into subfolders
 0361. ✨ feat: support email verification
+0259. 🚀 perf: lazy-load components
