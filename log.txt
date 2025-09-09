@@ -5917,3 +5917,4 @@
 0712. 🎨 style: apply consistent indentation
 0627. 📚 docs: document token refresh logic
 0973. 🔧 refactor: organize models into subfolders
+0361. ✨ feat: support email verification
