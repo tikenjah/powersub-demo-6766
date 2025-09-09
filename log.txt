@@ -4528,3 +4528,4 @@
 0054. ♻️ chore: update .gitignore
 0547. 📚 docs: write FAQ section
 0447. ♻️ chore: bump dependencies
+0096. 🐛 fix: prevent crash on empty input
