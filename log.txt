@@ -4535,3 +4535,4 @@
 0577. ✨ feat: implement quiz timer feature
 0622. 🎨 style: apply consistent indentation
 0677. 📚 docs: add API usage examples
+0021. ✨ feat: support email verification
