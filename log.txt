@@ -4539,3 +4539,4 @@
 0317. ✅ test: test user registration edge cases
 0318. 🔧 refactor: refactor quiz grading logic
 0274. 🔧 refactor: refactor quiz grading logic
+0702. ✨ feat: add user authentication
