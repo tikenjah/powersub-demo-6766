@@ -4552,3 +4552,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0684. 🚀 perf: reduce image load time
 0694. 🎨 style: rename variables for clarity
+0305. ✨ feat: enable dark mode toggle
