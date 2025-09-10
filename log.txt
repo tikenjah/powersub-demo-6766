@@ -5925,3 +5925,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0145. 📚 docs: improve code comments in utils
 0223. 🔧 refactor: remove redundant code blocks
+0816. 🔧 refactor: organize models into subfolders
