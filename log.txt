@@ -4547,3 +4547,4 @@
 0997. ✅ test: increase coverage on auth module
 0060. ♻️ chore: clean up unused files
 0078. ♻️ chore: update .gitignore
+0244. ✨ feat: add export to CSV option
