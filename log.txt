@@ -4555,3 +4555,4 @@
 0305. ✨ feat: enable dark mode toggle
 0498. ✅ test: mock database connection in test suite
 0370. 🚀 perf: reduce image load time
+0114. ♻️ chore: update .gitignore
