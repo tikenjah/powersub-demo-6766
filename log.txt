@@ -10913,3 +10913,4 @@
 0093. ✅ test: add unit test for quiz service
 0830. 🎨 style: apply consistent indentation
 0709. ♻️ chore: bump dependencies
+0578. ✅ test: add integration test for /submit endpoint
