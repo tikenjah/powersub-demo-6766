@@ -6913,3 +6913,4 @@
 0549. ✨ feat: enable dark mode toggle
 0566. 📚 docs: write FAQ section
 0437. 📚 docs: clarify environment setup
+0409. 🚀 perf: lazy-load components
