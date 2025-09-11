@@ -7910,3 +7910,4 @@
 0755. 🚀 perf: cache repeated calculations
 0181. ♻️ chore: add GitHub actions badge
 0104. 🎨 style: apply consistent indentation
+0101. 📚 docs: clarify environment setup
