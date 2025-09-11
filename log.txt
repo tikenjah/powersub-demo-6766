@@ -6915,3 +6915,4 @@
 0437. 📚 docs: clarify environment setup
 0409. 🚀 perf: lazy-load components
 0965. 🎨 style: reformat files with black
+0759. 🔧 refactor: organize models into subfolders
