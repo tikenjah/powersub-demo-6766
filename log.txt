@@ -10915,3 +10915,4 @@
 0709. ♻️ chore: bump dependencies
 0578. ✅ test: add integration test for /submit endpoint
 0178. ✨ feat: support email verification
+0585. 🚀 perf: lazy-load components
