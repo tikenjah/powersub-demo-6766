@@ -4578,3 +4578,4 @@
 0630. 🚀 perf: lazy-load components
 0654. ✨ feat: create admin dashboard
 0834. ✅ test: increase coverage on auth module
+0085. ✨ feat: support email verification
