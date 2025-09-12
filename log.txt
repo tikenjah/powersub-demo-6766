@@ -7914,3 +7914,4 @@
 0435. ✅ test: add unit test for quiz service
 0747. 🔧 refactor: clean up auth middleware
 0507. 🔧 refactor: clean up auth middleware
+0711. 🐛 fix: fix broken CSS in mobile view
