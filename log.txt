@@ -10916,3 +10916,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0178. ✨ feat: support email verification
 0585. 🚀 perf: lazy-load components
+0380. 🐛 fix: fix null pointer exception on login
