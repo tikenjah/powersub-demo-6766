@@ -7913,3 +7913,4 @@
 0101. 📚 docs: clarify environment setup
 0435. ✅ test: add unit test for quiz service
 0747. 🔧 refactor: clean up auth middleware
+0507. 🔧 refactor: clean up auth middleware
