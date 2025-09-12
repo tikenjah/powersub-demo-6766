@@ -7916,3 +7916,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0711. 🐛 fix: fix broken CSS in mobile view
 0810. 🔧 refactor: refactor quiz grading logic
+0659. 📚 docs: add API usage examples
