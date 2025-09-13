@@ -6923,3 +6923,4 @@
 0886. ♻️ chore: clean up unused files
 0160. ♻️ chore: bump dependencies
 0144. ✅ test: increase coverage on auth module
+0019. ✨ feat: enable dark mode toggle
