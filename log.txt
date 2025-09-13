@@ -9910,3 +9910,4 @@
 0641. 📚 docs: write FAQ section
 0826. 📚 docs: clarify environment setup
 0693. 📚 docs: add API usage examples
+0077. ♻️ chore: rename env.example
