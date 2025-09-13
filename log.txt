@@ -4589,3 +4589,4 @@
 0448. 🐛 fix: correct typo in registration form
 0421. 🔧 refactor: split large controller into smaller functions
 0243. 🔧 refactor: clean up auth middleware
+0647. 🐛 fix: prevent crash on empty input
