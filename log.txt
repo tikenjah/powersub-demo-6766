@@ -5929,3 +5929,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0704. 🚀 perf: cache repeated calculations
 0501. ✨ feat: add export to CSV option
+0756. ✨ feat: support email verification
