@@ -9909,3 +9909,4 @@
 0739. 🎨 style: remove trailing whitespace
 0641. 📚 docs: write FAQ section
 0826. 📚 docs: clarify environment setup
+0693. 📚 docs: add API usage examples
