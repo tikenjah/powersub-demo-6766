@@ -4592,3 +4592,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0410. 🎨 style: reformat files with black
 0697. ♻️ chore: bump dependencies
+0615. 🐛 fix: correct typo in registration form
