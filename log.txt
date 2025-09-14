@@ -4611,3 +4611,4 @@
 0866. 📚 docs: add API usage examples
 0342. 🚀 perf: cache repeated calculations
 0886. ♻️ chore: clean up unused files
+0336. ✨ feat: add export to CSV option
