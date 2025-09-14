@@ -4613,3 +4613,4 @@
 0886. ♻️ chore: clean up unused files
 0336. ✨ feat: add export to CSV option
 0590. 🐛 fix: fix null pointer exception on login
+0597. 🚀 perf: cache repeated calculations
