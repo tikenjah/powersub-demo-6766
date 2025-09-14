@@ -4615,3 +4615,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0597. 🚀 perf: cache repeated calculations
 0398. 🚀 perf: cache repeated calculations
+0504. 📚 docs: document token refresh logic
