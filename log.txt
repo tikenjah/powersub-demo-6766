@@ -4608,3 +4608,4 @@
 0093. ✅ test: add unit test for quiz service
 0508. ✅ test: add unit test for quiz service
 1000. ✅ test: increase coverage on auth module
+0866. 📚 docs: add API usage examples
