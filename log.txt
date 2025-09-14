@@ -8932,3 +8932,4 @@
 0349. ✅ test: increase coverage on auth module
 0127. 🐛 fix: fix null pointer exception on login
 0108. 🎨 style: remove trailing whitespace
+0546. 🐛 fix: fix null pointer exception on login
