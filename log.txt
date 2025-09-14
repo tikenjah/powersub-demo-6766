@@ -4601,3 +4601,4 @@
 0009. ✨ feat: enable dark mode toggle
 0940. 📚 docs: document token refresh logic
 0830. 🎨 style: apply consistent indentation
+0439. 🐛 fix: correct typo in registration form
