@@ -9914,3 +9914,4 @@
 0939. 📚 docs: update README with setup steps
 0673. 🐛 fix: correct typo in registration form
 0478. 🐛 fix: resolve issue with date parsing
+0706. ✨ feat: support email verification
