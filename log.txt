@@ -8930,3 +8930,4 @@
 0888. 🚀 perf: lazy-load components
 0324. 📚 docs: document token refresh logic
 0349. ✅ test: increase coverage on auth module
+0127. 🐛 fix: fix null pointer exception on login
