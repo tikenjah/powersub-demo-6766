@@ -4607,3 +4607,4 @@
 0239. 🎨 style: standardize quote style
 0093. ✅ test: add unit test for quiz service
 0508. ✅ test: add unit test for quiz service
+1000. ✅ test: increase coverage on auth module
