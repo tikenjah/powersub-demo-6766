@@ -5937,3 +5937,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0856. 🐛 fix: fix null pointer exception on login
 0922. 📚 docs: write FAQ section
+0442. 🎨 style: standardize quote style
