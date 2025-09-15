@@ -4630,3 +4630,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0166. 🚀 perf: cache repeated calculations
 0776. ✅ test: add integration test for /submit endpoint
+0650. ✅ test: add unit test for quiz service
