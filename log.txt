@@ -6927,3 +6927,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0114. ♻️ chore: update .gitignore
 0112. ✨ feat: enable dark mode toggle
+0626. 🎨 style: standardize quote style
