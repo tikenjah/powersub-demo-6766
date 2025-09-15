@@ -5935,3 +5935,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0438. ♻️ chore: bump dependencies
 0587. 🔧 refactor: remove redundant code blocks
+0856. 🐛 fix: fix null pointer exception on login
