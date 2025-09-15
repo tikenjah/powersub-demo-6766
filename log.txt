@@ -7926,3 +7926,4 @@
 0112. ✨ feat: enable dark mode toggle
 0574. ✨ feat: enable dark mode toggle
 0062. ♻️ chore: update .gitignore
+0739. 🎨 style: remove trailing whitespace
