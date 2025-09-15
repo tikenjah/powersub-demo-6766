@@ -9917,3 +9917,4 @@
 0706. ✨ feat: support email verification
 0509. ♻️ chore: bump dependencies
 0622. 🎨 style: apply consistent indentation
+0041. 🐛 fix: fix broken CSS in mobile view
