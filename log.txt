@@ -10929,3 +10929,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0567. 📚 docs: add API usage examples
 0412. ✅ test: increase coverage on auth module
+0125. ✅ test: add integration test for /submit endpoint
