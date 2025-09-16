@@ -9919,3 +9919,4 @@
 0622. 🎨 style: apply consistent indentation
 0041. 🐛 fix: fix broken CSS in mobile view
 0294. 🐛 fix: prevent crash on empty input
+0898. 🐛 fix: fix broken CSS in mobile view
