@@ -8936,3 +8936,4 @@
 0618. ✨ feat: support email verification
 0227. ✅ test: test user registration edge cases
 0301. 🎨 style: apply consistent indentation
+0861. ♻️ chore: clean up unused files
