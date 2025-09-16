@@ -9918,3 +9918,4 @@
 0509. ♻️ chore: bump dependencies
 0622. 🎨 style: apply consistent indentation
 0041. 🐛 fix: fix broken CSS in mobile view
+0294. 🐛 fix: prevent crash on empty input
