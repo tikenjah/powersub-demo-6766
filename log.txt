@@ -5939,3 +5939,4 @@
 0922. 📚 docs: write FAQ section
 0442. 🎨 style: standardize quote style
 0474. ✅ test: add unit test for quiz service
+0113. ✨ feat: add user authentication
