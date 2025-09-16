@@ -8934,3 +8934,4 @@
 0108. 🎨 style: remove trailing whitespace
 0546. 🐛 fix: fix null pointer exception on login
 0618. ✨ feat: support email verification
+0227. ✅ test: test user registration edge cases
