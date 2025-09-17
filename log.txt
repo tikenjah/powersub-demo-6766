@@ -4666,3 +4666,4 @@
 0064. 📚 docs: clarify environment setup
 0492. 🎨 style: remove trailing whitespace
 0892. ✅ test: add unit test for quiz service
+0909. 🔧 refactor: organize models into subfolders
