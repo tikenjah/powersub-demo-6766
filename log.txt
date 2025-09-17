@@ -4649,3 +4649,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0293. ✅ test: add integration test for /submit endpoint
 0427. ✅ test: mock database connection in test suite
+0433. 🐛 fix: prevent crash on empty input
