@@ -4670,3 +4670,4 @@
 0521. 🎨 style: standardize quote style
 0182. 🔧 refactor: remove redundant code blocks
 0888. 🚀 perf: lazy-load components
+0573. ✅ test: add integration test for /submit endpoint
