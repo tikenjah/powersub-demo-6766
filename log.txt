@@ -4676,3 +4676,4 @@
 0333. 🚀 perf: cache repeated calculations
 0618. ✨ feat: support email verification
 0614. 🚀 perf: reduce image load time
+0836. 🚀 perf: optimize database query for quiz results
