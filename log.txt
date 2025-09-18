@@ -7937,3 +7937,4 @@
 0221. ✨ feat: add user authentication
 0611. ✅ test: test user registration edge cases
 0725. 🚀 perf: lazy-load components
+0118. 🚀 perf: reduce image load time
