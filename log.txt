@@ -8941,3 +8941,4 @@
 0204. 🎨 style: standardize quote style
 0435. ✅ test: add unit test for quiz service
 0626. 🎨 style: standardize quote style
+0053. ✅ test: increase coverage on auth module
