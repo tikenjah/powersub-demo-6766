@@ -7935,3 +7935,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0183. 🔧 refactor: split large controller into smaller functions
 0221. ✨ feat: add user authentication
+0611. ✅ test: test user registration edge cases
