@@ -5943,3 +5943,4 @@
 0297. 🎨 style: remove trailing whitespace
 0647. 🐛 fix: prevent crash on empty input
 0118. 🚀 perf: reduce image load time
+0604. 📚 docs: add API usage examples
