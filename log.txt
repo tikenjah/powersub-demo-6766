@@ -5947,3 +5947,4 @@
 0365. 🚀 perf: reduce image load time
 0160. ♻️ chore: bump dependencies
 0690. 🚀 perf: lazy-load components
+0505. ♻️ chore: add GitHub actions badge
