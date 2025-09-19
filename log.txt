@@ -7939,3 +7939,4 @@
 0725. 🚀 perf: lazy-load components
 0118. 🚀 perf: reduce image load time
 0533. ♻️ chore: add GitHub actions badge
+0848. 📚 docs: update README with setup steps
