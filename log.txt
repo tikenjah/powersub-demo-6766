@@ -4690,3 +4690,4 @@
 0971. 🎨 style: standardize quote style
 0287. 📚 docs: write FAQ section
 0638. 📚 docs: improve code comments in utils
+0422. 🔧 refactor: organize models into subfolders
