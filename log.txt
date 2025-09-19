@@ -8943,3 +8943,4 @@
 0626. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
 0458. ✨ feat: create admin dashboard
+0509. ♻️ chore: bump dependencies
