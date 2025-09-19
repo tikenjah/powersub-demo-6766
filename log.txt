@@ -6932,3 +6932,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0669. ✨ feat: enable dark mode toggle
 0554. 📚 docs: improve code comments in utils
+0793. 📚 docs: clarify environment setup
