@@ -4697,3 +4697,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0227. ✅ test: test user registration edge cases
 0825. 🔧 refactor: split large controller into smaller functions
+0308. 🚀 perf: reduce image load time
