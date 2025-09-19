@@ -7938,3 +7938,4 @@
 0611. ✅ test: test user registration edge cases
 0725. 🚀 perf: lazy-load components
 0118. 🚀 perf: reduce image load time
+0533. ♻️ chore: add GitHub actions badge
