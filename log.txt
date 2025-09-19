@@ -6934,3 +6934,4 @@
 0554. 📚 docs: improve code comments in utils
 0793. 📚 docs: clarify environment setup
 0298. ♻️ chore: update .gitignore
+0227. ✅ test: test user registration edge cases
