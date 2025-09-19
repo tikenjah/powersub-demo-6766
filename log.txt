@@ -4699,3 +4699,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0308. 🚀 perf: reduce image load time
 0397. 🐛 fix: handle 500 error in quiz API
+0711. 🐛 fix: fix broken CSS in mobile view
