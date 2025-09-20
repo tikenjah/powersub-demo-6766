@@ -8945,3 +8945,4 @@
 0458. ✨ feat: create admin dashboard
 0509. ♻️ chore: bump dependencies
 0090. ✅ test: increase coverage on auth module
+0602. 🔧 refactor: remove redundant code blocks
