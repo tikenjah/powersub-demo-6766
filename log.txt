@@ -6936,3 +6936,4 @@
 0298. ♻️ chore: update .gitignore
 0227. ✅ test: test user registration edge cases
 0062. ♻️ chore: update .gitignore
+0945. ♻️ chore: add GitHub actions badge
