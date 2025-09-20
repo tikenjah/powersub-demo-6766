@@ -4721,3 +4721,4 @@
 0411. ✅ test: add unit test for quiz service
 0004. 🚀 perf: optimize database query for quiz results
 0991. ♻️ chore: clean up unused files
+0429. ✨ feat: add user authentication
