@@ -4708,3 +4708,4 @@
 0724. ✅ test: mock database connection in test suite
 0247. 🎨 style: apply consistent indentation
 0429. ✨ feat: add user authentication
+0329. 📚 docs: update README with setup steps
