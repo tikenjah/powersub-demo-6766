@@ -4725,3 +4725,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0178. ✨ feat: support email verification
 0472. 🐛 fix: fix null pointer exception on login
+0240. 🔧 refactor: remove redundant code blocks
