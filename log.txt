@@ -7945,3 +7945,4 @@
 0583. ✅ test: increase coverage on auth module
 0145. 📚 docs: improve code comments in utils
 0425. 🔧 refactor: refactor quiz grading logic
+0781. 🚀 perf: reduce image load time
