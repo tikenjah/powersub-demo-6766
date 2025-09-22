@@ -7947,3 +7947,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0781. 🚀 perf: reduce image load time
 0784. ♻️ chore: clean up unused files
+0865. ♻️ chore: add GitHub actions badge
