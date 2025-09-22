@@ -10944,3 +10944,4 @@
 0123. ✨ feat: implement quiz timer feature
 0716. ✨ feat: implement quiz timer feature
 0846. ✨ feat: implement quiz timer feature
+0217. 🚀 perf: reduce image load time
