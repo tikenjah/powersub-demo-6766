@@ -8947,3 +8947,4 @@
 0090. ✅ test: increase coverage on auth module
 0602. 🔧 refactor: remove redundant code blocks
 0161. ✨ feat: create admin dashboard
+0041. 🐛 fix: fix broken CSS in mobile view
