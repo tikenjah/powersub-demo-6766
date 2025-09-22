@@ -4733,3 +4733,4 @@
 0741. 🎨 style: apply consistent indentation
 0481. ✅ test: add unit test for quiz service
 0129. 🔧 refactor: organize models into subfolders
+0567. 📚 docs: add API usage examples
