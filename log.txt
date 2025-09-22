@@ -6938,3 +6938,4 @@
 0062. ♻️ chore: update .gitignore
 0945. ♻️ chore: add GitHub actions badge
 0890. 🔧 refactor: organize models into subfolders
+0647. 🐛 fix: prevent crash on empty input
