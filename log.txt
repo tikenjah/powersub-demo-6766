@@ -9931,3 +9931,4 @@
 0847. ♻️ chore: clean up unused files
 0323. 📚 docs: clarify environment setup
 0846. ✨ feat: implement quiz timer feature
+0610. 🚀 perf: lazy-load components
