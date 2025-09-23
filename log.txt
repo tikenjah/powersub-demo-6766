@@ -5954,3 +5954,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0250. 📚 docs: update README with setup steps
 0119. 📚 docs: improve code comments in utils
+0305. ✨ feat: enable dark mode toggle
