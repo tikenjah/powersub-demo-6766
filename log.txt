@@ -10946,3 +10946,4 @@
 0846. ✨ feat: implement quiz timer feature
 0217. 🚀 perf: reduce image load time
 0158. 📚 docs: clarify environment setup
+0347. ♻️ chore: update .gitignore
