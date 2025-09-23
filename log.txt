@@ -4750,3 +4750,4 @@
 0799. ♻️ chore: clean up unused files
 0009. ✨ feat: enable dark mode toggle
 0421. 🔧 refactor: split large controller into smaller functions
+0609. 🐛 fix: handle 500 error in quiz API
