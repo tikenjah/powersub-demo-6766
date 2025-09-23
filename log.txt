@@ -10947,3 +10947,4 @@
 0217. 🚀 perf: reduce image load time
 0158. 📚 docs: clarify environment setup
 0347. ♻️ chore: update .gitignore
+0847. ♻️ chore: clean up unused files
