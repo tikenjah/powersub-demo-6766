@@ -4757,3 +4757,4 @@
 0406. ✨ feat: add export to CSV option
 0815. 🔧 refactor: split large controller into smaller functions
 0746. ♻️ chore: add GitHub actions badge
+0531. 🐛 fix: prevent crash on empty input
