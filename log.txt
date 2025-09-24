@@ -4767,3 +4767,4 @@
 0626. 🎨 style: standardize quote style
 0723. 🔧 refactor: remove redundant code blocks
 0916. ♻️ chore: bump dependencies
+0080. ✨ feat: support email verification
