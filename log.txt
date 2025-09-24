@@ -6945,3 +6945,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0369. 🎨 style: standardize quote style
 0663. 🚀 perf: reduce image load time
+0934. ✨ feat: support email verification
