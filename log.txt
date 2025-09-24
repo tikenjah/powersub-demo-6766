@@ -4776,3 +4776,4 @@
 0238. 🎨 style: apply consistent indentation
 0765. ♻️ chore: clean up unused files
 0144. ✅ test: increase coverage on auth module
+0499. 🎨 style: reformat files with black
