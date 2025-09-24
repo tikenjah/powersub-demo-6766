@@ -4771,3 +4771,4 @@
 0749. ✨ feat: support email verification
 0735. ♻️ chore: add GitHub actions badge
 0774. 🔧 refactor: refactor quiz grading logic
+0678. ✨ feat: add user authentication
