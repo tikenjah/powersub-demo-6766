@@ -4775,3 +4775,4 @@
 0482. ✨ feat: add export to CSV option
 0238. 🎨 style: apply consistent indentation
 0765. ♻️ chore: clean up unused files
+0144. ✅ test: increase coverage on auth module
