@@ -4778,3 +4778,4 @@
 0144. ✅ test: increase coverage on auth module
 0499. 🎨 style: reformat files with black
 0625. 🐛 fix: handle 500 error in quiz API
+0783. 🐛 fix: handle 500 error in quiz API
