@@ -4790,3 +4790,4 @@
 0440. 📚 docs: update README with setup steps
 0481. ✅ test: add unit test for quiz service
 0219. ✅ test: increase coverage on auth module
+0112. ✨ feat: enable dark mode toggle
