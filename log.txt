@@ -8953,3 +8953,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0162. ♻️ chore: add GitHub actions badge
 0175. 📚 docs: add API usage examples
+0747. 🔧 refactor: clean up auth middleware
