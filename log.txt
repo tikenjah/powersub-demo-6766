@@ -4783,3 +4783,4 @@
 0648. ♻️ chore: bump dependencies
 0569. 📚 docs: document token refresh logic
 0982. 🚀 perf: lazy-load components
+0167. 🚀 perf: reduce image load time
