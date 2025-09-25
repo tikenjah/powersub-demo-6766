@@ -6954,3 +6954,4 @@
 0034. 📚 docs: improve code comments in utils
 0777. 📚 docs: document token refresh logic
 0263. 📚 docs: add API usage examples
+0852. ✨ feat: enable dark mode toggle
