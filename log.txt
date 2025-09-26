@@ -4810,3 +4810,4 @@
 0169. 📚 docs: add API usage examples
 0984. ♻️ chore: clean up unused files
 0702. ✨ feat: add user authentication
+0627. 📚 docs: document token refresh logic
