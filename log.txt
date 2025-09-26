@@ -4794,3 +4794,4 @@
 0157. ✅ test: mock database connection in test suite
 0661. ✅ test: add integration test for /submit endpoint
 0642. 🚀 perf: optimize database query for quiz results
+0711. 🐛 fix: fix broken CSS in mobile view
