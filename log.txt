@@ -4806,3 +4806,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0253. 📚 docs: update README with setup steps
 0918. ✨ feat: enable dark mode toggle
+0915. 🚀 perf: cache repeated calculations
