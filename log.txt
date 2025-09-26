@@ -9946,3 +9946,4 @@
 0219. ✅ test: increase coverage on auth module
 0220. 🐛 fix: fix null pointer exception on login
 0646. ✅ test: test user registration edge cases
+0814. 🔧 refactor: remove redundant code blocks
