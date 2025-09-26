@@ -6957,3 +6957,4 @@
 0852. ✨ feat: enable dark mode toggle
 0607. 🐛 fix: prevent crash on empty input
 0739. 🎨 style: remove trailing whitespace
+0440. 📚 docs: update README with setup steps
