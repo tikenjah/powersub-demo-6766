@@ -6959,3 +6959,4 @@
 0739. 🎨 style: remove trailing whitespace
 0440. 📚 docs: update README with setup steps
 0594. 🎨 style: reformat files with black
+0224. 🐛 fix: fix broken CSS in mobile view
