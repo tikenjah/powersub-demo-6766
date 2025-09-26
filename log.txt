@@ -9947,3 +9947,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0646. ✅ test: test user registration edge cases
 0814. 🔧 refactor: remove redundant code blocks
+0825. 🔧 refactor: split large controller into smaller functions
