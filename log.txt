@@ -9949,3 +9949,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0825. 🔧 refactor: split large controller into smaller functions
 0473. 📚 docs: write FAQ section
+0611. ✅ test: test user registration edge cases
