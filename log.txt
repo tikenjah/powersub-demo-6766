@@ -4821,3 +4821,4 @@
 0237. 🎨 style: standardize quote style
 0193. 🚀 perf: optimize database query for quiz results
 0222. 🐛 fix: handle 500 error in quiz API
+0978. 🐛 fix: prevent crash on empty input
