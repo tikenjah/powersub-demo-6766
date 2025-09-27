@@ -6960,3 +6960,4 @@
 0440. 📚 docs: update README with setup steps
 0594. 🎨 style: reformat files with black
 0224. 🐛 fix: fix broken CSS in mobile view
+0472. 🐛 fix: fix null pointer exception on login
