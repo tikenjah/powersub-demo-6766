@@ -4823,3 +4823,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0978. 🐛 fix: prevent crash on empty input
 0855. 🎨 style: reformat files with black
+0097. 🐛 fix: handle 500 error in quiz API
