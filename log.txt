@@ -8956,3 +8956,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0278. 🔧 refactor: clean up auth middleware
 0178. ✨ feat: support email verification
+0818. 🔧 refactor: remove redundant code blocks
