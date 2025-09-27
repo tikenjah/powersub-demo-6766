@@ -4817,3 +4817,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0180. ✨ feat: add export to CSV option
 0085. ✨ feat: support email verification
+0083. 🎨 style: reformat files with black
