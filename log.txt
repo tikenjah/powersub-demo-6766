@@ -4837,3 +4837,4 @@
 0766. 🎨 style: reformat files with black
 0411. ✅ test: add unit test for quiz service
 0876. ♻️ chore: rename env.example
+0440. 📚 docs: update README with setup steps
