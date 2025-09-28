@@ -4827,3 +4827,4 @@
 0969. ✨ feat: create admin dashboard
 0111. 📚 docs: update README with setup steps
 0351. ✨ feat: add export to CSV option
+0159. 🚀 perf: lazy-load components
