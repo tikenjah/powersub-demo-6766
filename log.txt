@@ -8961,3 +8961,4 @@
 0979. 🎨 style: standardize quote style
 0336. ✨ feat: add export to CSV option
 0687. 🎨 style: remove trailing whitespace
+0895. ✨ feat: support email verification
