@@ -4839,3 +4839,4 @@
 0876. ♻️ chore: rename env.example
 0440. 📚 docs: update README with setup steps
 0103. 🔧 refactor: remove redundant code blocks
+0172. 📚 docs: add API usage examples
