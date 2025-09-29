@@ -10965,3 +10965,4 @@
 0027. 📚 docs: clarify environment setup
 0675. 🔧 refactor: organize models into subfolders
 0979. 🎨 style: standardize quote style
+0114. ♻️ chore: update .gitignore
