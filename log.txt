@@ -10964,3 +10964,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0027. 📚 docs: clarify environment setup
 0675. 🔧 refactor: organize models into subfolders
+0979. 🎨 style: standardize quote style
