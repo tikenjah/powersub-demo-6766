@@ -5972,3 +5972,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0049. 🐛 fix: handle 500 error in quiz API
 0169. 📚 docs: add API usage examples
+0727. ♻️ chore: add GitHub actions badge
