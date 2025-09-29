@@ -7966,3 +7966,4 @@
 0662. ♻️ chore: clean up unused files
 0687. 🎨 style: remove trailing whitespace
 0037. 🐛 fix: correct typo in registration form
+0573. ✅ test: add integration test for /submit endpoint
