@@ -8963,3 +8963,4 @@
 0687. 🎨 style: remove trailing whitespace
 0895. ✨ feat: support email verification
 0527. 🎨 style: remove trailing whitespace
+0300. ✨ feat: add export to CSV option
