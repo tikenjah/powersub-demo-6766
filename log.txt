@@ -5974,3 +5974,4 @@
 0169. 📚 docs: add API usage examples
 0727. ♻️ chore: add GitHub actions badge
 0507. 🔧 refactor: clean up auth middleware
+0725. 🚀 perf: lazy-load components
