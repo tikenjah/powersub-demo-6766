@@ -10969,3 +10969,4 @@
 0101. 📚 docs: clarify environment setup
 0990. ♻️ chore: rename env.example
 0892. ✅ test: add unit test for quiz service
+0006. 🐛 fix: prevent crash on empty input
