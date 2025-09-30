@@ -10967,3 +10967,4 @@
 0979. 🎨 style: standardize quote style
 0114. ♻️ chore: update .gitignore
 0101. 📚 docs: clarify environment setup
+0990. ♻️ chore: rename env.example
