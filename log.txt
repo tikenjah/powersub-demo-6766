@@ -4861,3 +4861,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0328. 🐛 fix: resolve issue with date parsing
 0963. 🚀 perf: reduce image load time
+0790. 📚 docs: write FAQ section
