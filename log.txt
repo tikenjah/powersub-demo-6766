@@ -4856,3 +4856,4 @@
 0376. 🎨 style: apply consistent indentation
 0393. 🚀 perf: lazy-load components
 0212. 🎨 style: standardize quote style
+0569. 📚 docs: document token refresh logic
