@@ -10972,3 +10972,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0061. ✨ feat: create admin dashboard
 0169. 📚 docs: add API usage examples
+0375. 🐛 fix: handle 500 error in quiz API
