@@ -6970,3 +6970,4 @@
 0087. ✨ feat: add export to CSV option
 0363. 📚 docs: clarify environment setup
 0991. ♻️ chore: clean up unused files
+0669. ✨ feat: enable dark mode toggle
