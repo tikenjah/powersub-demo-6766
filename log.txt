@@ -10973,3 +10973,4 @@
 0061. ✨ feat: create admin dashboard
 0169. 📚 docs: add API usage examples
 0375. 🐛 fix: handle 500 error in quiz API
+0170. ✅ test: increase coverage on auth module
