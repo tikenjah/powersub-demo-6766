@@ -7973,3 +7973,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0058. ♻️ chore: add GitHub actions badge
 0196. ♻️ chore: bump dependencies
+0745. ✅ test: add unit test for quiz service
