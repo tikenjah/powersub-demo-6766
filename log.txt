@@ -4875,3 +4875,4 @@
 0275. 🎨 style: standardize quote style
 0457. 🐛 fix: handle 500 error in quiz API
 0315. ✅ test: add integration test for /submit endpoint
+0672. 🐛 fix: fix broken CSS in mobile view
