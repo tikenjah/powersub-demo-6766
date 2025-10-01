@@ -9964,3 +9964,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0178. ✨ feat: support email verification
 0308. 🚀 perf: reduce image load time
+0624. ✅ test: add unit test for quiz service
