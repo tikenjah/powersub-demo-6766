@@ -4866,3 +4866,4 @@
 0709. ♻️ chore: bump dependencies
 0024. 📚 docs: write FAQ section
 0646. ✅ test: test user registration edge cases
+0935. 📚 docs: update README with setup steps
