@@ -4889,3 +4889,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0251. ♻️ chore: update .gitignore
 0978. 🐛 fix: prevent crash on empty input
+0604. 📚 docs: add API usage examples
