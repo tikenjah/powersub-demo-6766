@@ -4881,3 +4881,4 @@
 0187. ✨ feat: support email verification
 0862. ♻️ chore: bump dependencies
 0420. 🚀 perf: reduce image load time
+0893. 🐛 fix: handle 500 error in quiz API
