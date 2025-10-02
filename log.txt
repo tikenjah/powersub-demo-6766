@@ -4894,3 +4894,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0845. 🚀 perf: cache repeated calculations
 0733. 🐛 fix: fix null pointer exception on login
+0033. 🎨 style: apply consistent indentation
