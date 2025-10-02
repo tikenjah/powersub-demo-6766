@@ -9967,3 +9967,4 @@
 0624. ✅ test: add unit test for quiz service
 0778. 📚 docs: write FAQ section
 0408. ♻️ chore: add GitHub actions badge
+0982. 🚀 perf: lazy-load components
