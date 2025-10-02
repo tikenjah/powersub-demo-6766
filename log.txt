@@ -9966,3 +9966,4 @@
 0308. 🚀 perf: reduce image load time
 0624. ✅ test: add unit test for quiz service
 0778. 📚 docs: write FAQ section
+0408. ♻️ chore: add GitHub actions badge
