@@ -7977,3 +7977,4 @@
 0626. 🎨 style: standardize quote style
 0553. 🐛 fix: correct typo in registration form
 0630. 🚀 perf: lazy-load components
+0920. 🔧 refactor: organize models into subfolders
