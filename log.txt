@@ -7975,3 +7975,4 @@
 0196. ♻️ chore: bump dependencies
 0745. ✅ test: add unit test for quiz service
 0626. 🎨 style: standardize quote style
+0553. 🐛 fix: correct typo in registration form
