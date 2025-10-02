@@ -4884,3 +4884,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0745. ✅ test: add unit test for quiz service
 0568. 🐛 fix: handle 500 error in quiz API
+0575. ✅ test: add unit test for quiz service
