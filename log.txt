@@ -9965,3 +9965,4 @@
 0178. ✨ feat: support email verification
 0308. 🚀 perf: reduce image load time
 0624. ✅ test: add unit test for quiz service
+0778. 📚 docs: write FAQ section
