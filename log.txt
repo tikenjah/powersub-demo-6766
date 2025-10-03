@@ -7982,3 +7982,4 @@
 0424. ✨ feat: add user authentication
 0168. ✅ test: add integration test for /submit endpoint
 0741. 🎨 style: apply consistent indentation
+0713. 🐛 fix: handle 500 error in quiz API
