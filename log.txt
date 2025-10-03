@@ -4901,3 +4901,4 @@
 0712. 🎨 style: apply consistent indentation
 0025. 🚀 perf: optimize database query for quiz results
 0500. ✅ test: add integration test for /submit endpoint
+0519. 📚 docs: document token refresh logic
