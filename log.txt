@@ -6975,3 +6975,4 @@
 0844. 📚 docs: update README with setup steps
 0285. 🐛 fix: resolve issue with date parsing
 0241. 📚 docs: add API usage examples
+0538. 🐛 fix: fix broken CSS in mobile view
