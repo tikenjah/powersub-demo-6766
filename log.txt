@@ -6977,3 +6977,4 @@
 0241. 📚 docs: add API usage examples
 0538. 🐛 fix: fix broken CSS in mobile view
 0847. ♻️ chore: clean up unused files
+0990. ♻️ chore: rename env.example
