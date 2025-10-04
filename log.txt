@@ -5983,3 +5983,4 @@
 0931. 🚀 perf: reduce image load time
 0630. 🚀 perf: lazy-load components
 0682. ♻️ chore: rename env.example
+0980. 🎨 style: reformat files with black
