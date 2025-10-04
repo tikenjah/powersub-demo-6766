@@ -6979,3 +6979,4 @@
 0847. ♻️ chore: clean up unused files
 0990. ♻️ chore: rename env.example
 0853. 🔧 refactor: refactor quiz grading logic
+0338. ♻️ chore: add GitHub actions badge
