@@ -4909,3 +4909,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0758. 🚀 perf: optimize database query for quiz results
 0493. ✨ feat: add user authentication
+0618. ✨ feat: support email verification
