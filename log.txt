@@ -5984,3 +5984,4 @@
 0630. 🚀 perf: lazy-load components
 0682. ♻️ chore: rename env.example
 0980. 🎨 style: reformat files with black
+0158. 📚 docs: clarify environment setup
