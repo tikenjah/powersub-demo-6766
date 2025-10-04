@@ -10979,3 +10979,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0158. 📚 docs: clarify environment setup
 0591. ♻️ chore: clean up unused files
+0003. ✅ test: increase coverage on auth module
