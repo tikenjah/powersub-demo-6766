@@ -8979,3 +8979,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0911. ✅ test: increase coverage on auth module
 0563. 📚 docs: clarify environment setup
+0531. 🐛 fix: prevent crash on empty input
