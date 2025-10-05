@@ -4924,3 +4924,4 @@
 0281. ✨ feat: support email verification
 0537. 🔧 refactor: remove redundant code blocks
 0094. 📚 docs: document token refresh logic
+0186. ✅ test: test user registration edge cases
