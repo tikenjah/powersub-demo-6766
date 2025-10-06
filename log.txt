@@ -4934,3 +4934,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0358. 🚀 perf: reduce image load time
 0918. ✨ feat: enable dark mode toggle
+0109. 🚀 perf: lazy-load components
