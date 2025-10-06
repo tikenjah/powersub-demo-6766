@@ -8982,3 +8982,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0265. 🎨 style: reformat files with black
 0255. 🔧 refactor: refactor quiz grading logic
+0475. 🔧 refactor: clean up auth middleware
