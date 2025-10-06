@@ -5987,3 +5987,4 @@
 0158. 📚 docs: clarify environment setup
 0424. ✨ feat: add user authentication
 0240. 🔧 refactor: remove redundant code blocks
+0315. ✅ test: add integration test for /submit endpoint
