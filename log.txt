@@ -10984,3 +10984,4 @@
 0837. 🚀 perf: cache repeated calculations
 0190. 🎨 style: rename variables for clarity
 0076. 🎨 style: reformat files with black
+0281. ✨ feat: support email verification
