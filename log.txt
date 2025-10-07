@@ -4949,3 +4949,4 @@
 0463. 🚀 perf: reduce image load time
 0599. ✅ test: test user registration edge cases
 0820. 📚 docs: add API usage examples
+0249. ✅ test: increase coverage on auth module
