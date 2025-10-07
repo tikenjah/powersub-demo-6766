@@ -6988,3 +6988,4 @@
 0716. ✨ feat: implement quiz timer feature
 0910. 🎨 style: remove trailing whitespace
 0139. 📚 docs: document token refresh logic
+0159. 🚀 perf: lazy-load components
