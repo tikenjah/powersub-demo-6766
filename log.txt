@@ -8990,3 +8990,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0907. 🔧 refactor: split large controller into smaller functions
 0641. 📚 docs: write FAQ section
+0023. 📚 docs: clarify environment setup
