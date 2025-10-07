@@ -4952,3 +4952,4 @@
 0249. ✅ test: increase coverage on auth module
 0918. ✨ feat: enable dark mode toggle
 0374. 🎨 style: standardize quote style
+0448. 🐛 fix: correct typo in registration form
