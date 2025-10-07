@@ -4947,3 +4947,4 @@
 0064. 📚 docs: clarify environment setup
 0663. 🚀 perf: reduce image load time
 0463. 🚀 perf: reduce image load time
+0599. ✅ test: test user registration edge cases
