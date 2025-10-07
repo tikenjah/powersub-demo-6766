@@ -4951,3 +4951,4 @@
 0820. 📚 docs: add API usage examples
 0249. ✅ test: increase coverage on auth module
 0918. ✨ feat: enable dark mode toggle
+0374. 🎨 style: standardize quote style
