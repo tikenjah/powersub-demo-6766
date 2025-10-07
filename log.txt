@@ -9986,3 +9986,4 @@
 0013. ✅ test: increase coverage on auth module
 0837. 🚀 perf: cache repeated calculations
 0257. 📚 docs: clarify environment setup
+0251. ♻️ chore: update .gitignore
