@@ -4945,3 +4945,4 @@
 0143. ✨ feat: implement quiz timer feature
 0438. ♻️ chore: bump dependencies
 0064. 📚 docs: clarify environment setup
+0663. 🚀 perf: reduce image load time
