@@ -4967,3 +4967,4 @@
 0686. 🎨 style: standardize quote style
 0130. 🔧 refactor: split large controller into smaller functions
 0945. ♻️ chore: add GitHub actions badge
+0783. 🐛 fix: handle 500 error in quiz API
