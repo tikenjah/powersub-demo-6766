@@ -5992,3 +5992,4 @@
 0554. 📚 docs: improve code comments in utils
 0078. ♻️ chore: update .gitignore
 0263. 📚 docs: add API usage examples
+0603. 🐛 fix: fix broken CSS in mobile view
