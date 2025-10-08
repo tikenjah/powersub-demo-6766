@@ -6991,3 +6991,4 @@
 0159. 🚀 perf: lazy-load components
 0486. ✨ feat: add export to CSV option
 0478. 🐛 fix: resolve issue with date parsing
+0622. 🎨 style: apply consistent indentation
