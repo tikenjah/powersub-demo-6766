@@ -4958,3 +4958,4 @@
 0528. ♻️ chore: clean up unused files
 0377. ✨ feat: add user authentication
 0412. ✅ test: increase coverage on auth module
+0947. 📚 docs: write FAQ section
