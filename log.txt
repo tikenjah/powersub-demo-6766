@@ -4970,3 +4970,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0085. ✨ feat: support email verification
 0050. ✨ feat: enable dark mode toggle
+0863. 🐛 fix: correct typo in registration form
