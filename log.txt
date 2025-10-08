@@ -4969,3 +4969,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0783. 🐛 fix: handle 500 error in quiz API
 0085. ✨ feat: support email verification
+0050. ✨ feat: enable dark mode toggle
