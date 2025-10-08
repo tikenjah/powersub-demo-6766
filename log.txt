@@ -5993,3 +5993,4 @@
 0078. ♻️ chore: update .gitignore
 0263. 📚 docs: add API usage examples
 0603. 🐛 fix: fix broken CSS in mobile view
+0797. 📚 docs: add API usage examples
