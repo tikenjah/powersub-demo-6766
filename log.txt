@@ -4961,3 +4961,4 @@
 0947. 📚 docs: write FAQ section
 0044. ✅ test: add unit test for quiz service
 0128. ♻️ chore: rename env.example
+0371. ✅ test: add integration test for /submit endpoint
