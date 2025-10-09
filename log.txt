@@ -4971,3 +4971,4 @@
 0085. ✨ feat: support email verification
 0050. ✨ feat: enable dark mode toggle
 0863. 🐛 fix: correct typo in registration form
+0894. ✅ test: add integration test for /submit endpoint
