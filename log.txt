@@ -10992,3 +10992,4 @@
 0742. 📚 docs: clarify environment setup
 0665. ♻️ chore: update .gitignore
 0024. 📚 docs: write FAQ section
+0896. 🚀 perf: reduce image load time
