@@ -9988,3 +9988,4 @@
 0257. 📚 docs: clarify environment setup
 0251. ♻️ chore: update .gitignore
 0875. ✅ test: increase coverage on auth module
+0368. 🚀 perf: lazy-load components
