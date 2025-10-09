@@ -10989,3 +10989,4 @@
 0521. 🎨 style: standardize quote style
 0060. ♻️ chore: clean up unused files
 0250. 📚 docs: update README with setup steps
+0742. 📚 docs: clarify environment setup
