@@ -8992,3 +8992,4 @@
 0641. 📚 docs: write FAQ section
 0023. 📚 docs: clarify environment setup
 0998. 🐛 fix: fix null pointer exception on login
+0367. 🐛 fix: fix null pointer exception on login
