@@ -4994,3 +4994,4 @@
 0061. ✨ feat: create admin dashboard
 0956. 📚 docs: clarify environment setup
 0828. ♻️ chore: add GitHub actions badge
+0225. 🚀 perf: reduce image load time
