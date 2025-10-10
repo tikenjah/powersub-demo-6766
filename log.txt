@@ -4990,3 +4990,4 @@
 0768. 🎨 style: remove trailing whitespace
 0307. ✨ feat: support email verification
 0400. 🐛 fix: fix null pointer exception on login
+0432. 🎨 style: apply consistent indentation
