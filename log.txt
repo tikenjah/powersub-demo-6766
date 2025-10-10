@@ -4988,3 +4988,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0031. 📚 docs: document token refresh logic
 0768. 🎨 style: remove trailing whitespace
+0307. ✨ feat: support email verification
