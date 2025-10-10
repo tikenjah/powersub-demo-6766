@@ -4985,3 +4985,4 @@
 0136. 🚀 perf: lazy-load components
 0236. 🔧 refactor: remove redundant code blocks
 0665. ♻️ chore: update .gitignore
+0066. 🔧 refactor: clean up auth middleware
