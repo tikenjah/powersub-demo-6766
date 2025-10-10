@@ -4992,3 +4992,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0432. 🎨 style: apply consistent indentation
 0061. ✨ feat: create admin dashboard
+0956. 📚 docs: clarify environment setup
