@@ -4996,3 +4996,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0225. 🚀 perf: reduce image load time
 0122. ✨ feat: support email verification
+0757. 🔧 refactor: remove redundant code blocks
