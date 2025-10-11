@@ -9995,3 +9995,4 @@
 0618. ✨ feat: support email verification
 0260. ✨ feat: create admin dashboard
 0272. 🔧 refactor: remove redundant code blocks
+0522. 🐛 fix: handle 500 error in quiz API
