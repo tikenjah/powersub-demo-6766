@@ -10996,3 +10996,4 @@
 0916. ♻️ chore: bump dependencies
 0432. 🎨 style: apply consistent indentation
 0718. 🐛 fix: resolve issue with date parsing
+0967. ♻️ chore: add GitHub actions badge
